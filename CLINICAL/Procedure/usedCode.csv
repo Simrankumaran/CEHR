@@ -1,0 +1,1001 @@
+Code	Display	Definition
+156009	Spine board	
+271003	Bone plate	
+287000	Air receiver	
+291005	Atomizer	
+678001	Epilator	
+739006	Bicycle ergometer	
+793009	Mechanical power press	
+882002	Diagnostic implant	
+972002	Air filter, device	
+989005	Linen cloth	
+994005	Brush, device	
+1211003	Treadmill, device	
+1333003	Emesis basin, device	
+1422002	Plastic mold, device	
+1579007	Surgical drill, device	
+1766001	Toboggan, device	
+1941006	Silk cloth	
+1962007	Dike, device	
+2248009	Tracheal tube cuff	
+2282003	Breast implant	
+2287009	Nail file, device	
+2468001	Breath analyzer, device	
+2478003	Ocular prosthesis	
+2491002	Intra-aortic balloon catheter, device	
+3201004	Tent, device	
+3319006	Artificial liver, device	
+4408003	Endoscopic camera, device	
+4632004	Hair cloth	
+4816004	Metal device	
+5041003	Adhesive strip, device	
+5042005	Patient scale, device	
+5159002	Physiologic monitoring system, device	
+5679009	Bed sheet	
+6012004	Hearing aid	
+6097006	T-tube	
+6822006	Microwave oven	
+6919005	Protective clothing material	
+6972009	Lithotripter	
+7007007	Radiographic-fluoroscopic unit	
+7402007	Probe	
+7406005	Crib	
+7704007	Stabilizing appliance	
+7733008	Hydrocephalic shunt catheter	
+7968002	Three-wheeled all-terrain vehicle	
+7971005	Fogarty catheter	
+8060009	Denture	
+8118007	Crane	
+8170008	Adhesive	
+8384009	Band saw	
+8407004	Bile collection bag	
+8434001	Gaol	
+8451008	Intramedullary nail	
+8615009	Blood electrolyte analyzer	
+8643000	Mortising machine	
+8682003	Protective shield	
+9017009	Ventricular intracranial catheter	
+9096001	Support	
+9129003	Feeding catheter	
+9419002	Bobsled	
+9458007	Elastic bandage	
+9611009	Dermatotome	
+9883003	Cargo handling gear	
+10244001	Needle guide	
+10371004	Electrostimulating analgesia unit	
+10507000	Toeboard	
+10826000	Industrial saw	
+10850003	Radiographic-therapeutic unit	
+10906003	Vein stripper	
+11141007	Bone growth stimulator	
+11158002	Electromyographic monitor and recorder	
+11358008	Prosthetic valve	
+11987000	Clinical chemistry analyzer	
+12150006	Cannula	
+12183004	Upper limb prosthesis	
+12198002	Ice skate	
+12953007	File	
+13118005	Wool cloth	
+13219008	Gastroscope	
+13288007	Monitors	
+13459008	Temporary artificial heart prosthesis	
+13764006	Uterine sound	
+13855007	Pillow	
+13905003	Tennis ball	
+14106009	Cardiac pacemaker implant	
+14108005	Cage	
+14116001	Analgesia unit	
+14208000	Oil well	
+14288003	Nasal septum button	
+14339000	Button	
+14364002	Camera	
+14423008	Adhesive bandage	
+14519003	Aspirator	
+14548009	Harrington rod	
+14762000	Alloy steel chain sling	
+14789005	Prosthetic implant	
+15000008	Air-conditioner	
+15340005	Wood's light	
+15447007	Arthroplasty prosthesis	
+15644007	Anesthesia unit	
+15869005	Dosimeter, device	
+15873008	Boiler, device	
+15922004	Gown, device	
+16056004	Boots	
+16349000	Orthopedic equipment	
+16417001	Commercial breathing supply hoses diving operation, device	
+16470007	Electrode, device	
+16497000	Electric clipper, device	
+16524003	Cotton cloth	
+16540000	Umbrella catheter, device	
+16650009	Splint, device	
+17102003	NG - Nasogastric tube	
+17107009	Prosthetic mitral valve	
+17207004	Mattress, device	
+17306006	Hernia belt, device	
+17404008	Cardiac compression board, device	
+17472008	Knife, device	
+18151003	Punch, device	
+18153000	Fluorescence immunoassay analyzer, device	
+18411005	Chisel, device	
+18666004	Finespun glass	
+19257004	Defibrillator, device	
+19328000	Blanket, device	
+19443004	Radioactive implant, device	
+19627002	Leather	
+19762002	Leather belt	
+19817005	Fan blade, device	
+19892000	Scale, device	
+19923001	Catheter, device	
+20195009	Leg prosthesis, device	
+20235003	Toothbrush, device	
+20273004	Industrial machine, device	
+20359006	Contraceptive diaphragm, device	
+20406008	Back rests, device	
+20428008	Oxygen tent, device	
+20513005	Power tool, device	
+20568009	Urinary catheter, device	
+20613002	Cystoscope, device	
+20861007	Plug pack, device	
+20867006	Experimental implant, device	
+20873007	Plastic cloth-like material	
+20997002	Hand tool, device	
+21079000	Carbon monoxide analyzer, device	
+21546008	Icebox	
+21870002	Transluminal extraction catheter, device	
+21944004	Abdominal binder, device	
+22251003	Timer, device	
+22283009	Artificial membrane, device	
+22566001	Cytology brush, device	
+22662007	Retaining harness, device	
+22679001	Handcuffs, device	
+22744006	Artificial hair wig, device	
+22852002	Therapeutic implant, device	
+23228005	Arthroscope, device	
+23366006	Motorized wheelchair device	
+23699001	Baseball, device	
+23785007	Arthroscopic irrigation/distension pump, device	
+23973005	Indwelling urinary catheter, device	
+24073000	Mechanical cardiac valve prosthesis	
+24110008	Anoscope, device	
+24174009	Bronchoscope, device	
+24230000	Vibrator, device	
+24290003	Cardiac valve bioprosthesis	
+24402003	Stepladder, device	
+24470005	Wrench, device	
+24513003	Plastic boots	
+24697008	Ostomy belt, device	
+24767007	Eustachian tube prosthesis, device	
+25005004	Snare, device	
+25062003	Feeding tube, device	
+25152007	Squeeze cage, device	
+25510005	Heart valve prosthesis	
+25632005	Hockey puck, device	
+25680008	Scaffold, device	
+25742001	Orthodontic appliance, device	
+25937001	Neurostimulation device	
+26128008	Bougie, device	
+26239002	Soccer ball, device	
+26334009	Dockboard, device	
+26397000	Reservoir bag	
+26412008	ET - Endotracheal tube	
+26579007	Holter valve, device	
+26719000	Celestin tube, device	
+26882005	Rongeur, device	
+27042007	Needle adapter, device	
+27065002	Suture	
+27091001	Dumbwaiter, device	
+27126002	Power belt, device	
+27229001	Spray booth, device	
+27606000	Dental prosthesis, device	
+27785006	Athletic supporter, device	
+27812008	Electric heating pad, device	
+27976001	Woodworking machinery, device	
+27991004	Thermometer, device	
+28026003	Hairbrush, device	
+29292008	Fur garment	
+29319002	Forceps, device	
+29396008	Resuscitator, device	
+30012001	Elevator, device	
+30070001	Multistage suspension scaffolding, device	
+30115002	Shield, device	
+30176005	Baseball bat, device	
+30234008	Medical laboratory analyzer, device	
+30610008	Epidural catheter, device	
+30661003	Cosmetic prosthesis, device	
+30929000	Ligator, device	
+30968007	Drainage bag, device	
+31030004	Peritoneal catheter, device	
+31031000	Internal fixator	
+31174004	Lumbosacral belt, device	
+31791005	Traction belt, device	
+31878003	Surgical scissors, device	
+32033000	Arterial pressure monitor, device	
+32356002	Machine guarding, device	
+32504006	Screwdriver, device	
+32634007	Fixed ladder, device	
+32667006	Oral airway	
+32711007	Ostomy collection bag, device	
+32712000	Drain, device	
+32871007	Tweezer, device	
+33194000	Welding equipment, device	
+33352006	Ax, device	
+33388001	Carbon dioxide analyzer, device	
+33482001	Rubber boots	
+33686008	Stylet, device	
+33690005	Sharp instrument, device	
+33802005	Enema bag, device	
+33894003	Experimental device	
+33918000	Rubberized cloth	
+34164001	POP - Plaster of Paris cast	
+34188004	Straightjacket, device	
+34234003	Plastic tube, device	
+34263000	Medical balloon, device	
+34362008	Vascular device	
+34759008	Urethral catheter, device	
+35398009	Ostomy appliance, device	
+35593004	Wire ligature, device	
+35870000	Cerebrospinal catheter, device	
+36365007	Ice-pick, device	
+36370000	Aspirator trap bottle, device	
+36645008	Stimulator, device	
+36761001	Natural hair wig, device	
+36965003	Hemodialysis machine, device	
+36977008	Peripheral nerve stimulator	
+37189001	Magnetic detector, device	
+37270008	Endoscope, device	
+37284003	Bag, device	
+37311003	Stone retrieval basket, device	
+37347002	Dildo, device	
+37360008	Patient isolator, device	
+37503007	Protective blind, device	
+37759000	Surgical instrument, device	
+37874008	Continuing positive airway pressure unit, device	
+37953008	Bedside rails, device	
+38126007	Protective lenses	
+38141007	Tourniquet, device	
+38277008	Protective device	
+38806006	Hockey stick, device	
+38862006	Sheet metal bending equipment	
+38871002	Metallic cloth	
+39590006	Air compressor, device	
+39690000	Sphygmomanometer, device	
+39768008	Rasp, device	
+39790008	Non-electric heating pad, device	
+39802000	Tongue blade, device	
+39821008	Positron emission tomography unit, device	
+39849001	Nasal oxygen cannula	
+39869006	Alarm, device	
+40388003	Biomedical implant	
+40519001	Binder, device	
+41157002	Orthopedic immobilizer	
+41323003	Urinary collection bag, device	
+41525006	Artificial structure, device	
+41684000	Industrial tool, device	
+42152006	Metal tube, device	
+42305009	Ambulation device	
+42380001	Ear plug, device	
+42451009	Blood warmer, device	
+42716000	Wool	
+42882002	Hypodermic spray, device	
+43001000	Phlebotomy kit, device	
+43192004	Bone pencil, device	
+43252007	Cochlear implant	
+43725001	Airway equipment	
+43734006	Blood administration set, device	
+43770009	Doppler device	
+43983001	Shoes	
+44056008	Caliper, device	
+44396004	Magnet, device	
+44492001	Industrial robot, device	
+44668000	Pump, device	
+44738004	Laryngoscope, device	
+44806002	Esophageal bougie, device	
+44845007	Golf ball, device	
+44907005	Four-wheeled all-terrain vehicle, device	
+44959004	Angioplasty balloon catheter, device	
+45633005	Peritoneal dialyzer, device	
+45901004	Penrose drain, device	
+46181005	Automatic fire extinguisher system, device	
+46265007	Artificial lashes, device	
+46299005	Sanitary belt, device	
+46364009	Clamp, device	
+46440007	Basketball, device	
+46625003	Suppository	
+46666003	Chain, device	
+46949002	Deck machinery, device	
+47162009	Mirror, device	
+47326004	Electrical utilization equipment, device	
+47424002	Apgar scoring timer, device	
+47528002	Ureteric catheter	
+47731004	Birthing chair, device	
+47734007	Chromic catgut suture	
+47776004	Mittens	
+47942000	Proctoscope, device	
+48066006	Circular portable saw, device	
+48096001	Bathtub rails, device	
+48240003	Training equipment, device	
+48246009	Studgun, device	
+48295009	Vascular filter, device	
+48473008	Protective body armor, device	
+48822005	Bilirubin light, device	
+48990009	Strap, device	
+49448001	Razor, device	
+49890001	Hospital cart, device	
+50121007	Glasses	
+50457005	Workover rig service to oil well, device	
+50483000	Oil rig	
+50851003	Penile tumescence monitor, device	
+51016001	Hammer, device	
+51086006	Shower curtain, device	
+51324004	Stripper, device	
+51685009	Roller skate, device	
+51791000	Measuring tape, device	
+51832004	Valved tube, device	
+51883004	Sling, device	
+52124006	Central line	
+52161002	Molten lava	
+52291003	Gloves	
+52520009	Ladder, device	
+52537002	Aspirator collection canister, device	
+52624007	Radiofrequency generator, device	
+52773007	Ski, device	
+52809000	Nasopharyngeal catheter, device	
+52893008	Blood gas/pH analyzer, device	
+53167006	Platform suspended boom, device	
+53177008	Nasal balloon, device	
+53217009	Artificial lung, device	
+53350007	Prosthesis, device	
+53535004	Retractor, device	
+53639001	Stethoscope, device	
+53671008	Gastric balloon, device	
+53996008	Penile prosthesis, device	
+54234007	Cryogenic analgesia unit, device	
+54638004	Towel, device	
+54953005	Computerized axial tomography scanner, device	
+55091003	Blood coagulation analyzer, device	
+55206006	Suture button, device	
+55216003	Amnioscope, device	
+55337009	Auscultoscope, device	
+55567004	Bassinet, device	
+55658008	Hot object	
+55986002	Tong, device	
+56144002	Back braces, device	
+56353002	Staple, device	
+56547001	Trephine, device	
+56896002	Pacemaker catheter, device	
+56961003	Cardiac transvenous pacemaker, device	
+57118008	Perfusion pump, device	
+57134006	Clinical instrument	
+57368009	Contact lens	
+57395004	Physical restraint equipment, device	
+57730005	Abrasive grinding, device	
+58153004	Android, device	
+58253008	Suction catheter, device	
+58514003	Infant scale, device	
+58878002	Protective vest, device	
+58938008	WC - Wheelchair	
+59102007	Ice bag, device	
+59127000	Apnea alarm, device	
+59153008	Barge, device	
+59160002	Chipguard, device	
+59181002	Oxygen analyzer, device	
+59432006	Ligature, device	
+59746007	Needle holder, device	
+59772003	Culdoscope, device	
+59782002	Speculum, device	
+59833007	Collapsible balloon, device	
+60054005	SB - Seat belt	
+60110001	Wig, device	
+60150003	Skipole, device	
+60161006	Acupuncture needle, device	
+60185003	Carbon dioxide absorber, device	
+60311007	Leather boots	
+60773001	Injector	
+60806001	Whirlpool bath	
+60957001	Otoscope	
+61330002	Nasopharyngeal airway device	
+61512008	Tennis racket	
+61835000	Dilator	
+61968008	Syringe	
+61979003	Antiembolic device	
+62336005	Electric cable	
+62495008	Gamma counter	
+62614002	Overhead and gantry crane	
+62980002	Tubular bandage	
+63112008	Bone wire	
+63173005	Hat band	
+63289001	Metal nail	
+63336000	Bone plug	
+63548003	Derrick	
+63562005	Cervical collar	
+63619003	Fiberoptic cable	
+63653004	Medical device	
+63797009	Traction unit	
+63839002	Electroejaculator	
+63995005	Bandage	
+64174005	Snowmobile	
+64255007	Esophageal balloon	
+64565002	Air tool	
+64571008	Hair clipper	
+64883003	Inhalation analgesia unit	
+64973003	Scissors	
+64989000	Escalator	
+65053001	Electrical battery	
+65105002	Surgical drapes	
+65268008	Chart recorder	
+65473004	Microscope	
+65577000	X-ray shield	
+65818007	Stent	
+66222000	Hospital robot	
+66415006	Audiometric testing equipment	
+66435007	Electric bed	
+66494009	Face cloth	
+67270000	Hip prosthesis	
+67387001	Coronary perfusion catheter	
+67670006	Radiographic-tomographic unit	
+67777003	Moving walk	
+67829007	Esophagoscope	
+67920005	Aerial lift	
+67966000	Enema tube	
+68080007	Radiographic unit	
+68181008	Vibrating electric heating pad	
+68183006	Bone screw	
+68276009	Bottle	
+68325009	Sound	
+68597009	Support belt	
+68685003	Household robot	
+68842005	Gastroduodenoscope	
+69670004	Patient utensil kit	
+69805005	Insulin pump	
+69922008	Tracheostomy button	
+70080007	Bayonet	
+70300000	Skull tongs	
+70303003	Freezer	
+70453008	Sled	
+70665002	Blood pressure cuff	
+70793005	Recreation equipment	
+70872004	Wash basin	
+71384000	Warmer	
+71483007	Diving stage	
+71545009	Humidifier	
+71601002	Proctosigmoidoscope	
+71667001	Bone wax	
+71948003	Autoclave	
+72070000	Ring	
+72188006	Tissue expander	
+72302000	Lead cable	
+72506001	Implantable defibrillator	
+72742007	Aspirator collection bottle	
+73027007	Infant incubator	
+73534004	Artificial skin	
+73562006	Transilluminator	
+73571002	Intravenous analgesia unit	
+73618007	Power saw	
+73878004	Hand saw	
+73985004	Face protection in construction industry	
+74094004	Belt	
+74108008	Recorder	
+74300007	Sanitary pad	
+74444006	AL - Artificial limb	
+74566002	Crutch	
+74884005	Boatswain's chair	
+75075000	Shoring and bracing (masonry and woodwork)	
+75187009	Local anesthesia kit	
+75192006	Arterial cannula	
+75751006	Manual respirator	
+75780002	Artificial kidney	
+75963008	Skateboard	
+76091005	Stainless steel wire suture	
+76123001	Glass tube	
+76428000	Elbow joint prosthesis	
+76433001	Apron	
+76664007	Artificial pancreas	
+76705002	Applicator stick	
+76825006	Abrasive wheel machinery	
+76937009	Guillotine	
+77444004	Pins	
+77541009	Band	
+77720000	Clips	
+77755003	Chemical fiber cloth	
+77777004	Bone staple	
+78279003	Nail clipper	
+78498003	Testicular prosthesis	
+78641001	Nylon suture	
+78886001	Electronic monitor	
+79051006	Greenfield filter	
+79068005	Needle	
+79218005	Vehicle-mounted work platform	
+79287008	Tampon	
+79401009	Chute	
+79438009	Foot protection	
+79481007	Swing or sliding cut-off saw	
+79593001	Transvenous electrode	
+79618001	Storage tank	
+79811009	Electric blanket	
+79834000	Hickman line	
+79952001	Swan-Ganz catheter, device	
+80278003	Pediatric bed	
+80404000	Chain fall	
+80617005	Analysers	
+80664005	Motor home	
+80853009	Tendon hammer	
+80950008	Oven	
+81293006	Textile material	
+81317009	Socket wrench	
+81320001	Enzyme immunoassay analyzer	
+81826000	All-terrain vehicle	
+81892008	Radial saw	
+82379000	Hemostat	
+82449006	Peripheral intravenous catheter	
+82657000	Bony tissue forceps	
+82830000	Robotic arm	
+82879008	Safety belt	
+83059008	Tube	
+83315005	Audio analgesia unit	
+83320005	Dip tank	
+83369007	Plastic shoes	
+83517001	Robot	
+83903000	Man lift	
+84023008	Ski tow	
+84330009	Pliers	
+84444002	Chain saw	
+84546002	Barricade	
+84599008	Detonating cord	
+84610002	Implantable dental prosthesis	
+84683006	Aortic valve prosthesis	
+84756000	Adhesive tape	
+85106006	Boring machine	
+85329008	Abortion pump	
+85455005	Cart	
+85684007	Engraving press	
+86056006	Golf club	
+86174004	Laparoscope	
+86184003	Electrocardiographic monitor and recorder	
+86407004	Table	
+86453006	Defibrillator paddle	
+86572008	Arteriovenous shunt catheter	
+86768006	Balloon pump	
+86816008	Diving ladder	
+86967005	Tool	
+87088005	Soldering iron	
+87140005	Clothing material	
+87405001	Cane	
+87710003	Physical restraint structure	
+87717000	Tester	
+87851008	Blood cell counter and analyzer	
+88063004	Footwear	
+88168006	Maximum security cell	
+88208003	Intravenous anesthesia administration set	
+88765001	Artificial tissue	
+88959008	Hypodermic needle	
+89149003	Stretcher	
+89236003	Leather shoes	
+89509004	Blood culture analyzer	
+90003000	Magnetic resonance imaging unit	
+90035000	Alcohol sponge	
+90082007	Cast cutter	
+90134004	Metal periosteal implant	
+90412006	Colonoscope	
+90504001	Auricular prosthesis	
+90913005	Rubber shoes	
+90948003	Abrasive blast by cleaning nozzles	
+91294003	Thomas collar	
+91318002	Hyperbaric chamber	
+91535004	Basin	
+91537007	Hospital bed	
+102303004	Vascular prosthesis	
+102304005	Measuring ruler	
+102305006	Intramedullary reamer	
+102306007	Reamer	
+102307003	Surgical knife	
+102308008	Scalpel	
+102309000	Surgical saw	
+102310005	Gigli's wire saw	
+102311009	Starck dilator	
+102312002	Atherectomy device	
+102313007	Rotational atherectomy device	
+102314001	Embolization coil	
+102315000	Embolization ball	
+102316004	Embolization particulate	
+102317008	Guiding catheter	
+102318003	Implantable venous catheter	
+102319006	Percutaneous transluminal angioplasty balloon	
+102320000	Detachable balloon	
+102321001	Operating microscope	
+102322008	External prosthesis for sonographic procedure	
+102323003	Water bag prosthesis for imaging procedure	
+102324009	Saline bag prosthesis for imaging procedure	
+102325005	Gel prosthesis for imaging procedure	
+102326006	Dagger	
+102327002	Dirk	
+102328007	Sword	
+102384007	Motor vehicle airbag	
+102385008	Front airbag	
+102386009	Front driver airbag	
+102387000	Front passenger airbag	
+102388005	Side airbag	
+102402008	Snowboard	
+102403003	Water ski	
+105784003	Life support equipment	
+105785002	Adhesive, bandage AND/OR suture	
+105787005	Belt AND/OR binder	
+105788000	Probe, sound, bougie AND/OR airway	
+105789008	Cannula, tube AND/OR catheter	
+105790004	Bag, balloon AND/OR bottle	
+105791000	Pump, injector AND/OR aspirator	
+105792007	Analgesia AND/OR anesthesia unit	
+105793002	Monitor, alarm AND/OR stimulator	
+105794008	Scope AND/OR camera	
+105809003	Physical restraint equipment AND/OR structure	
+108874005	Silicone plug	
+109184000	Pregnancy testing kit	
+109226007	Dental pin	
+109227003	Hand joint prosthesis	
+109228008	Knee joint prosthesis	
+111041008	Artificial nails	
+111042001	Artificial organ	
+111043006	Medical tuning fork	
+111044000	Bone tap	
+111045004	Exerciser	
+111047007	Urethral bougie	
+111048002	Rhinoscope	
+111052002	Protective breast plate	
+111060001	Industrial sewing machine	
+111062009	Food waste disposal equipment	
+115961006	Soft Cast	
+115962004	Fiberglass cast	
+116146000	Blood product unit	
+116204000	Catheter tip	
+116205004	Blood bag	
+116206003	Plasma bag	
+116250002	Filter	
+116251003	Wick	
+118294000	Solid-state laser	
+118295004	Gas laser	
+118296003	Chemical laser	
+118297007	Excimer laser	
+118298002	Dye laser	
+118299005	Diode laser	
+118301003	Nd:YVO>4< laser	
+118302005	Nd:YLF laser	
+118303000	Nd:Glass laser	
+118304006	Chromium sapphire laser device	
+118305007	Er:Glass laser	
+118306008	Erbium-YAG laser	
+118307004	Ho:YLF laser	
+118308009	Holmium-YAG laser	
+118309001	Ti:sapphire laser device	
+118310006	Alexandrite laser	
+118311005	Argon laser	
+118312003	CO2 laser	
+118313008	He laser	
+118314002	Helium cadmium laser	
+118315001	HeNe laser	
+118316000	Krypton laser	
+118317009	Neon gas laser	
+118318004	Nitrogen gas laser	
+118319007	Xenon gas laser	
+118320001	Copper vapor laser	
+118321002	Gold vapor laser	
+118322009	DF laser	
+118323004	DF-CO>2< laser device	
+118324005	HF laser	
+118325006	ArF laser	
+118326007	KrF laser	
+118327003	KrCl laser	
+118328008	XeCl laser	
+118329000	XeFl laser	
+118330005	Free electron laser	
+118331009	Tunable dye laser	
+118332002	Tunable dye argon laser	
+118333007	Gallium arsenide laser	
+118334001	Gallium aluminum arsenide laser	
+118335000	Lead-salt laser	
+118336004	Rhodamine 6G dye laser	
+118337008	Coumarin C30 dye laser	
+118338003	Coumarin 102 dye laser	
+118342000	Diode pumped laser	
+118343005	Flashlamp pumped laser device	
+118346002	Pulsed dye laser	
+118347006	QS laser	
+118348001	Flashlamp pulsed dye laser	
+118349009	CW CO>2< laser	
+118350009	High energy pulsed CO>2< laser	
+118351008	Frequency doubled Nd:YAG laser	
+118354000	Continuous wave laser	
+118355004	Pulsed laser	
+118356003	Metal vapor laser	
+118357007	KTP laser	
+118371004	Ion laser	
+118372006	Plastic implant	
+118373001	Silastic implant	
+118374007	Silicone implant	
+118375008	Cardiac septum prosthesis	
+118376009	Thermocouple	
+118377000	Biopsy needle	
+118378005	Pacemaker pulse generator	
+118379002	Automatic implantable cardioverter sensing electrodes	
+118380004	Implantable defibrillator leads	
+118381000	Implantable cardioverter leads	
+118382007	Neuropacemaker device	
+118383002	External fixation device	
+118384008	Long arm splint	
+118385009	Short arm splint	
+118386005	Figure of eight plaster cast	
+118387001	Halo jacket	
+118388006	Body cast, shoulder to hips	
+118389003	Body cast, shoulder to hips including head, Minerva type	
+118390007	Body cast, shoulder to hips including one thigh	
+118391006	Body cast, shoulder to hips including both thighs	
+118392004	Shoulder cast	
+118393009	Long arm cylinder	
+118394003	Forearm cylinder	
+118396001	Cylinder cast, thigh to ankle	
+118397005	Long leg cast	
+118398000	Long leg cast, walker or ambulatory type	
+118399008	Long leg cast, brace type	
+118400001	Short leg cast below knee to toes	
+118401002	Short leg cast below knee to toes, walking or ambulatory type	
+118402009	Clubfoot cast	
+118403004	Clubfoot cast, short leg	
+118404005	Clubfoot cast, long leg	
+118405006	Spica cast	
+118406007	Hip spica cast, both legs	
+118407003	Hip spica cast, one leg	
+118408008	Hip spica cast, one and one-half spica	
+118409000	Patellar tendon bearing cast	
+118410005	Boot cast	
+118411009	Sugar tong cast	
+118412002	Gauntlet cast	
+118413007	Complete cast	
+118414001	Pressure dressing	
+118415000	Packing material	
+118416004	Wound packing material	
+118418003	Trocar	
+118419006	Umbrella device	
+118420000	Atrial septal umbrella	
+118421001	King-Mills umbrella device	
+118422008	Mobitz-Uddin umbrella device	
+118423003	Rashkind umbrella device	
+118424009	Reservoir device	
+118425005	Ventricular reservoir	
+118426006	Ommaya reservoir	
+118427002	Rickham reservoir	
+118428007	Flexible fiberoptic endoscope	
+118429004	Flexible fiberoptic laryngoscope with strobe	
+118643004	Cast	
+122456005	Laser	
+123636009	SS - Silk suture	
+126064005	Gastrostomy tube, device	
+126065006	Jejunostomy tube, device	
+128981007	Baffle	
+129113006	Intra-aortic balloon pump	
+129121000	Tracheostomy tube	
+129247000	Fine biopsy needle	
+129248005	Core biopsy needle	
+129460009	Compression paddle	
+129462001	Catheter guide wire	
+129463006	J wire	
+129464000	Medical administrative equipment	
+129465004	Medical record	
+129466003	Patient chart	
+129467007	Identification plate	
+134823007	Sterile absorbent dressing pad	
+134963007	Wound drainage pouch dressing	
+170615005	Home nebulizer	
+182562006	Plaster jacket	
+182563001	Shoulder spica	
+182564007	Humeral U-slab	
+182565008	Long arm slab	
+182566009	Humeral hanging slab	
+182567000	Forearm slab	
+182568005	Scaphoid cast	
+182569002	Bennett cast	
+182570001	Hip spica	
+182571002	Long leg spica	
+182572009	Below knee non-weight-bearing cast	
+182573004	Below knee weight-bearing cast	
+182574005	Plaster stripper	
+182576007	Humeral brace	
+182577003	Functional elbow brace	
+182578008	Forearm brace	
+182579000	Hip brace	
+182580002	Femoral brace	
+182581003	Tibial brace	
+182587004	Body support	
+182588009	Spinal frame	
+182589001	Corset support	
+182590005	Cardiac bed	
+182591009	Water bed	
+182592002	High air loss bed	
+182839003	Automated drug microinjector	
+183116000	Dental aid	
+183125006	Ear fitting hearing aid	
+183135000	Mobility aid	
+183141007	Inshoe orthosis	
+183143005	Surgical stockings	
+183144004	Antiembolic stockings	
+183146002	ZF - Zimmer frame	
+183147006	Tripod	
+183148001	RGO - Reciprocating gait orthosis	
+183149009	Hip guidance orthosis	
+183150009	Standing frame	
+183152001	Hip abduction orthosis	
+183153006	Hip-knee-ankle-foot orthosis	
+183154000	Knee-ankle-foot orthosis	
+183155004	Flexible knee support	
+183156003	Collateral ligament brace	
+183157007	Anterior cruciate ligament brace	
+183158002	Posterior cruciate ligament brace	
+183159005	Ground reaction orthosis	
+183160000	Rigid ankle-foot orthosis	
+183161001	Flexible ankle-foot orthosis	
+183162008	Double below-knee iron	
+183164009	Inside iron	
+183165005	Outside iron	
+183166006	Inside T-strap	
+183170003	Hindquarter prosthesis	
+183171004	Hip disarticulation prosthesis	
+183172006	Above knee prosthesis	
+183173001	Through knee prosthesis	
+183174007	Below knee prosthesis	
+183175008	Syme's prosthesis	
+183176009	Midfoot amputation prosthesis	
+183177000	Shoe filler	
+183183002	Milwaukee brace	
+183184008	Boston brace	
+183185009	Jewett brace	
+183187001	Halo device	
+183188006	Four poster brace	
+183189003	Rigid collar	
+183190007	Flexible collar	
+183192004	Shoulder abduction brace	
+183193009	Elbow brace	
+183194003	Passive wrist extension splint	
+183195002	Active wrist extension splint	
+183196001	Passive finger extension splint	
+183197005	Active finger extension splint	
+183198000	Kleinert traction	
+183199008	Passive thumb splint	
+183200006	Active thumb splint	
+183202003	Shin splint	
+183204002	Excretory control aid	
+183235008	Facial non-surgical prosthesis	
+183236009	Breast non-surgical prosthesis	
+183240000	Patient-propelled wheelchair	
+183241001	Pedal powered wheelchair	
+183248007	Attendant powered wheelchair	
+183249004	Wheelchair seating	
+183250004	Molded wheelchair seat	
+183251000	Matrix seat	
+201706006	Intracranial pressure transducer	
+223394001	Equipment for positioning	
+224684009	Top security prison	
+224685005	Category B prison	
+224686006	Low security prison	
+224823002	Street lighting	
+224824008	Sign posting	
+224825009	Street name sign	
+224826005	Building name sign	
+224827001	Pedestrian direction sign	
+224828006	Traffic sign	
+224898003	Orthotic device	
+224899006	Walking aid	
+224900001	Communication aid	
+228167008	Corset	
+228235002	Slippers	
+228236001	Mules	
+228237005	Slippersox	
+228239008	Trainers	
+228240005	Plimsolls	
+228241009	Sandals	
+228242002	Gum boots	
+228243007	Chappel	
+228259007	Fastening	
+228260002	Velcro	
+228261003	Buckle	
+228262005	Zipper	
+228264006	Small button	
+228265007	Medium button	
+228266008	Large button	
+228267004	Press stud	
+228268009	Hook and eye	
+228270000	Laces	
+228271001	Shoe laces	
+228731007	Radiotherapy equipment and appliances	
+228732000	Beam direction shell	
+228733005	Head and neck beam direction shell	
+228734004	Body beam direction shell	
+228735003	Beam modifier	
+228736002	Surface bolus	
+228737006	Surface compensator	
+228738001	Cutout	
+228739009	Shielding block	
+228740006	Lung block	
+228741005	Humerus block	
+228742003	Scrotal block	
+228743008	Kidney block	
+228744002	Eye block	
+228745001	Bite block	
+228746000	Wedge filter	
+228747009	Kilovoltage grid	
+228748004	Brachytherapy implant	
+228749007	Single plane implant	
+228750007	Two plane implant	
+228751006	Semicircular implant	
+228752004	Regular volume implant	
+228753009	Irregular volume implant	
+228754003	Brachytherapy surface mold	
+228755002	Two plane mold	
+228756001	Single plane mold	
+228757005	Cylinder mold	
+228759008	Adhesive felt mold	
+228760003	Elastoplast mold	
+228761004	Collimator	
+228762006	Multileaf collimator	
+228763001	Asymmetric jaws collimator	
+228765008	Standard collimator	
+228766009	Form of brachytherapy source	
+228767000	Wire source	
+228768005	Seeds source	
+228770001	Hairpins source	
+228771002	Needles source	
+228772009	Pellets source	
+228773004	Capsules source	
+228774005	Chains source	
+228775006	Tubes source	
+228776007	Rods source	
+228777003	Grains source	
+228778008	Plaque source	
+228869008	Manual wheelchair	
+229772003	Bed	
+229839006	Functional foot orthosis	
+229840008	Non-functional foot orthosis	
+229841007	Detachable pad for the foot	
+229842000	Detachable toe prop	
+229843005	Detachable horseshoe pad	
+243135003	Spacer	
+243719003	Near low vision aid - integral eyeglass magnifier	
+243720009	Near low vision aid - clip-on eyeglass magnifier	
+243722001	Near low vision aid - integral eyeglass telescope	
+243723006	Near low vision aid - clip-on eyeglass telescope	
+255296002	Wedge	
+255712000	Television	
+255716002	Latex rubber gloves	
+256245006	Textiles	
+256246007	Cotton - textile	
+256247003	Flax	
+256562002	Cotton wool	
+256563007	Cotton wool roll	
+256564001	Cotton wool pledget	
+256589007	Dental rubber dam	
+256590003	Endodontic sponge	
+256593001	Orthodontic elastic	
+256641009	Ribbon gauze	
+256642002	Wet ribbon gauze	
+256643007	Dry ribbon gauze	
+257192006	Aid to vision	
+257193001	Telescopic eyeglasses	
+257194007	Video	
+257211007	Cylinder cutter	
+257212000	Rotary cutter	
+257213005	Rotary cutter with steel blades	
+257214004	Rotary cutter with plastic blades	
+257215003	Nail instrument	
+257216002	Flexible endoscope	
+257217006	Rigid endoscope	
+257218001	Flexible cystoscope	
+257219009	Rigid cystoscope	
+257220003	Hysteroscope	
+257221004	Flexible hysteroscope	
+257222006	Rigid hysteroscope	
+257223001	Contact hysteroscope	
+257224007	Panoramic hysteroscope	
+257225008	Flexible bronchoscope	
+257226009	Rigid bronchoscope	
+257227000	Standard laryngoscope	
+257228005	Fiberlight anesthetic laryngoscope	
+257229002	Pharyngeal mirror	
+257230007	Obstetric forceps	
+257231006	Barnes forceps	

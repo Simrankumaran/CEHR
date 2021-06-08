@@ -1,0 +1,6 @@
+Code	Display	Definition	Canonical Status
+active	Active	This account is active and may be used.	~active
+inactive	Inactive	This account is inactive and should not be used to track financial information.	~inactive
+entered-in-error	Entered in error	This instance should not have been part of this patient's medical record.	~error
+on-hold	On Hold	This account is on hold.	~suspended
+unknown	Unknown	The account status is unknown.	~unknown

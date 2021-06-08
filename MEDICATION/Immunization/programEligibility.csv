@@ -1,0 +1,3 @@
+Code	Display	Definition
+ineligible	Not Eligible	The patient is not eligible for the funding program.
+uninsured	Uninsured	The patient is eligible for the funding program because they are uninsured.

@@ -1,0 +1,14 @@
+Lvl	Code	Display	Definition
+0	type	Type	General types of reference range.
+1	normal	Normal Range	Values expected for a normal member of the relevant control population being measured. Typically each results producer such as a laboratory has specific normal ranges and they are usually defined as within two standard deviations from the mean and account for 95.45% of this population.
+1	recommended	Recommended Range	The range that is recommended by a relevant professional body.
+1	treatment	Treatment Range	The range at which treatment would/should be considered.
+1	therapeutic	Therapeutic Desired Level	The optimal range for best therapeutic outcomes.
+2	pre	Pre Therapeutic Desired Level	The optimal range for best therapeutic outcomes for a specimen taken immediately before administration.
+2	post	Post Therapeutic Desired Level	The optimal range for best therapeutic outcomes for a specimen taken immediately after administration.
+0	endocrine	Endocrine	Endocrine related states that change the expected value.
+1	pre-puberty	Pre-Puberty	An expected range in an individual prior to puberty.
+1	follicular	Follicular Stage	An expected range in an individual during the follicular stage of the cycle.
+1	midcycle	MidCycle	An expected range in an individual during the midcycle stage of the cycle.
+1	luteal	Luteal	An expected range in an individual during the luteal stage of the cycle.
+1	postmenopausal	Post-Menopause	An expected range in an individual post-menopause.

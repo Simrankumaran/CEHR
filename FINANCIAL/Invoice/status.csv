@@ -1,0 +1,6 @@
+Code	Display	Definition	Canonical Status
+draft	draft	the invoice has been prepared but not yet finalized.	~draft
+issued	issued	the invoice has been finalized and sent to the recipient.	~active
+balanced	balanced	the invoice has been balaced / completely paid.	~complete
+cancelled	cancelled	the invoice was cancelled.	~failed
+entered-in-error	entered in error	the invoice was determined as entered in error before it was issued.	~error

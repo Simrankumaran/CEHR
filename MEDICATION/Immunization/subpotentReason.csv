@@ -1,0 +1,4 @@
+Code	Display	Definition
+partial	Partial Dose	The full volume of the dose was not administered to the patient.
+coldchainbreak	Cold Chain Break	The vaccine experienced a cold chain break.
+recall	Manufacturer Recall	The vaccine was recalled by the manufacturer.

@@ -1,0 +1,1906 @@
+Code	Display	Definition
+58207001	Competitive protein binding assay technique	
+115341008	Total measurement	
+246363001	Acquisition technique	
+246502009	Bladder filling technique	
+246503004	Catheter movement technique	
+246504005	Near reading technique	
+246505006	Photon detection technique	
+246506007	Provocation technique	
+246507003	Stimulation technique	
+255459008	Flash	
+255463001	Single tetany technique	
+255583002	Retruded jaw relation technique	
+256233002	Rectally infused saline solution	
+257414001	Adult N types	
+257425005	Bright field microscopy technique	
+257428007	Dent sleeve technique	
+257452000	Sbisa bar	
+257456002	Solid sphere technique	
+257460004	Swept spatial frequency bars	
+257465009	Wax wafer technique	
+257740006	V-Y advancement technique	
+257771002	Cementing	
+257772009	Cementing with normal viscosity cement	
+257774005	Cementing with low viscosity cement	
+257775006	Cementing with normal viscosity cement containing antibiotic	
+257776007	Cementing with low viscosity cement containing antibiotic	
+257827009	Press-fit component fixation	
+257932009	Direct suturing technique	
+258005004	Accelerometry technique	
+258006003	Acidometric method	
+258009005	Boyden chamber technique	
+258010000	Catheter tip manometry technique	
+258011001	Chessboard method	
+258012008	Confocal laser scanning fluorescence technique	
+258013003	Conventional manometry technique	
+258014009	Dilution and colorimetry technique	
+258017002	Double sampling dye-dilution test	
+258018007	Drainage bottle measurement	
+258019004	Drainage measurement	
+258020005	Dye dilution technique	
+258021009	Dye test	
+258022002	E test	
+258025000	Enzyme mediated immunotransferase assay technique	
+258026004	Enzyme method	
+258027008	Equilibration method	
+258030001	Gradient method	
+258031002	Helium single breath technique	
+258033004	Helium steady state technique	
+258034005	Helium dilution	
+258035006	High pressure liquid chromatography	
+258036007	Immunoblotting	
+258037003	Immunoradiometry	
+258038008	Indicator dilution technique	
+258039000	Iodometric method	
+258041004	Isoenzyme typing	
+258044007	Lectin typing	
+258045008	Lipopolysaccharide typing	
+258047000	Metabolic inhibition test	
+258048005	Microbiological method	
+258053000	Moorfields reading book test	
+258054006	Natural filling	
+258055007	Nitrocefin method	
+258056008	Nitrogen washout	
+258059001	Pharmacological stimulation	
+258060006	Phenotyping	
+258063008	Pneumatic otoscopy	
+258065001	Polyethylene glycol precipitation	
+258066000	Polymerase chain reaction	
+258067009	Post-tetanic count stimulation	
+258068004	Protein profiling	
+258069007	Pyrolysis mass spectrometry	
+258070008	Rapid-pull through	
+258071007	Rebreathing method	
+258075003	Serotyping	
+258076002	Sham feed technique	
+258077006	Sheridan Gardiner technique	
+258078001	Station pull-through	
+258080007	Thermodilution technique	
+258081006	Ultraviolet absorption	
+258082004	Vector volume analysis	
+258083009	Visual estimation	
+258084003	Weighing of swabs	
+258086001	Zymodeme typing	
+258087005	Agar dilution	
+258094008	Dark ground microscopy technique	
+258099003	Fluorescence microscopy technique	
+258100006	Heterophoria method	
+258102003	Intermittent withdrawal technique	
+258109007	Restriction fragment length polymorphism technique	
+258110002	Saline method	
+258112005	Sequence specific oligonucleotide probe	
+258113000	Sequence specific primers-polymerase chain reaction	
+258114006	SRH - Single radial hemolysis	
+258118009	Suction drainage measurement	
+258119001	Thermal test	
+258120007	Vapor pressure depression	
+258121006	Ungated equilibrium	
+258122004	Whole cell long chain fatty acid methyl ester analysis	
+258123009	Electrocardiogram gated technique	
+258124003	Gated equilibrium	
+258125002	Freezing point depression	
+258126001	Phase contrast microscopy technique	
+258128000	SjÃ¶gren hand technique	
+258129008	Snellen technique	
+258131004	Sucrose density gradient separation	
+258133001	Plate assay technique	
+258144009	Position change	
+258150004	Transmission	
+258159003	Slime production typing	
+258164004	Seldinger technique	
+258169009	Remodeled pouch method	
+258171009	Blind technique	
+258173007	Direct vision technique	
+258178003	Blood aspiration technique	
+258179006	Blood flashback technique	
+258180009	Pressure waveform analysis	
+258181008	Electrocardiogram analysis	
+258182001	Cold light transillumination	
+258183006	Gas injection and auscultation	
+260223001	Maximum intercuspation technique	
+260227000	Solid phase immune technique	
+260231006	Van Slyke technique	
+260710009	Obturation technique	
+260931002	Post-processing	
+260982004	Anticurvature technique	
+261006005	Digital X-ray	
+261009003	Dual cure method	
+261018001	Mechanical	
+261032004	Turnover	
+261033009	Ultrasonic endodontic technique	
+261039008	Valsalva maneuver	
+261069001	Double contrast technique	
+261070000	Double flare technique	
+261190007	Dautrey method	
+261192004	Balanced force technique	
+261194003	Cine study	
+261196001	Direct application technique	
+261208004	Intermittent administration	
+261209007	Nipple sharing technique	
+261212005	Percutaneous with automated instrumentation	
+261213000	Percutaneous with endoscopic instrumentation	
+261214006	Percutaneous with laser instrumentation	
+261215007	Percutaneous with manual instrumentation	
+261216008	Radionuclide plethysmography	
+261271009	Thermal plastic technique	
+261272002	Thermal solid technique	
+261338007	Adhesive with supplementary suture technique	
+261373009	Implant technique	
+261504003	Close rectal dissection technique	
+261510003	Conventional angiography	
+261548008	Periarticular osteotomy	
+261561008	Shelf technique	
+261567007	Thermal injection technique	
+261573008	Thyrotrophin releasing hormone stimulation	
+261671000	Air contrast technique	
+261699009	Before the filter	
+261700005	Benchekroun technique	
+261708003	Biochemical bond component fixation	
+261710001	Bisecting angle technique	
+261714005	Bone ingrowth system	
+261732005	Corticotrophin releasing hormone stimulation	
+261754007	Continuous infusion	
+261787006	Explant technique	
+261790000	Extra-high resolution technique	
+261793003	Flow-directed technique	
+261856001	Isaacs technique	
+261909000	Light cure method	
+261940007	Mechanical grab method	
+261943009	Mitrofanoff technique	
+261947005	Modified double flare technique	
+261958001	Multiplanar reconstruction	
+261981004	Neutral zone	
+262041006	Paralleling technique	
+262048000	Patient cycled method	
+262062007	Power output	
+262063002	Powered method	
+262064008	Powered flexible method	
+262065009	Powered rigid method	
+262069003	Pressure controlled method	
+262092003	Reciprocal mechanical technique	
+262095001	Remaining connected	
+262110008	Rotary mechanical endodontic technique	
+262136001	Self-cure method	
+262148003	Single contrast technique	
+262162005	Sonic endodontic technique	
+262174009	Standardized technique	
+262180001	Stepback technique	
+262181002	Stepdown technique	
+262201007	Thallium uptake method	
+262207006	Time cycled method	
+262265000	Volume controlled method	
+262278000	Warming intravenous fluid technique	
+262293001	Wire guided technique	
+262295008	With clearance measurement	
+262296009	Cross-compression technique	
+262300005	With glomerular filtration rate	
+262305000	With separation	
+262310001	With ureteric peristalsis analysis	
+262313004	Without remount	
+262320006	Xenon clearance method	
+262323008	After the filter	
+263664004	Altered cast technique	
+263696007	Broth dilution	
+263725008	Constant acceleration technique	
+263746004	Electrosensitivity technique	
+263781002	Impulse	
+263809005	Microvascular	
+263902000	Transcutaneous method	
+264220008	Superior pedicle technique	
+264268002	Agarose technique	
+264269005	Amino acid signature pattern analysis	
+264270006	Central pedicle technique	
+264271005	Complement component 1q binding assay technique	
+264272003	Conductivity technique	
+264273008	Continuous withdrawal technique	
+264275001	Fluorescence polarization immunoassay technique	
+264276000	Half chessboard method	
+264277009	Heel bounce	
+264279007	Hydroxylamine method	
+264280005	Inferior pedicle technique	
+264281009	Dufourmental technique	
+264282002	Maclure N test	
+264283007	Multiple-breath technique	
+264284001	Single-breath technique	
+264355007	Ffooks technique	
+264582003	Antibiogram typing	
+264583008	Auxotyping	
+264584002	Bacteriocin typing	
+264590003	Hypothalamic stimulation	
+264619009	100 hue technique	
+264773007	Dienes typing	
+264782001	AMBER	
+264788002	Biotyping	
+264826006	Children's N tests	
+264828007	City University technique	
+264859009	Maclure technique	
+264863002	Morphotyping	
+264896000	Nucleic acid analysis	
+264903000	Pattern onset/offset stimulation technique	
+264933007	Thomas tank engine test	
+264934001	Toxin typing	
+264935000	Transluminal prosthetic method	
+264946002	White noise masking of opposite ear	
+272389005	Analysis	
+272390001	Dilution	
+272391002	Measurement technique	
+272392009	Assay technique	
+272393004	Tests	
+272395006	Typings	
+276857005	Transthoracic impedance	
+277337007	Surface palpation technique	
+277581000	Suturing techniques	
+277620007	Dental techniques	
+277768009	Automated endodontic technique	
+277769001	Hand technique	
+277835006	Flap valve technique	
+277853000	Submucosal tunnel technique	
+277913002	Washing of swabs	
+278283001	Percutaneous techniques	
+278289002	Microscopy technique	
+278300004	Pull-through technique	
+278394000	Fluid replacement technique	
+278395004	Imaging technique	
+278440009	Copy denture technique	
+281408006	Flow triggering	
+281409003	Pressure triggering	
+281410008	Differential lung ventilation	
+281417006	One lung ventilation	
+281418001	Left lung ventilation	
+281419009	Right lung ventilation	
+281420003	Bilateral lung ventilation	
+284466007	Anger management technique	
+284467003	Relaxation technique	
+286811001	Pressure limited cycling method	
+302554003	Contrast imaging technique	
+304033004	Specific stimulation technique	
+304364007	Fixation of prosthetic joint component	
+304367000	Uncemented component fixation	
+309796000	Loss of resistance technique	
+309797009	Loss of resistance to air	
+309798004	Loss of resistance to saline	
+312245009	Angiography technique	
+312246005	Digital subtraction angiography	
+312348008	Image post-processing	
+313115005	Flap transfer technique	
+313116006	Advancement technique	
+313201001	Simple suture technique	
+313202008	Z-plasty technique	
+313281003	Forward sliding	
+362943005	Manual method	
+371871002	Single beats - numeric estimation technique	
+371912002	Best value	
+371913007	Point source - numeric estimation technique	
+371914001	Peak to peak - numeric estimation technique	
+371916004	Representative - numeric estimation technique	
+371921001	Averaged - numeric estimation technique	
+373098007	Mean - numeric estimation technique	
+373099004	Median - numeric estimation technique	
+373100007	Mode - numeric estimation technique	
+373115008	Routine - numeric estimation technique	
+397801003	Single bolus	
+397850009	Intravascular confirmation method	
+397884008	Intermittent bolus	
+397916001	Loss of resistance technique - other fluid	
+398037009	Vessel location technique	
+398129004	Loss of resistance technique - both saline and air	
+398317000	Finder needle technique	
+404655007	Autofluorescence	
+414378002	Hanging drop technique	
+414456005	Imaging guidance technique	
+414611008	Line placement technique	
+415037003	Paresthesia technique	
+415741008	Transarterial technique	
+416238005	Intubation technique	
+416423007	Tracheal intubation technique	
+417453009	Bronchial intubation technique	
+418449005	Gently	
+418694008	Rapidly	
+419125005	Liberally	
+419443000	Slowly	
+419913006	Vigorously	
+420004004	Swallowed whole	
+424457002	Intrathecal confirmation technique	
+445911007	Extracorporeal technique	
+446402005	Hemodialysis technique	
+446406008	Inhalation technique	
+446947001	Electroosmosis technique	
+447027002	Irrigation technique	
+447056002	Occlusive dressing technique	
+447120003	Injection technique	
+447692002	Percutaneous gastrostomy (button) technique	
+447693007	Peritoneal dialysis technique	
+447826007	Infusion technique	
+447963004	Intravenous push technique	
+448076005	Iontophoresis technique	
+449137004	Intravenous piggyback technique	
+449225005	Hemodiafiltration technique	
+702658000	Microbial culture	
+702659008	Automated count	
+702660003	Test strip	
+702661004	Light microscopy	
+702662006	High power field light microscopy	
+702663001	Manual count	
+702664007	Immunological method	
+702665008	Cytology stain	
+702666009	Cytology	
+702667000	Clearance calculation formula	
+702668005	Modification of diet in renal disease formula	
+702669002	Direct assay	
+702673004	Deoxyribonucleic acid probe	
+702674005	Nucleic acid hybridization probe	
+702675006	Probe with target amplification	
+702872006	Detection limit equal to or less than 20 mg/L	
+702873001	Calculation technique	
+702940009	Filtration	
+702941008	Paraffin embedding	
+702942001	Concentration	
+702943006	DNA extraction	
+702944000	RNA extraction	
+702945004	Estimated from glycated hemoglobin	
+702946003	Coagulation technique	
+702947007	Corrected for nucleated erythrocytes	
+703436002	Detection limit equal to or less than 0.005 mIU/L	
+703437006	Detection limit equal to or less than 0.01 ng/mL	
+703438001	Detection limit equal to or less than 0.05 mIU/L	
+703439009	Detection limit equal to or less than 1.0 ng/dL	
+703440006	Detection limit equal to or less than 3.47 pmol/L	
+703441005	Wright stain method	
+703442003	Gradient strip susceptibility test	
+703443008	Fungus stain method	
+703444002	Fluorescent immunoassay	
+703445001	Ion selective electrode measurement	
+703446000	Immunoblot assay	
+703447009	EIA technique	
+703448004	Latex agglutination test	
+703449007	Radioimmunoassay	
+703450007	Electrophoresis	
+703451006	Low power field light microscopy	
+703452004	Electrical impedance technique	
+703454003	Centrifugation technique	
+703455002	Rapid Plasma Reagin technique	
+703456001	Venereal Disease Research Laboratory technique	
+703457005	Wet preparation technique	
+703458000	Neutralization method	
+703459008	Westergren technique	
+703460003	Wintrobe technique	
+703461004	Concentration of parasites method	
+703462006	Cockcroft-Gault formula	
+703463001	Calculated from oxygen partial pressure	
+703488009	Coagulation 1:1 saline mixture technique	
+703490005	Transcutaneous CO2 monitor	
+703492002	Transcutaneous O2 monitor	
+703497008	Calculated from signal to cutoff ratio	
+703501003	Toxicology screening technique	
+703505007	Clearance calculation relative to 1.73 square meters body surface area	
+703506008	Clearance calculation relative to 1.73 square meters body surface area and adjusted for African race	
+703507004	Clearance calculation relative to 1.73 square meters body surface area and adjusted for non-African race	
+703689005	High sensitivity method for C-reactive protein	
+703690001	Confirmatory technique	
+703724007	High sensitivity method for estradiol	
+703725008	Culture	
+703750006	Aerobic culture	
+703751005	Anaerobic culture	
+703752003	Organism specific culture	
+703753008	Detecting without classifying	
+703754002	Detecting by light microscopy without classifying	
+703856008	Organism staining technique	
+703857004	Staining technique	
+703858009	Numeric estimation technique	
+703950001	High sensitivity method for bioavailable testosterone	
+707682000	Adjusted measurement technique	
+707683005	Adjusted for diabetes technique	
+707684004	Adjusted for multiple gestations technique	
+707685003	Adjusted for sex hormone binding globulin technique	
+707687006	Adjusted for weight technique	
+707688001	Adjusted to patients actual temperature technique	
+707689009	Adjusted to pH 7.4 technique	
+707690000	Corrected for albumin technique	
+707691001	Corrected for background technique	
+707692008	Corrected for glucose technique	
+707693003	Corrected for total protein technique	
+707694009	Saturation adjusted to 0.5 technique	
+707695005	Standard base excess technique	
+707696006	Standard base excess adjusted for oxygen saturation technique	
+707698007	Ion selective membrane electrode output adjusted to pH 7.4	
+707699004	Helium single breath output adjusted for hemoglobin	
+707700003	Automated count output corrected for nucleated erythrocytes	
+707701004	Calculated and adjusted for body weight	
+707702006	Calculated output adjusted to standard	
+708056006	Acid fast stain	
+708058007	Flow cytometry	
+708060009	Genotype determination	
+708061008	Gram stain	
+708062001	Immunodiffusion	
+708063006	Immunoelectrophoresis	
+708064000	Immunofixation	
+708065004	Pulse oximetry	
+708066003	Trichrome stain	
+708067007	Wright-Giemsa stain	
+708068002	Molecular genetics	
+708069005	Chromogenic technique	
+708070006	Solubility test	
+708071005	Smearing technique	
+708072003	Multiple allergen-bearing disc	
+708073008	Minimum inhibitory concentration susceptibility test	
+708074002	LISS	
+708075001	KOH preparation	
+708076000	Kleihauer-Betke technique	
+708077009	Infrared spectroscopy	
+708078004	India ink staining technique	
+708097004	Immunohistochemistry	
+708099001	Rapid immunoassay	
+708104000	Agglutination technique	
+708125000	Cold incubation, 24 hours	
+708128003	Acid fast Kinyoun's cold carbolfuchsin stain	
+708130001	Coombs test	
+708131002	Anti human globulin test, direct	
+708132009	Anti human globulin test, indirect	
+708133004	Complement fixation	
+708532004	Platelet aggregation technique	
+718496006	Bacterial bacteriophage typing	
+129265001	Patient evaluation - action	
+129266000	Measurement - action	
+129267009	Administrative action	
+129268004	Observation - action	
+129269007	Assisting - action	
+129271007	Management - action	
+129272000	Stimulation - action	
+129273005	Admission - action	
+129274004	Discharge - action	
+129275003	Administrative transfer - action	
+129276002	Referral - action	
+129277006	Administrative disposition - action	
+129278001	Audit - action	
+129279009	Medicolegal action	
+129280007	Medicolegal testimony - action	
+129283009	Training - action	
+129284003	Surgical action values	
+129286001	Microsurgery - action	
+129287005	Incision - action	
+129288000	Exploratory incision - action	
+129289008	Drainage - action	
+129291000	Drilling - action	
+129292007	Evacuation - action	
+129293002	Dissection - action	
+129294008	Discission - action	
+129295009	Slitting - action	
+129296005	Bisection - action	
+129297001	Bifurcation - action	
+129298006	Surgical division	
+129299003	Release - action	
+129300006	Puncture - action	
+129301005	Scarification - action	
+129303008	Removal - action	
+129304002	Excision - action	
+129305001	Wedge excision - action	
+129306000	Surgical removal - action	
+129307009	Expulsion - action	
+129308004	Reexcision - action	
+129309007	Amputation - action	
+129310002	Transfixion - action	
+129311003	Evisceration - action	
+129312005	Enucleation - action	
+129313000	Trephine - action	
+129314006	BX - Biopsy	
+129315007	Incision biopsy	
+129316008	Aspiration - action	
+129317004	Debridement - action	
+129318009	Saucerization - action	
+129319001	Curettage - action	
+129321006	Trimming - action	
+129322004	Shaving - action	
+129323009	Scraping - action	
+129324003	Filleting - action	
+129325002	Introduction - action	
+129326001	Injection	
+129327005	Tattooing - action	
+129328000	Inflation - action	
+129330003	Infusion - action	
+129331004	Perfusion - action	
+129332006	Irrigation - action	
+129333001	Insufflation - action	
+129334007	Instillation - action	
+129335008	Embolization - action	
+129337000	Replantation	
+129339002	Intubation - action	
+129340000	Sounding - action	
+129344009	Surgical recession - action	
+129345005	Resection-recession - action	
+129346006	Radial incision - action	
+129347002	Transfer - action	
+129348007	Z-plasty - action	
+129349004	Lengthening procedure	
+129350004	Shortening	
+129351000	Augmentation	
+129352007	Advancement	
+129353002	Suspension and fixation - action	
+129354008	Exteriorization - action	
+129355009	Marsupialization - action	
+129356005	Reinforcement - action	
+129357001	Closure - action	
+129358006	Layered closure - action	
+129360008	Oversewing - action	
+129366002	Closure by buckling - action	
+129368001	Cerclage - action	
+129369009	Ligation - action	
+129371009	Fixation - action	
+129372002	Cryopexy - action	
+129373007	Plication - action	
+129374001	Imbrication - action	
+129376004	Creation	
+129377008	Reconstruction - action	
+129378003	Stabilization - action	
+129379006	Fusion - action	
+129380009	Anchoring - action	
+129381008	Enlargement - action	
+129382001	Destruction - action	
+129383006	Avulsion - action	
+129384000	Decortication - action	
+129385004	Stripping - action	
+129386003	Stripping and ligation - action	
+129387007	Abrasion - action	
+129388002	Salabrasion - action	
+129389005	Grinding - action	
+129390001	Coagulation - action	
+129391002	Obliteration - action	
+129392009	Cauterization - action	
+129393004	Cryosurgery - action	
+129394005	Thermocautery - action	
+129395006	Fulguration - action	
+129396007	Electrodesiccation - action	
+129397003	Electrocoagulation - action	
+129398008	Electrocautery	
+129399000	Electrodestruction - action	
+129400007	Crushing - action	
+129401006	Fragmentation - action	
+129402004	Emulsification - action	
+129403009	Chemosurgery - action	
+129404003	Chemical cautery	
+129405002	Photocoagulation - action	
+129406001	Transplantation - action	
+129407005	Grafting	
+129408000	Manipulative procedure	
+129409008	Mobilization - action	
+129410003	Remobilization - action	
+129411004	Traction - action	
+129412006	Manual reduction - action	
+129413001	Elevation - action	
+129414007	Instrumental elevation - action	
+129415008	Extraction - action	
+129416009	Surgical extraction - action	
+129418005	Expression - action	
+129419002	Dilatation - action	
+129420008	Surgical stretching	
+129421007	Dilation and stretching - action	
+129423005	Bouginage	
+129424004	Fitting - action	
+129425003	Application actions	
+129426002	Adjustment - action	
+129427006	Reduction - action	
+129430004	Consultation - action	
+129431000	History taking - action	
+129433002	Inspection	
+129434008	Palpation - action	
+129435009	Percussion - action	
+129436005	Listening - action	
+129437001	Optical transillumination - action	
+129438006	Prescription - action	
+129441002	Counseling - action	
+129442009	Iontophoresis - action	
+129443004	Electrolysis - action	
+129444005	Surgical galvanism - action	
+129445006	Administration - action	
+129449000	Functional assessment - action	
+183648002	Long-term assistance	
+245854003	Proximal anastomosis	
+245855002	Distal anastomosis	
+255595002	Debulking - action	
+256644001	Darning - action	
+257729003	Ablation	
+257730008	Chemical destruction	
+257739009	Open adjustment	
+257741005	Anastomosis	
+257742003	Direct anastomosis - action	
+257743008	Lecompte maneuver	
+257744002	End-to-end anastomosis - action	
+257745001	Double barrelled end-to-end anastomosis - action	
+257746000	End-to-side anastomosis - action	
+257747009	Roux-en-Y - action	
+257748004	End-to-side anastomosis without tunnel	
+257749007	End-to-side anastomosis with tunnel	
+257750007	Side-to-side anastomosis	
+257751006	"Wallace ""69"" side-to-end anastomosis - action"	
+257759008	Fine needle aspiration biopsy - action	
+257768005	Binding - action	
+257777003	Chemical inactivation	
+257778008	Chemodissolution	
+257780002	Mass closure	
+257781003	Interrupted mass closure	
+257782005	Continuous mass closure	
+257783000	Thermocoagulation	
+257784006	Semm thermal coagulation	
+257785007	Wolf thermal coagulation	
+257786008	Cryotherapy - action	
+257788009	Delamination	
+257789001	Hydrodelamination	
+257791009	Desiccation - action	
+257802002	Anterior displacement	
+257803007	Posterior displacement	
+257804001	Lateral displacement	
+257805000	Medial displacement	
+257806004	Close rectal dissection	
+257808003	Ultrasonic dissection	
+257811002	External drainage	
+257817003	Digital evacuation	
+257821005	Manual expression	
+257822003	Extracapsular extraction	
+257824002	Intracapsular extraction	
+257825001	Fenestration - action	
+257846005	Ballistic fragmentation	
+257850003	Mechanical fragmentation	
+257855008	Electromagnetic pulse fragmentation	
+257857000	Galvanism	
+257859002	High intensity focused ultrasound	
+257863009	Radioactive destruction	
+257867005	Insertion - action	
+257878002	Keeling - action	
+257880008	Localization	
+257884004	Immobilization - action	
+257885003	Occlusion	
+257886002	Operative ultrasound	
+257889009	Padding	
+257890000	Peeling - action	
+257893003	Pressure	
+257894009	One handed pressure	
+257895005	Two handed pressure	
+257897002	Realignment - action	
+257903006	Surgical repair	
+257905004	Keel repair	
+257906003	Mayo repair	
+257907007	Patching - action	
+257911001	Repair of recurrence	
+257912008	Rotation - action	
+257913003	IR - Internal rotation	
+257914009	External rotation	
+257915005	Sampling	
+257916006	Bilateral sampling	
+257917002	Bilateral sequential sampling	
+257918007	Bilateral simultaneous sampling	
+257923007	Sampling without trap	
+257926004	Unilateral sampling	
+257928003	Segmentation	
+257933004	Tamponade - action	
+257935006	Tapering - action	
+257937003	Soft tissue transfer	
+257938008	Transfer of bone block	
+257940003	Transposition - action	
+258061005	Photic stimulation	
+260222006	Single photon emission computed tomography - action	
+261027000	Sequential anastomosis	
+261191006	Open extraction - action	
+261197005	Doppler color flow	
+261198000	Doppler continuous wave	
+261199008	Doppler pulsed	
+261391004	Resurfacing - action	
+261398005	Alloplastic grafting	
+261498006	Bone-patellar tendon-bone reconstruction	
+261499003	Braided prosthetic ligament reconstruction	
+261518005	Cystodiathermy - action	
+261519002	Diathermy excision	
+261520008	Diathermy snare - action	
+261526002	Electromagnetic fragmentation	
+261545006	Loop diathermy excision	
+261553003	REDY - Regeneration of dialysate	
+261569005	Thermocompaction	
+261576000	Ultrasound fragmentation - action	
+262143007	Side-to-end anastomosis - action	
+263720003	Compression	
+264592006	Intravesical drug therapy	
+264594007	Laser - action	
+264730003	Lateral rotation - action	
+264739002	Medial rotation - action	
+264947006	Prescription of optical aid - action	
+272381008	Microvascular anastomosis - action	
+274392008	EUA - Examination under anesthetic	
+276734006	Mechanical assistance	
+277261002	Excision biopsy	
+277607009	Digital removal	
+277763000	Refashioning	
+277851003	Conduit anastomosis	
+277852005	Reservoir anastomosis	
+278110001	Radiographic imaging - action	
+278292003	Ultrasound imaging - action	
+278312000	Reattachment - action	
+278313005	Regeneration - action	
+278420002	Sealing	
+281609006	Cryoablation - action	
+281613004	Decompression - action	
+281615006	Exploration - action	
+281698007	Cryocautery - action	
+281767003	Manual dilatation	
+281838007	Disarticulation - action	
+281839004	Exenteration	
+282015008	Shave biopsy - action	
+282089006	Replacement - action	
+282722008	Ultrasound destruction	
+286553006	Plastic operation	
+286637000	Block dissection	
+286792001	Denervation	
+287682008	Application of caustics	
+288324002	Eversion - action	
+288466002	Diathermy incision	
+288468001	Disimpaction - action	
+289928003	Surgical reduction	
+289930001	Enzyme destruction	
+289936007	Shave excision	
+289938008	Microsurgical repair	
+290001001	Recession - action	
+297179000	Microsurgical anastomosis	
+297183000	Revascularization	
+298053008	Devascularization - action	
+298116000	Application of substance	
+299712004	Osteoclasis - action	
+299713009	Osteotomy - action	
+299893001	Interposition anastomosis - action	
+302193003	Actions by modality	
+302196006	Freeing - action	
+302199004	Clinical examination - action	
+302204005	Ultrasound - action	
+302205006	Microwave - action	
+303893007	Functional modification	
+303894001	Structural modification	
+303955003	Transfusion - action	
+303996000	Terminalization	
+303998004	Unused action values	
+304054006	Structural support - action	
+304904003	Manual evacuation	
+312236008	Duplex ultrasound	
+312250003	Magnetic resonance imaging - action	
+312251004	Computed tomography imaging - action	
+312254007	Plain film technique	
+312275004	Fluoroscopic imaging - action	
+312336005	Opening - action	
+312337001	Thermography imaging - action	
+312421008	Radionuclide imaging - action	
+312883004	Desensitization - action	
+313029009	Brachytherapy - action	
+360017003	Clipping - action	
+360018008	Stimulus dosing technique	
+360020006	Extirpation - action	
+360021005	Bypass - action	
+360025001	Harvesting - action	
+360027009	Interposition - action	
+360028004	Surgical biopsy - action	
+360029007	Nonsurgical biopsy - action	
+360032005	Flap reconstruction - action	
+360037004	Imaging method	
+360038009	Gluing - action	
+360051004	Surgical toilet - action	
+360060007	Approximation - action	
+360082000	Apposition - action	
+360084004	Septation - action	
+360087006	Indirect anastomosis - action	
+360146007	Repositioning - action	
+360147003	Attention - action	
+360148008	Obstetric action	
+360149000	Delivery - action	
+360150000	Inlay replacement - action	
+360152008	Monitoring - action	
+360153003	Take impression - action	
+360154009	Trial fit of device - action	
+360160009	Checking - action	
+360161008	Induction - action	
+360163006	Infiltration - action	
+360165004	Apheresis - action	
+360166003	Filtration - action	
+360220002	Mapping - action	
+360222005	Massage - action	
+360223000	Cine imaging - action	
+360226008	Electrical discharge - action	
+360231005	Video imaging - action	
+360232003	Spectroscopy - action	
+360239007	Termination - action	
+360240009	Connection - action	
+360270004	Therapy - action	
+360272007	Discussion - action	
+360273002	Provision - action	
+360314001	Cutting - action	
+360315000	Filing - action	
+360323003	Restore - action	
+360324009	Obturation - action	
+360325005	Simple removal - action	
+360393008	Disinsertion - action	
+362939006	Dissolution - action	
+363659002	Pacing - action	
+363678002	Positron emission tomographic imaging - action	
+367529003	Lending - action	
+367558000	Contouring - action	
+367559008	Preparation - action	
+367560003	Buckling - action	
+367642006	Inversion - action	
+367740008	Suspension - action	
+369242005	Hyfrecation - action	
+386746003	Maintenance - action	
+399009009	B mode ultrasound	
+399015009	Tomographic imaging, plain radiologic - action	
+399035005	Tomographic imaging - action	
+399064001	2D mode ultrasound	
+399155008	M-mode ultrasound	
+410460000	Illumination	
+410461001	Dual diffuse direct illumination	
+410462008	Fine slit beam direct illumination	
+410463003	Broad tangential direct illumination	
+410464009	Indirect sclerotic scatter illumination	
+410465005	Indirect retroillumination from the iris	
+410466006	Indirect retroillumination from the retina	
+410467002	Indirect iris transillumination	
+410756002	Surgical decompression - action	
+410757006	Decompressive excision - action	
+410758001	Decompressive incision - action	
+410759009	Decompressive division - action	
+410769003	Elevation reduction - action	
+410814006	Surgical reduction - action	
+410817004	Dilation repair - action	
+410820007	Surgical transplantation - action	
+415186003	Proximal illumination - action	
+416677001	Internal drainage - action	
+419385000	Use	
+419652001	Take	
+419656003	Examination AND/OR history taking - action	
+419988009	Action of drug administration	
+424208002	Shunt - action	
+424832003	Surgical introduction - action	
+424900004	Recommendation - action	
+425362007	Surgical insertion - action	
+425689005	Teaching - action	
+425704008	Power doppler ultrasound	
+425764006	Transection - action	
+426413004	Closed reduction - action	
+426530000	Open reduction - action	
+426865009	3D mode ultrasound	
+428010000	Open embolization - action	
+428381003	Diathermy - action	
+430975009	Surgical piercing - action	
+439054007	Surgical cataract aspiration - action	
+439237009	Mechanical repair - action	
+439315000	Wedge osteotomy - action	
+439417007	Closed manual reduction - action	
+439513008	Surgical size reduction - action	
+440338007	Dispensing - action	
+440647007	Mechanical construction - action	
+441504007	Surgical manipulation - action	
+442837002	Excision debridement - action	
+445103003	Fixation by wedging - action	
+698788008	Transmission illumination	
+698789000	Reflection illumination	
+698790009	Epifluorescence illumination	
+698792001	Brightfield illumination	
+698793006	Darkfield illumination	
+698794000	Oblique illumination	
+698796003	Phase contrast illumination	
+698797007	Differential interference contrast	
+698798002	Total internal reflection fluorescence	
+702569007	Cone beam computed tomography imaging - action	
+713295009	Surgical replacement - action	
+128004	Hand microscope examination of skin	
+135007	Arthrotomy of wrist joint with exploration and biopsy	
+153001	Cystourethroscopy with resection of ureterocele	
+170009	Special potency disk identification, vancomycin test	
+197002	Mold to yeast conversion test	
+306005	US kidneys	
+334003	Panorex examination of mandible	
+352003	Reagent RBC, preparation antibody sensitized pool	
+353008	IV/irrigation monitoring	
+389000	Tobramycin level	
+435001	Pulmonary inhalation study	
+468008	Glutathione measurement	
+489004	Ferritin level	
+493005	Urobilinogen measurement, 48-hour, feces	
+540006	Antibody to single and double stranded DNA measurement	
+574005	Benzodiazepine measurement	
+628003	Steinman test	
+642006	Cerebral thermography	
+673005	Indirect examination of larynx	
+674004	Abduction test	
+687005	Albumin/Globulin ratio	
+697001	Hepatitis A virus antibody measurement	
+759005	Intracerebral electroencephalogram	
+762008	Computerized axial tomography of cervical spine with contrast	
+767002	White blood cell count - observation	
+814007	Electrophoresis measurement	
+831000	Drawer test	
+853003	Fecal fat measurement, 72-hour collection	
+870006	Carbamazepine measurement	
+879007	Special blood coagulation test, explain by report	
+893000	Tumor antigen measurement	
+910002	MHPG measurement, urine	
+941001	Endoscopy of pituitary gland	
+951000	Ultrasonic guidance for endomyocardial biopsy	
+969009	Incision and exploration of larynx	
+1029002	Fetoscopy	
+1035002	Minimum bactericidal concentration test, microdilution method	
+1043007	Doppler color flow velocity mapping	
+1044001	Diagnostic ultrasound of abdomen and retroperitoneum	
+1225002	Upper arm X-ray	
+1292009	MRI of bladder	
+1324000	Cerebrospinal fluid immunoglobulin G ratio and immunoglobulin G index	
+1358008	Anti-human globulin test, enzyme technique, titer	
+1385001	Echography, scan B-mode for foetal age determination	
+1399002	Incision and exploration of ureter	
+1414009	Angiography of arteriovenous shunt	
+1494008	Osmolarity measurement	
+1550000	Amikacin level	
+1559004	Interleukin (IL)-2 assay	
+1597004	Skeletal X-ray of ankle and foot	
+1616001	Galactosylceramide beta-galactosidase measurement, leukocytes	
+1640009	History and physical examination, insurance	
+1677001	Haagensen test	
+1712009	Immunoglobulin typing, immunoglobulin G	
+1757000	Arthroscopy of wrist with partial synovectomy	
+1759002	Assessment of nutritional status	
+1784004	Fecal stercobilin, qualitative	
+1787006	Ultrasonic guidance for pericardiocentesis	
+1820004	Ethanol measurement, breath	
+1879000	Fluorescent antigen measurement	
+2054004	Barbiturates measurement, quantitative and qualitative	
+2196003	Gas liquid chromatography, electron capture type	
+2214008	Curette test of skin	
+2220009	Complement component assay	
+2225004	Sensititer system test	
+2244006	Arthroscopy of wrist with internal fixation for instability	
+2266004	Venography of adrenal, bilateral	
+2276001	Exploration of popliteal artery	
+2278000	Urinalysis, automated	
+2279008	Antibody detection, red blood cell, enzyme, 1 stage technique, including anti-human globulin	
+2290003	Microbial culture, anaerobic, initial isolation	
+2347001	Diagnostic model construction	
+2373006	Buffy coat smear evaluation	
+2408004	Hexosaminidase A and total hexosaminidase measurement, serum	
+2425002	Epstein-Barr virus serologic test	
+2448007	Cell count of synovial fluid with differential count	
+2461007	Tennis elbow test	
+2507007	5' Nucleotidase measurement	
+2508002	Retrograde urography with kidney-ureter-bladder	
+2531002	Mononuclear cell function assay	
+2629003	Intracranial/cerebral perfusion pressure monitoring	
+2646000	Incision and exploration of vas deferens	
+2690005	MRI of pelvis	
+2693007	Stool fat, quantitative measurement	
+2696004	Hepatic venography with hemodynamic evaluation	
+2722000	Interleukin-3 assay	
+2731000	Serologic test for influenza virus A	
+2737001	Exploratory craniotomy, infratentorial	
+2743004	Operative endoscopy of ileum	
+2811005	Cineradiography of pharynx	
+2842000	Gas chromatography measurement	
+2847006	Cervical myelography	
+2885009	Intradermal allergen test	
+2891006	Arthroscopy of elbow with partial synovectomy	
+2898000	Deoxyribonucleic acid analysis, antenatal, blood	
+2933008	Pneumogynecography	
+2947007	Therapeutic compound measurement	
+3025001	Calcitonin measurement	
+3047001	Kowa fundus photography	
+3063009	Gastroscopy through artificial stoma	
+3116009	Clotting screening	
+3130004	Monitoring of cardiac output by electrocardiogram	
+3143004	Visual field examination and evaluation, intermediate	
+3162001	Gadolinium measurement	
+3256004	Cervical lymphangiogram	
+3257008	Empty and measure peritoneal dialysis fluid	
+3258003	Cerebral arteriography	
+3352000	PTH - Parathyroid hormone level	
+3357006	Iron kinetics	
+3413006	Blood cell morphology	
+3450007	Lymphocytes, T & B cell evaluation	
+3512003	Angiography of arteries of extremity	
+3527003	Antibody measurement	
+3620007	Red cell survival study with hepatic sequestration	
+3683006	Selenium measurement, urine	
+3717006	Dilute Russell viper venom time	
+3735002	Coproporphyrin III measurement	
+3770000	Ward urine dip stick testing	
+3784005	Delayed hypersensitivity skin test for streptokinase-streptodornase	
+3787003	Ultrasonic guidance for needle biopsy	
+3794000	Pregnanetriol measurement	
+3799005	Radiography of adenoids	
+3858009	Echography of thyroid, A-mode	
+3862003	Total vital capacity measurement	
+3926003	Lactate measurement	
+3955006	Antibody elution from red blood cells	
+3967008	Fluorescence polarization immunoassay	
+3971006	Duchenne muscular dystrophy carrier detection	
+3991004	MRI of pelvis, prostate and bladder	
+3998005	Bone imaging of limited area	
+4007002	Anti-human globulin test, indirect, titer, non-gamma	
+4008007	Phlebography of neck	
+4036002	Arthroscopy of elbow with extensive debridement	
+4165006	Delayed hypersensitivity skin test for staphage lysate	
+4192000	Toxicology testing for organophosphate insecticide	
+4321009	Bilateral leg arteriogram	
+4337003	Homogentisic acid measurement	
+4436008	Methylatable chemotaxis protein (MCP) receptor measurement	
+4438009	Venography of vena cava	
+4447001	Autopsy, gross and microscopic examination, stillborn or newborn without central nervous system	
+4466001	Exploration of upper limb artery	
+4475004	Cyanide level	
+4487006	Norepinephrine measurement, supine	
+4525004	Seen by casualty - service	
+4594007	Coproporphyrin isomers, series I & III, urine	
+4613005	Radioimmunoassay	
+4625008	Apical pulse taking	
+4691008	Identification of rotavirus antigen in feces	
+4701005	Colony forming unit-granulocyte-monocyte-erythroid-megakaryocyte assay	
+4713000	Endoscopy and photography	
+4727005	Lipoprotein electrophoresis	
+4737000	Mycobacteria culture	
+4804005	Microbial identification test	
+4815000	Antibody identification, red blood cell antibody panel, enzyme, 2 stage technique including anti-human globulin	
+4902005	Ethchlorvynol measurement	
+4903000	Serum protein electrophoresis	
+4934001	Salpingography	
+4970003	Venography	
+4993009	Ischemic limb exercise with electromyography and lactic acid determination	
+5019003	Direct laryngoscopy with biopsy	
+5021008	Aldosterone measurement, standing, normal salt diet	
+5022001	Lysergic acid diethylamide measurement	
+5025004	Semen analysis, presence and motility of sperm	
+5055006	Uniscept system test	
+5091004	Peripheral vascular disease study	
+5105000	Endoscopy of renal pelvis	
+5110001	Ultrasound peripheral imaging, real time scan	
+5113004	FT4 - Free thyroxine level	
+5131003	Radiography of chest wall	
+5190000	Cell fusion	
+5216004	Three dimensional ultrasound imaging of heart	
+5264008	Total bile acids measurement	
+5338000	Nicotine measurement	
+5393006	Exploration of parathyroid with mediastinal exploration by sternal split approach	
+5422005	Amylase measurement, peritoneal fluid	
+5433008	Skeletal X-ray of lower limb	
+5457008	Serologic test for Rickettsia conorii	
+5479003	Select picture audiometry	
+5482008	Serologic test for Blastomyces	
+5506006	Incision and exploration of abdominal wall	
+5551006	Direct laryngoscopy with arytenoidectomy with operating microscope	
+5570001	Arthrotomy for infection with exploration and drainage of carpometacarpal joint	
+5586008	Aminolevulinic acid dehydratase measurement	
+5608002	Excretion measurement	
+5638008	Carbohydrate measurement	
+5651003	Arylsulfatase A measurement	
+5669007	Portable electroencephalogram awake and asleep with stimulation	
+5731009	Hemosiderin, quantitative measurement	
+5733007	Fluorescent identification of anti-nuclear antibody	
+5785009	Forensic autopsy	
+5818005	Flocculation test	
+5823005	Diagnostic radiography, left	
+5846007	Diagnostic radiography of toes	
+5857002	Complement mediated cytotoxicity assay	
+5880005	Clinical examination	
+5894006	Methyl red test	
+5902003	History and physical examination, complete	
+5986003	Non-sensitized spontaneous sheep erythrocyte binding, E-rosette	
+5995006	Gas liquid chromatography, flame photometric type	
+6007000	Magnetic resonance imaging of chest	
+6019008	Endoscopy of large intestine	
+6063004	Kanamycin measurement	
+6126006	Fitzgerald factor assay	
+6127002	Diagnostic radiography of abdomen, oblique standard	
+6133006	Lymphokine assay	
+6157006	Endoscopic retrograde cholangiopancreatography with biopsy	
+6159009	Galactose measurement	
+6177004	Southern blot assay	
+6205000	Fluorescent antigen, titer	
+6225001	Antibody detection, RBC, enzyme, 2 stage technique, including anti-human globulin	
+6238009	Diagnostic radiography of sacroiliac joints	
+6271008	Echography, immersion B-scan	
+6289009	White blood cell histogram evaluation	
+6309008	Fecal fat differential, quantitative	
+6319002	Beta lactamase, chromogenic cephalosporin susceptibility test	
+6339003	Conditioning play audiometry	
+6353003	Mitsuda reaction to lepromin	
+6354009	Sedimentation rate, Westergren	
+6385000	Exploration of disc space	
+6396008	Galactokinase measurement	
+6434009	Seminal fluid detection	
+6438007	Exploration of ciliary body	
+6470007	Laparoamnioscopy	
+6480006	Urinary bladder residual urine study	
+6491004	Protein S, free assay	
+6521006	Polytomography	
+6556005	Reticulin antibody measurement	
+6589005	Antibody titration, high protein	
+6614002	Antibody to single stranded DNA measurement	
+6615001	Electroretinography with medical evaluation	
+6650009	Radionuclide lacrimal flow study	
+6656003	Acoustic stimulation test	
+6668007	Fibrinogen assay, quantitative	
+6689003	Immunodiffusion, qualitative	
+6690007	Sulfonamide measurement	
+6728003	Radiologic examination of complete spine, anteroposterior and lateral	
+6745008	Indirect laryngoscopy with removal of foreign body	
+6748005	Electron microscopy technique, glass knife making	
+6782004	Methylene blue plating test	
+6880001	C3e receptor measurement	
+6943008	Aldosterone measurement, normal salt diet, urine	
+6986008	Precipitin test for blood group, species identification	
+7103008	Trypsin, duodenal fluid	
+7164004	Toxoplasmosis dye test	
+7174001	Ultrasound peripheral imaging, B-scan	
+7239006	Proctosigmoidoscopy for dilation	
+7256003	Counter-current immunoelectrophoresis	
+7288006	Febrile agglutinins, qualitative	
+7301001	Haptoglobin measurement, chemical	
+7370001	Diagnostic radiography, serial films	
+7375006	Bronchoscopy through tracheostomy with biopsy of bronchus	
+7421004	Bone marrow imaging, limited area	
+7510005	Color vision examination	
+7541006	Exploration of testis	
+7546001	History and physical examination, follow-up for neoplastic disease	
+7557006	Vitamin E measurement	
+7562007	Radioisotope study of endocrine system	
+7576008	Spinal angiography, selective	
+7606004	Methemoglobin measurement, qualitative	
+7656009	Isotope study for renal plasma flow	
+7677007	Consonant differential pressure test	
+7740009	Fructosamine measurement	
+7750005	Flexible fiberoptic laryngoscopy with biopsy	
+7786006	VDRL - Venereal diseases research laboratory test	
+7812007	Radiologic examination of thoracolumbar spine, anteroposterior and lateral	
+7837002	Mercury measurement, hair	
+7839004	Incision and exploration of male perineum	
+7887009	Palmitate measurement	
+7918005	Ward glucometer test	
+7932007	Clonazepam measurement	
+7962001	Ethosuximide measurement	
+7992005	DNA binding autoantibody level	
+7993000	Bone marrow imaging, whole body	
+7995007	Angiography of lower extremity arteries with serialography	
+8031000	Vaginogram	
+8073008	Ultrasonic guidance for aspiration of ova	
+8138008	Antithrombin III assay, functional	
+8151003	Echocardiography for detecting cardiac output	
+8180007	Fiberoptic colonoscopy through colostomy	
+8196005	Clotting factor VII assay	
+8243008	Measurement of interstitial fluid pressure	
+8244002	Alkaline phosphatase isoenzymes measurement	
+8246000	Electroencephalogram during carotid surgery	
+8294001	Rhogam crossmatch	
+8306009	Ultrasonic Doppler	
+8321003	Erichsen's test	
+8358003	Diagnostic radiography, bilateral	
+8364005	Phosphorus measurement	
+8404006	Chemotaxis assay	
+8424005	Alpha-fucosidase measurement, leukocytes	
+8446002	Quantitative immunologic identification of antigen or antibody	
+8449009	Radiography of sacrococcygeal spine	
+8463003	Microbial identification kit, API 20A method	
+8478005	Gastric fluid analysis, pH titration	
+8503002	Diagnostic radiography with contrast media, bilateral	
+8541009	Germanium measurement	
+8574009	Platelet estimate	
+8606002	Transillumination of nasal sinuses	
+8611000	2,3-diphosphoglycerate measurement, erythrocytes	
+8642005	Beryllium measurement	
+8655006	Lead measurement, quantitative, blood	
+8693001	Radionuclide identification of eye tumor	
+8698005	Parathyroid hormone (PTH) immunochemiluminescent measurement	
+8706007	Arginine tolerance test	
+8777004	Incision and exploration of large intestine	
+8848007	Cystourethroscopy with ureteral catheterization and brush biopsy	
+8874001	Arthroscopy of knee with medial and lateral meniscectomy	
+8879006	Creatinine measurement, 24 hour urine	
+8890001	Heavy metal screen on urine	
+8959002	Mass spectrometry measurement	
+8992008	Bacterial serologic study	
+8994009	Radioiron oral absorption study	
+9002005	Manual testing of muscle function	
+9011005	Haptoglobin measurement, electrophoresis	
+9087001	Exploration of cranial nerve	
+9104009	Exploration of soft tissue	
+9106006	Intraoperative cardiac pacing and mapping	
+9134004	Ballistocardiography	
+9173004	Heavy metal screen on gastric fluid	
+9213003	Gastric fluid analysis, free acid measurement	
+9232009	FTA(Abs) - Fluorescent treponemal antibody test	
+9330003	Penicillin measurement	
+9336009	Chemical test, qualitative and quantitative	
+9381008	Antibody identification, RBC, saline and AHG	
+9403009	Diagnostic radiography, minifilm	
+9456006	Blood venous pH level	
+9474002	Endoscopy and calibration	
+9486004	Quantitative microbial culture, filter paper method	
+9517003	Mirror examination	
+9518008	Fistulogram of abdominal wall	
+9525001	Shoulder depression test	
+9564003	Complete blood count with white cell differential, automated	
+9606007	Growth on MacConkey agar without crystal violet test	
+9616004	Tetracaine measurement	
+9698004	Transfer of culture to holding media	
+9704004	Computerized tomography, limited studies	
+9718006	Polymerase chain reaction analysis	
+9759000	Lysozyme resistance test	
+9777005	Urine bile pigment level	
+9833008	Ward specific gravity test	
+9897006	Receptor binding site activity	
+9915003	Clotting factor X assay	
+9954002	Serologic test for rubella	
+9988008	Computerized tomography, oblique	
+10071009	Anti-streptokinase assay	
+10072002	Fluorescent antibody measurement	
+10104004	Flow cytometric crossmatch, two colors	
+10110004	Platelet adhesiveness test	
+10140002	Opiates, qualitative	
+10181005	Diagnostic radiography of sacrococcygeal joint	
+10187009	Ketone bodies measurement, qualitative	
+10199002	Phonocardiogram with ECG lead	
+10223001	Fat stain, urine	
+10239008	Rheumatoid factor, quantitative	
+10268009	Immunochemiluminescent assay	
+10374007	Echography, contact B-scan	
+10428007	Radiologic guidance for dilation of ureters	
+10447005	Maprotiline measurement	
+10489002	Nasal endoscopy with nasal polypectomy	
+10563004	Sleep disorder function test	
+10666003	Exploration for removal of deep foreign body of forearm	
+10670006	Oxazepam measurement	
+10672003	Minimum bactericidal concentration test, macrodilution method	
+10688003	Anodic stripping voltammetry measurement	
+10689006	Exploration of nerve	
+10812009	Blood gases, capillary measurement	
+10820006	Beta-lactamase activity	
+10821005	Gastric fluid analysis, food, forensic	
+10822003	Fecal trypsin, qualitative 24-hour specimen	
+10829007	Test of esophageal sensation using acid perfusion	
+10847001	Bronchoscopy	
+10909005	Audiometric group testing	
+10910000	Crossed immunoelectrophoresis measurement	
+10919004	Atomic absorption, flame type	
+10939000	Iron uptake test	
+10946009	Fajersztajn test	
+10956008	Clot retraction, inhibition by drug	
+10967009	Eosinophil count, nasal	
+11017006	Thromboxane B2 assay	
+11078007	Fletcher factor assay	
+11138003	Acid mucopolysaccharides measurement	
+11148001	Intracardiac electrophysiologic procedure with ECG	
+11175008	Insect identification procedure	
+11184008	Urinalysis, blood, qualitative	
+11198000	Carnitine measurement, tissue	
+11269009	Isotope study for plasma volume	
+11274001	Lactate dehydrogenase level	
+11278003	Kidney imaging with vascular flow and function study	
+11295006	Brachial arteriography	
+11304004	Diphtheria skin test	
+11343000	Anoscopy with biopsy	
+11362002	Epstein-Barr MA antibody measurement	
+11377005	Direct laryngoscopy with excision of tumor	
+11390003	US Retroperitoneum, limited	
+11405004	Gelatin liquefaction test	
+11415005	Antibody identification, RBC antibody panel, standard technique	
+11485002	Electron microscopy for viral identification rapid	
+11560009	Endoscopy of adenoid	
+11561008	C1q receptor measurement	
+11582002	Intraoperative echography	
+11610007	Arylsulfatase A measurement, fibroblasts	
+11634002	Diagnostic radiography, supine and erect studies	
+11732005	Simple cystometrogram	
+11743002	Semen analysis, post vasectomy	
+11756009	Factor H receptor measurement	
+11758005	Quantitative photoplethysmography, venous	
+11760007	Fluoroscopy during operation	
+11819005	Ocular thermography	
+11821000	Pharmacometric study	
+11829003	Vitamin B6 measurement	
+11846000	Aniline measurement	
+11892002	Computerized tomography, sagittal	
+11895000	Tracer study of eye	
+11900001	Seminal examination	
+11905006	Pasco system test	
+11909000	Immunoprecipitin test, quantitative	
+11913007	Mephenytoin measurement	
+11921001	Heinz body determination, induced	
+11971003	Pulmonary ventilation-perfusion study by radioactive krypton	
+12065009	Monitoring of coronary blood flow	
+12118001	Phlebography of portal system	
+12124007	Radioisotope scan of pancreas	
+12199005	Vitamin D, 25-hydroxy measurement	
+12224000	Parathyroid related protein measurement	
+12234009	RBC antibody detection, warm with titration	
+12243000	Exploration of femoral artery	
+12271006	Complement fixation test for syphilis	
+12282003	Dental pulp vitality test	
+12305000	Microbial identification, quadFERM and method	
+12319000	Mexiletine measurement	
+12324002	Exploratory laparotomy with biopsy	
+12341000	Isotope study for glomerular filtration rate	
+12350003	Colonoscopy with rigid sigmoidoscope through colotomy	
+12356009	Diagnostic radiography, stereotactic localization in head	
+12357000	Radiologic examination of renal cyst, translumbar approach	
+12359002	Microbial identification, Neisseria hemophilus identification card method	
+12386002	Patient status determination	
+12387006	Microbial subculture	
+12389009	Xeromammography	
+12429008	Granulocyte migration inhibitor factor assay	
+12455009	Calcium measurement, 24H stool	
+12513003	Diagnostic radiography of hip, bilateral	
+12586001	Physician direction of emergency medical systems	
+12652004	Urine zinc level	
+12700007	Meat inspection for toxicology	
+12712006	Antimony measurement, urine	
+12717000	Culture for viruses	
+12736005	Beta lactamase, acidimetric susceptibility test	
+12744005	Perineal urethroscopy	
+12749000	Radiologic guidance for percutaneous placement of enteroclysis tube	
+12780005	Indirect laryngoscopy with removal of lesion	
+12787008	D-xylose, blood	
+12810006	Cell mediated lympholysis assay	
+12836004	Autobac series II system test	
+12838003	Incision and exploration of neck	
+12843005	Subsequent hospital visit by physician	
+12845003	Malaria smear	
+12889003	Microbial culture, complex	
+12894003	Functional assessment	
+13004001	Rigid proctosigmoidoscopy	
+13021005	Electron microscopy study, examination and report	
+13042007	Elbow flexion test	
+13046005	Cholylglycine measurement	
+13067005	Cholesteryl esters measurement	
+13070009	Hepatitis A virus antibody, IgG type	
+13072001	Antibody identification, RBC, albumin	
+13088001	Corpora cavernosography	
+13142009	Direct laryngoscopy with insertion of obturator	
+13153003	Circulation time, one test	
+13165004	Measurement of glucose 3 hours after glucose challenge for glucose tolerance test	
+13167007	Angiocardiography by cineradiography	
+13205008	Transvaginal ultrasound scan	
+13227004	Acetaldehyde measurement	
+13256004	Dynamic function study, blood clearance	
+13362007	Gas liquid chromatography, Hall conductivity type	
+13374006	Hemolysin detection, cold, quantitative	
+13378009	Thyroid uptake with discharge	
+13385008	Mediate auscultation	
+13405005	Plasma clot lysis time	
+13416003	Ober's test	
+13437006	Alpha globulin gene analysis, blood	
+13450007	Mammary ductogram of multiple ducts	
+13478008	Electrocardiogram, intracardiac, His bundle recording	
+13518004	Computerized tomography without IV contrast followed by IV contrast and more sections	
+13578005	Diagnostic radiography, combined AP and lateral	
+13587001	Gas liquid chromatography, mass analyzer type	
+13607009	Manual examination of breast	
+13661007	Lidocaine measurement	
+13714004	Arthroscopic procedure	
+13728005	Gastric analysis	
+13745000	Dermographia test	
+13801008	Puncture test	
+13837003	Inborn errors of metabolism screen	
+13845008	Gastrointestinal aspirate for localization of blood loss	
+13852005	Transabdominal gastroscopy	
+13892007	Progesterone receptor assay measurement	
+13949001	Fluorescent treponemal absorption test, double staining test	
+13956007	Urine concentration test	
+13966004	Incision and exploration of nipple	
+14089001	Red blood cell count	
+14129001	History and physical examination, follow-up for emotional or mental disease	
+14211004	CT guidance for needle biopsy	
+14227006	Sickle cell identification	
+14233002	Quantitative microbial culture, pad culture method	
+14275001	Boronate affinity chromatography measurement	
+14305004	Vasography	
+14348005	Membrane stability test	
+14393002	Wedge pressure determination	
+14412009	Endoscopic destruction of lesion of peritoneum	
+14421005	Serologic test for herpes virus	
+14431003	Electrocardiogram, single lead	
+14452006	Head distraction test	
+14456009	Measuring height of patient	
+14471008	Serologic test for Fungus	
+14513002	Arthroscopy of ankle with removal of foreign body	
+14563007	Endoscopy of pelvic cavity	
+14573009	Endoscopy of epididymis	
+14577005	Hexosaminidase A and total hexosaminidase measurement, amniotic fluid cells	
+14598005	Vitamin B12 measurement	
+14603002	Apnea monitor surveillance	
+14612000	Immunoassay for detection of antibody to infectious agent, paired sample	
+14663000	Chloride measurement, urine	
+14671001	Thoracoscopy	
+14736009	Patient evaluation and management	
+14740000	Triglycerides measurement	
+14768001	Peripheral blood smear interpretation	
+14769009	Tilt table test	
+14788002	Antimicrobial susceptibility test	
+14826006	Cystourethroscopy with insertion of radioactive substance	
+14830009	Electrolytes measurement, urine	
+14864008	Endoscopy of thyroid	
+14881004	Provocative intraocular pressure test	
+14902005	Autoagglutination test	
+14932002	Urine: Bence Jones' protein level	
+15022001	Maximum breathing capacity measurement	
+15057003	Range of motion measurements and report for hand	
+15175004	HIV-1 dot blot immunobinding assay	
+15220000	Laboratory test	
+15282006	Fetal echocardiography, real time with image documentation (2D) with M-mode recording	
+15291005	Left ventricular recording	
+15351005	Radiocalcium absorption study	
+15356000	Factor VIII R: R Co assay	
+15364006	Scanning or imaging, perfusion study, particulate	
+15376006	Infant development screening	
+15380001	Granulocyte migration factor assay	
+15403001	N-acetylglucosaminidase A & B measurement	
+15435001	Inhalation bronchial challenge testing	
+15460001	Paraldehyde measurement	
+15613003	Ischemic forearm exercise test	
+15695009	Stimulation test	
+15719007	Fine needle aspirate with routine interpretation and report	
+15749009	Cerebral ventriculography, air contrast	
+15757007	Serialography, single plane	
+15774007	Maxillary sinus endoscopy with removal of mucous membrane and polyps	
+15886004	Neoplasm screening	
+15921006	Passive agglutination test	
+15979006	Endoscopy of heart	
+16020002	Laryngeal function studies	
+16029001	Esophagoscopy through artificial stoma	
+16099009	Northern blot assay	
+16132001	Bleeding time, Ivy	
+16151007	Microbial identification and susceptibility test	
+16152000	Norepinephrine measurement, standing	
+16245009	Angiography of renal arteries, bilateral	
+16254007	Lipid panel	
+16278002	Radiologic supervision and interpretation of procedure	
+16298007	Rate measurement	
+16306001	Ocular photography for medical evaluation and documentation, slit lamp photography	
+16308000	Beta-galactosidase measurement	
+16310003	Ultrasonography	
+16314007	Microbial smear examination	
+16361008	Autopsy, gross and microscopic examination, stillborn or newborn	
+16391003	Cystine measurement, quantitative	
+16400008	Heterophile antibody measurement	
+16413002	C1q precipitation test	
+16450001	Leukocyte migration inhibitor factor assay	
+16493001	Platelet aggregation with ADP test	
+16533001	Silica measurement, tissue	
+16572002	Butalbital measurement	
+16608009	Endoscopy of lung	
+16614002	Creatine kinase isoenzyme level	
+16620001	Kidney stone analysis	
+16669004	Hexosaminidase A and total hexosaminidase measurement	
+16690007	Prothrombin consumption time	
+16692004	C>1< complement assay	
+16742006	Indirect antiglobulin test	
+16747000	Percutaneous transhepatic cholangiogram	
+16771007	Skin test, anergy testing	
+16775003	Eikonometric examination including prescribing lenses	
+16830007	Visual acuity testing	
+16860002	Vestibular function test with observation and evaluation by physician	
+16890009	Insulin level	
+16908007	Linoleate measurement	
+16910009	Oral contrast cholecystography	
+16939009	Compatibility test, crossmatch, screening for compatible unit, saline and/or high protein	
+16942003	Probing of lacrimal canaliculi with irrigation	
+16948004	Immunoglobulin G subclass, G4 measurement	
+16960003	Amino acid screen	
+17026004	Radionuclide tissue clearance study	
+17092007	Hepatitis E antibody measurement	
+17103008	Skeletal muscle function study	
+17130003	T3 - Triiodothyronine uptake	
+17146006	NIBP - Non-invasive blood pressure monitoring	
+17164004	Thyroglobulin antibody measurement	
+17188002	Carnitine measurement, serum	
+17259005	Ocular motility study	
+17297005	Mercury level	
+17353009	Microbial growth rate, slow	
+17374005	Queckenstedt test	
+17375006	Ultrasonic guidance for renal pelvis aspiration	
+17424007	Intracarotid amobarbital test	
+17508008	Paraaminohippurate measurement	
+17515000	Radioimmunoprecipitation assay	
+17612009	History and physical examination, known or suspected carrier	
+17624002	Splenoportography, positive contrast	
+17652006	Serologic test for Rickettsia rickettsii	
+17705008	Lymphocyte transformation, phytohemagglutination	
+17711006	Diagnostic radiography, combined posteroanterior and lateral	
+17724006	Continuous wave Doppler analog wave form analysis of upper extremity arteries	
+17745004	Radiography of male genital organs	
+17776005	Arthrography of elbow	
+17814008	Differential solubility measurement	
+17823006	Boric acid measurement, blood	
+17831001	Free fatty acids measurement	
+17882003	Direct laryngoscopy with arytenoidectomy	
+17888004	HDL measurement	
+17923005	Incision and exploration of urethra	
+17969005	T-cell antigen detection	
+17984001	Acute gastrointestinal blood loss imaging	
+18000007	Muscle-testing with torque curves during isometric and isokinetic exercise	
+18005002	Intrinsic-plus test	
+18019002	Heavy metal screen on blood	
+18044005	Endoscopy of trachea	
+18049000	Bronchoscopy with destruction of tumor by laser surgery	
+18091003	Electronystagmography with vertical electrodes	
+18102001	Mammary ductogram	
+18114009	Prenatal examination and care of mother	
+18123007	Latex agglutination inhibition assay	
+18178001	Evaluation for hearing aid and testing	
+18188000	Ophthalmoscopy under general anesthesia	
+18207002	Urea nitrogen/creatinine ratio, serum	
+18284006	Phospholipid measurement	
+18304007	Yeast identification, germ tube test	
+18360001	Red blood cell antibody detection, cold with titration	
+18370004	Radiologic examination of upper gastrointestinal tract with kidney-ureter-bladder	
+18408009	Culture of semen for Brucella	
+18418004	Hepatitis C virus recombinant immunoblot measurement	
+18479002	Testicular imaging with vascular flow	
+18481000	Electron microscopy technique, staining, thin section	
+18499008	Radionuclide study, protein kinetics	
+18529002	Diagnostic radiography of pelvis, stereo views	
+18603005	Time kill assay test	
+18640002	Echography, M-mode	
+18648009	Sleep EEG	
+18649001	Rectal temperature taking	
+18691004	Alpha-subunit of pituitary glycoprotein hormone measurement	
+18706007	Complement sixth component	
+18721001	Cosyntropin test	
+18736003	Middle ear exploration through ear canal incision	
+18747005	Radiologic examination of elbow, anteroposterior and lateral views	
+18762007	Exploration of vein of lower limb	
+18785008	Microbial dry smear	
+18840000	Virus identification by tissue culture inoculation and observation	
+18843003	Mass spectrometry, chemical ionization type	
+18848007	Echography of chest, B-scan with image documentation	
+18856005	Arthroscopy of shoulder with extensive debridement	
+18912009	Radiography of soft tissue of elbow	
+18922003	Thomas test	
+18980008	Red blood cell antibody detection with saline	
+19086005	Radioisotope study of respiratory system	
+19116003	Cytochrome b5 reductase measurement	
+19165008	Measurement of limb length	
+19218007	Incision and exploration of gallbladder	
+19229006	Pesticides screen	
+19247000	Endoscopy of tonsil	
+19252005	Isotope study for gastrointestinal blood loss	
+19271007	Fibrin split products, ethanol gel assay	
+19294008	Endomysium antibody level	
+19401006	Oxytocinase measurement	
+19426002	Exploration of abdominal artery	
+19433002	Direct laryngoscopy with foreign body removal	
+19490002	Radiography of ankle	
+19505000	Immunoglobulin typing, immunoglobulin M	
+19507008	Measurement of deoxyribonuclease C antibody	
+19518008	Protein measurement, urine, quantitative 24 hour	
+19540004	Arthroscopy of knee with lysis of adhesions with manipulation	
+19566001	Sperm evaluation by cervical mucus penetration test	
+19589009	Radiography of mandible	
+19671003	Bone thermography	
+19681004	Nursing evaluation of patient and report	
+19720009	Electron microscopy for viral identification, smear, transmission	
+19731001	Ultrasound study of eye	
+19739004	Platelet aggregation assay	
+19748009	Cyanide measurement, tissue	
+19806009	Direct laryngoscopy, diagnostic, with operating microscope	
+19815002	Toluidine red unheated serum test	
+19821003	Carboxyhemoglobin measurement	
+19838004	In-vitro immunologic test	
+19851009	Microbiology test	
+19869000	Rapid plasma reagin test	
+19876005	Ankle dorsiflexion test	
+19957009	White blood cell (WBC) enzyme determination	
+19961003	Cephalometric analysis	
+20003009	BACTEC susceptibility test by direct method	
+20006001	Passive hemagglutination assay	
+20067007	Retinal photography	
+20099001	Blood typing, ABO, Rho(D) and red blood cell antibody screening	
+20109005	Electrolytes measurement, serum	
+20130001	Endoscopy of skin of trunk	
+20135006	Health screening	
+20174004	Rickettsial serologic study, paired samples	
+20191000	Radial immunodiffusion measurement	
+20284006	Sceptor system test	
+20308005	C>1<r complement assay	
+20312004	Gibberelic acid measurement	
+20350005	Amniography	
+20370004	Microbial identification, Key rapid test	
+20384009	Radioisotope scan of pituitary	
+20436004	Testosterone measurement, unbound	
+20469004	Protein S level	
+20480004	Arthrotomy of mediocarpal joint for infection with exploration and drainage	
+20481000	Determination of prognosis	
+20501000	Urine specific gravity level	
+20508006	Esculin hydrolysis test	
+20521004	Basic pure tone audiometry, air and bone	
+20536001	Direct immunobead assay	
+20552003	Plethysmography	
+20563000	Estriol measurement, serum	
+20592001	Eosinophil count, stool	
+20603005	Special echography procedure	
+20630000	Laparoscopic cholecystectomy with cholangiography	
+20661009	Respirations counting and evaluation	
+20688004	Antibody detection, red blood cell, saline, high protein and anti-human globulin technique	
+20726006	Pressure measurement of sphincter of Oddi	
+20740007	Pelvic echography, B-scan, complete	
+20798004	Radiologic examination of foot, anteroposterior and lateral views	
+20811003	Quantitative photoplethysmography, vascular	
+20816008	OM - Esophageal manometry	
+20817004	Wedge pressure determination of hepatic vein	
+20836009	CT of posterior fossa with contrast	
+20857001	Phencyclidine measurement	
+20868001	Duchenne muscular dystrophy carrier detection, blood	
+20883006	N-methylimidazoleacetic acid measurement, urine	
+20933000	Endoscopy of liver	
+20939001	Quinine measurement	
+21032000	Cardiac mapping	
+21062006	Phenylpropanolamine measurement	
+21126008	Hepatobiliary ductal system imaging including gallbladder	
+21151009	Intracranial pressure monitor maintenance	
+21221007	B blood group typing	
+21331002	Arthrotomy of knee with joint exploration and biopsy	
+21339000	Radiography of intestine	
+21354006	Leukocyte histamine release test	
+21393002	Lymphocyte transformation, antigen induced	
+21403007	Yeast identification, direct mount	
+21423008	Sigmoidoscopy through artificial stoma	
+21424002	Phosphatidylinositol measurement	
+21487006	Sulfadiazine measurement	
+21537002	Parathyroidectomy with mediastinal exploration by sternal split approach	
+21562002	Theophylline measurement, saliva	
+21593001	Ophthalmodynamography	
+21613005	Radiologic examination of cervical spine, anteroposterior and lateral	
+21623001	Biophysical profile of fetus	
+21685006	Ocular photography for medical evaluation and documentation, stereophotography	
+21689000	Endoscopy of adrenal gland	
+21727005	Audiometric test	
+21796007	Direct laryngoscopy with dilation	
+21808008	Environmental culture	
+21831008	Incision and exploration of bronchus	
+21862007	Visual field examination and evaluation, limited	
+21970003	Radiography of ribs	
+22031009	Urine porphyrin levels	
+22034001	Echography of prostate, transrectal approach	
+22059005	Computerized tomography, bone density study	
+22089003	Pulmonary ventilation-perfusion study by radioactive oxygen	
+22189001	Methotrexate level	
+22238008	Pulmonary stress testing	
+22260006	C1q solid phase assay	
+22289008	Radiography of symphysis menti	
+22369009	Platinum measurement	
+22400007	Three-dimensional reconstruction	
+22446007	Diagnostic radiography of chest, minifilm	
+22458007	Epidural venography	
+22494006	Immediate percussion	
+22530002	Arthrography of hip with positive contrast	
+22546005	Esophagogastroscopy through stoma	
+22569008	Glucose measurement, serum	
+22642004	Bacterial bacteriophage typing	
+22644003	Low density lipoprotein measurement	
+22677004	Autopsy, gross examination, teaching, limited	
+22705003	Nasal endoscopy with removal of foreign body	
+22714008	Antigen capture assay	
+22760005	Xeroradiography	
+22761009	Perineogram	
+22766004	Interleukin-6 assay	
+22791004	X-ray of lumbosacral spine	
+22820002	Urine free cortisol level	
+22872007	Stimulation of carotid sinus with simultaneous electrocardiographic monitoring	
+22873002	Pulmonary phlebography	
+22874008	Trifluoperazine measurement	
+22891007	Radiography of teeth	
+22901000	Diagnostic radiography, survey	
+22923001	Factor D complement assay	
+22948003	Radiologic examination of wrist, anteroposterior and lateral views	
+22981002	Ortolani test	
+22998002	Digital examination of colostomy stoma	
+23025002	Gastric transit study	
+23054008	Maxillary sinus endoscopy with removal of foreign body	
+23093004	Microbial identification, Minitek biochemical differentiation disk method	
+23162002	Electroencephalogram awake and asleep with stimulation	
+23170007	Phosphofructokinase measurement, erythrocytes	
+23197000	Air culture for fungus	
+23225008	Gastrointestinal protein loss study	
+23244001	Hemoglobin F level	
+23297007	Catalase test	
+23394003	Radiography of sternum	
+23405006	Schamroth test	
+23426006	Lung function tests	
+23461000	Diagnostic radiography, posteroanterior	
+23463002	Gentamicin level	
+23479001	High performance liquid chromatography, ultra-violet type	
+23481004	Gas liquid chromatography, microwave plasma type	
+23516001	Alpha-n-acetylglucosaminidase measurement, fibroblasts	
+23529001	Mercury measurement, blood	
+23567003	Biotinidase measurement	
+23572007	Transmission bone density study	
+23576005	Plant identification procedure	
+23638006	Electrocardiogram with maximal exercise test	
+23738001	US scan of digestive system	
+23779000	Crystal identification, urine	
+23796004	IL-7 assay	
+23818008	Scanning or imaging, perfusion study, gaseous	
+23828004	Immunodiffusion, qualitative by Ouchterlony technique	
+23846005	Radiography of soft tissue of thigh	
+23852006	Cardiac monitoring	
+23931002	Ultrasonography of head and neck	
+24046001	Ethylene glycol measurement	
+24053005	Heterophile antibody screen	
+24058001	Echocardiography for determining posterior left ventricular wall thickness	
+24103002	Endoscopy of skin of head	
+24135002	Ultrasonography of total body	
+24139008	Endoscopic examination of bladder	
+24200008	Calculus analysis, quantitative, X-ray diffraction	
+24205003	Uric acid measurement, urine	
+24229005	Esophagoscopy for removal of polypoid lesion	
+24247004	Euglobulin lysis time	
+24252009	Porphyrin measurement, total, plasma	
+24267008	Soft tissue X-ray of shoulder and upper limb	
+24420007	SIGy - Sigmoidoscopy	
+24426001	Arsenic measurement, gastric	
+24509005	Urea nitrogen measurement	
+24512008	Special chemical test, explain by report	
+24519004	Free radical assay technique measurement	
+24580007	Raji assay	
+24592007	Serologic test for Ehrlichia sennetsu	
+24593002	Fibrinolytic system test	
+24599003	Pulmonary artery pressure monitoring	
+24623002	Screening mammography	
+24625009	Ely test	
+24643008	Circulating inhibitor assay, factor IX	
+24644002	Leukocyte migration factor assay	
+24646000	Abdominal aortography, translumbar with serialography	
+24683000	Uptake measurement	
+24689001	Computed tomography guidance for treatment planning, teletherapy	
+24714007	Microbial growth rate, rapid	
+24715008	Splenoportogram by splenic arteriography	
+24727006	Temperature gradient studies	
+24737001	Echography of scrotum and contents	
+24753003	Sex hormone binding globulin level	
+24799001	Bicarbonate loading test	
+24808009	Iron chelation study	
+24831009	Intestinal alkaline phosphatase measurement	
+24848001	Ultrasonography of pelvis	
+24856003	Diagnostic radiography of coccyx	
+24892004	Antineuronal nuclear antibody-type I measurement	
+24899008	Infection control culture overnight	
+24968008	Endoscopy of skin of extremities	
+24985005	Visual field examination and evaluation, extended	
+25096005	Phosphatidylglycerol measurement, semi-quantitative, amniotic fluid	
+25104002	Haloperidol measurement	
+25117004	Incision and exploration of adrenal	
+25164004	Ketone bodies measurement, quantitative	
+25197003	Sodium measurement	
+25219007	Antibody to nuclear matrix measurement	
+25284008	Carbon dioxide measurement, partial pressure	
+25306006	Thermography - deep veins	
+25340006	Neutrophil band count	
+25347009	Venography of lower extremity, bilateral	
+25383000	Interleukin-1 alpha assay	
+25411007	Hysterography	
+25434003	Limited eye examination	
+25459007	Coated particle agglutination inhibition assay	
+25464006	Thromboplastin generation test, Hicks-Pitney modification	
+25469001	Anion gap measurement	
+25485006	Exploration of lower limb artery	
+25514001	Digoxin measurement	
+25528007	Microbial identification kit, Enterotube II method	
+25570002	Endoscopy of nose	
+25578009	Human immunodeficiency virus HIV-1 passive hemagglutination assay	
+25579001	Oxygen measurement, partial pressure, arterial	
+25630002	Testicular imaging	
+25643002	Cryoglobulin measurement, type I	
+25645009	Endoscopy of perineum	
+25652006	alpha-L-iduronidase measurement	
+25656009	Physical examination, complete	
+25696006	Venereal Disease Research Laboratory (VDRL), qualitative	
+25697002	Renin, low salt intake measurement, upright, 4 hours	
+25704007	Antigen capture enzyme immunoassay test	
+25732003	Fiberoptic colonoscopy with biopsy	
+25741008	Special audiometric function test	
+25759006	Radionuclide scanning for hot spot	
+25760001	Angiography of cervicocerebral arteries	
+25775009	Gastric fluid analysis, free and total acid measurement	
+25846008	Cystourethroscopy with internal male urethrotomy	
+25850001	US scan of chest	
+25884002	Immunoelectrophoresis	
+25918005	Cystourethroscopy with biopsy of bladder	
+25925003	Concentration for ova and cysts	
+26046004	Cardiovascular stress test using bicycle ergometer	
+26047008	Aspirin tolerance test	
+26052003	Manganese measurement	
+26055001	Evoked stimulus response testing	
+26058004	Thoracoscopy and biopsy	
+26086007	Bone marrow laboratory procedure	
+26154000	Base deficit measurement	
+26234007	Platelet aggregation with collagen test	
+26262000	Phlebography of head	
+26300008	Protein C, functional assay	
+26308001	Deep fine needle aspiration biopsy under radiologic guidance	
+26337002	Exploratory thoracotomy	
+26354005	Sleep electroencephalogram, all night	
+26448005	Malonate test	
+26488000	Plasminogen assay, antigenic	
+26491000	Special potency disk identification test	
+26504003	Arthrotomy of knee with joint exploration	
+26537001	Diagnostic radiography of lumbar spine, combined anteroposterior and lateral	
+26542009	Ward urine dip stick testing for sugar	
+26562001	Phenothiazine measurement, quantitative	
+26589006	Antibody identification, leukocyte antibody	
+26604007	FBC - Full blood count	
+26631005	Silica measurement, urine	
+26648002	Diagnostic radiography, special views	
+26661002	Probing of lacrimal canaliculi	
+26758005	Albumin measurement	
+26762004	Autopsy, gross examination, teaching, complete	
+26769008	Bleeding time, Duke	
+26832000	Alpha-galactosidase measurement, fibroblasts	
+26914001	Tributyrin test	
+26946001	CT of upper extremity with contrast	
+26958001	LFT - Liver function test	
+26962007	Urease test, Wayne method	
+26970002	Hexosaminidase A and total hexosaminidase measurement, serum and leukocytes	
+26981004	O-nitrophenyl-beta-o-galactopyranoside test	
+27032005	Nose and throat examination	
+27051004	Blood arterial pH level	
+27083005	Immunoglobulin G subclass measurement	
+27107005	Osmotic fragility, immediate	
+27115008	Microsomal thyroid antibody measurement	
+27171005	Urinalysis	
+27198009	Rh system genotype	
+27220002	Alpha-1-Fetoprotein measurement, amniotic fluid	
+27260001	Urinalysis, routine and microscopic	
+27300001	Molegraphy	
+27310005	Gold measurement	
+27311009	Ethylene glycol opacity test	
+27322008	17-Ketogenic steroids measurement	
+27323003	Secretory immunoglobulin A measurement	
+27375007	Gallstone analysis	
+27419005	Amino acids measurement	
+27469002	Percutaneous transhepatic portography with hemodynamic evaluation	
+27483000	Diagnostic radiography with contrast media	
+27494001	Human immunodeficiency virus HIV-2 antibody assay	
+27496004	Delayed hypersensitivity skin test	
+27498003	Positive contrast bronchography, bilateral	
+27532002	Endoscopy and removal of foreign material	
+27563003	Congo red test	
+27567002	Microcytotoxicity crossmatch, NIH type	
+27593009	Bacterial biotyping	
+27621006	Acetylsalicylic acid measurement, qualitative	
+27662000	Calibration of urethra	
+27709003	Ascorbic acid measurement	
+27761003	Amphotericin measurement	
+27808002	Video and radio-telemetered electroencephalographic monitoring	
+27821009	Venography of jugular vein	
+27851003	Myelography of entire spinal canal	
+27854006	Urine metanephrine	
+27904004	Antibody to SS-B measurement	
+27965000	Methamphetamine measurement	
+27994007	Theophylline measurement, blood	
+28033003	Fluoroscopic localization for needle biopsy in chest	
+28034009	Follow-up examination of nose and throat	
+28036006	High density lipoprotein cholesterol level	
+28040002	General health panel	
+28101009	Total vital capacity with timed forced expiratory volume and peak flow rate measurement	
+28148006	Re-exploration of parathyroid gland	
+28160007	Pelvic lymphangiography, bilateral	
+28163009	Skin test for tuberculosis, Tine test	
+28261000	Beta-glucosidase measurement	
+28275007	Body plethysmography	
+28297009	Galactosylceramide beta-galactosidase measurement, fibroblasts	

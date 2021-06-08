@@ -1,0 +1,5 @@
+Code	Display	Definition	Canonical Status
+accepted	Accepted	The participant has accepted the appointment.	~accepted
+declined	Declined	The participant has declined the appointment and will not participate in the appointment.	~declined
+tentative	Tentative	The participant has  tentatively accepted the appointment. This could be automatically created by a system and requires further processing before it can be accepted. There is no commitment that attendance will occur.	~draft
+needs-action	Needs Action	The participant needs to indicate if they accept the appointment by changing this status to one of the other statuses.	~failed

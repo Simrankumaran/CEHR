@@ -1,0 +1,445 @@
+Code	Display	Definition
+129265001	Patient evaluation - action	
+129266000	Measurement - action	
+129267009	Administrative action	
+129268004	Observation - action	
+129269007	Assisting - action	
+129271007	Management - action	
+129272000	Stimulation - action	
+129273005	Admission - action	
+129274004	Discharge - action	
+129275003	Administrative transfer - action	
+129276002	Referral - action	
+129277006	Administrative disposition - action	
+129278001	Audit - action	
+129279009	Medicolegal action	
+129280007	Medicolegal testimony - action	
+129283009	Training - action	
+129284003	Surgical action values	
+129286001	Microsurgery - action	
+129287005	Incision - action	
+129288000	Exploratory incision - action	
+129289008	Drainage - action	
+129291000	Drilling - action	
+129292007	Evacuation - action	
+129293002	Dissection - action	
+129294008	Discission - action	
+129295009	Slitting - action	
+129296005	Bisection - action	
+129297001	Bifurcation - action	
+129298006	Surgical division	
+129299003	Release - action	
+129300006	Puncture - action	
+129301005	Scarification - action	
+129303008	Removal - action	
+129304002	Excision - action	
+129305001	Wedge excision - action	
+129306000	Surgical removal - action	
+129307009	Expulsion - action	
+129308004	Reexcision - action	
+129309007	Amputation - action	
+129310002	Transfixion - action	
+129311003	Evisceration - action	
+129312005	Enucleation - action	
+129313000	Trephine - action	
+129314006	BX - Biopsy	
+129315007	Incision biopsy	
+129316008	Aspiration - action	
+129317004	Debridement - action	
+129318009	Saucerization - action	
+129319001	Curettage - action	
+129321006	Trimming - action	
+129322004	Shaving - action	
+129323009	Scraping - action	
+129324003	Filleting - action	
+129325002	Introduction - action	
+129326001	Injection	
+129327005	Tattooing - action	
+129328000	Inflation - action	
+129330003	Infusion - action	
+129331004	Perfusion - action	
+129332006	Irrigation - action	
+129333001	Insufflation - action	
+129334007	Instillation - action	
+129335008	Embolization - action	
+129337000	Replantation	
+129339002	Intubation - action	
+129340000	Sounding - action	
+129344009	Surgical recession - action	
+129345005	Resection-recession - action	
+129346006	Radial incision - action	
+129347002	Transfer - action	
+129348007	Z-plasty - action	
+129349004	Lengthening procedure	
+129350004	Shortening	
+129351000	Augmentation	
+129352007	Advancement	
+129353002	Suspension and fixation - action	
+129354008	Exteriorization - action	
+129355009	Marsupialization - action	
+129356005	Reinforcement - action	
+129357001	Closure - action	
+129358006	Layered closure - action	
+129360008	Oversewing - action	
+129366002	Closure by buckling - action	
+129368001	Cerclage - action	
+129369009	Ligation - action	
+129371009	Fixation - action	
+129372002	Cryopexy - action	
+129373007	Plication - action	
+129374001	Imbrication - action	
+129376004	Creation	
+129377008	Reconstruction - action	
+129378003	Stabilization - action	
+129379006	Fusion - action	
+129380009	Anchoring - action	
+129381008	Enlargement - action	
+129382001	Destruction - action	
+129383006	Avulsion - action	
+129384000	Decortication - action	
+129385004	Stripping - action	
+129386003	Stripping and ligation - action	
+129387007	Abrasion - action	
+129388002	Salabrasion - action	
+129389005	Grinding - action	
+129390001	Coagulation - action	
+129391002	Obliteration - action	
+129392009	Cauterization - action	
+129393004	Cryosurgery - action	
+129394005	Thermocautery - action	
+129395006	Fulguration - action	
+129396007	Electrodesiccation - action	
+129397003	Electrocoagulation - action	
+129398008	Electrocautery	
+129399000	Electrodestruction - action	
+129400007	Crushing - action	
+129401006	Fragmentation - action	
+129402004	Emulsification - action	
+129403009	Chemosurgery - action	
+129404003	Chemical cautery	
+129405002	Photocoagulation - action	
+129406001	Transplantation - action	
+129407005	Grafting	
+129408000	Manipulative procedure	
+129409008	Mobilization - action	
+129410003	Remobilization - action	
+129411004	Traction - action	
+129412006	Manual reduction - action	
+129413001	Elevation - action	
+129414007	Instrumental elevation - action	
+129415008	Extraction - action	
+129416009	Surgical extraction - action	
+129418005	Expression - action	
+129419002	Dilatation - action	
+129420008	Surgical stretching	
+129421007	Dilation and stretching - action	
+129423005	Bouginage	
+129424004	Fitting - action	
+129425003	Application actions	
+129426002	Adjustment - action	
+129427006	Reduction - action	
+129430004	Consultation - action	
+129431000	History taking - action	
+129433002	Inspection	
+129434008	Palpation - action	
+129435009	Percussion - action	
+129436005	Listening - action	
+129437001	Optical transillumination - action	
+129438006	Prescription - action	
+129441002	Counseling - action	
+129442009	Iontophoresis - action	
+129443004	Electrolysis - action	
+129444005	Surgical galvanism - action	
+129445006	Administration - action	
+129449000	Functional assessment - action	
+183648002	Long-term assistance	
+245854003	Proximal anastomosis	
+245855002	Distal anastomosis	
+255595002	Debulking - action	
+256644001	Darning - action	
+257729003	Ablation	
+257730008	Chemical destruction	
+257739009	Open adjustment	
+257741005	Anastomosis	
+257742003	Direct anastomosis - action	
+257743008	Lecompte maneuver	
+257744002	End-to-end anastomosis - action	
+257745001	Double barrelled end-to-end anastomosis - action	
+257746000	End-to-side anastomosis - action	
+257747009	Roux-en-Y - action	
+257748004	End-to-side anastomosis without tunnel	
+257749007	End-to-side anastomosis with tunnel	
+257750007	Side-to-side anastomosis	
+257751006	"Wallace ""69"" side-to-end anastomosis - action"	
+257759008	Fine needle aspiration biopsy - action	
+257768005	Binding - action	
+257777003	Chemical inactivation	
+257778008	Chemodissolution	
+257780002	Mass closure	
+257781003	Interrupted mass closure	
+257782005	Continuous mass closure	
+257783000	Thermocoagulation	
+257784006	Semm thermal coagulation	
+257785007	Wolf thermal coagulation	
+257786008	Cryotherapy - action	
+257788009	Delamination	
+257789001	Hydrodelamination	
+257791009	Desiccation - action	
+257802002	Anterior displacement	
+257803007	Posterior displacement	
+257804001	Lateral displacement	
+257805000	Medial displacement	
+257806004	Close rectal dissection	
+257808003	Ultrasonic dissection	
+257811002	External drainage	
+257817003	Digital evacuation	
+257821005	Manual expression	
+257822003	Extracapsular extraction	
+257824002	Intracapsular extraction	
+257825001	Fenestration - action	
+257846005	Ballistic fragmentation	
+257850003	Mechanical fragmentation	
+257855008	Electromagnetic pulse fragmentation	
+257857000	Galvanism	
+257859002	High intensity focused ultrasound	
+257863009	Radioactive destruction	
+257867005	Insertion - action	
+257878002	Keeling - action	
+257880008	Localization	
+257884004	Immobilization - action	
+257885003	Occlusion	
+257886002	Operative ultrasound	
+257889009	Padding	
+257890000	Peeling - action	
+257893003	Pressure	
+257894009	One handed pressure	
+257895005	Two handed pressure	
+257897002	Realignment - action	
+257903006	Surgical repair	
+257905004	Keel repair	
+257906003	Mayo repair	
+257907007	Patching - action	
+257911001	Repair of recurrence	
+257912008	Rotation - action	
+257913003	IR - Internal rotation	
+257914009	External rotation	
+257915005	Sampling	
+257916006	Bilateral sampling	
+257917002	Bilateral sequential sampling	
+257918007	Bilateral simultaneous sampling	
+257923007	Sampling without trap	
+257926004	Unilateral sampling	
+257928003	Segmentation	
+257933004	Tamponade - action	
+257935006	Tapering - action	
+257937003	Soft tissue transfer	
+257938008	Transfer of bone block	
+257940003	Transposition - action	
+258061005	Photic stimulation	
+260222006	Single photon emission computed tomography - action	
+261027000	Sequential anastomosis	
+261191006	Open extraction - action	
+261197005	Doppler color flow	
+261198000	Doppler continuous wave	
+261199008	Doppler pulsed	
+261391004	Resurfacing - action	
+261398005	Alloplastic grafting	
+261498006	Bone-patellar tendon-bone reconstruction	
+261499003	Braided prosthetic ligament reconstruction	
+261518005	Cystodiathermy - action	
+261519002	Diathermy excision	
+261520008	Diathermy snare - action	
+261526002	Electromagnetic fragmentation	
+261545006	Loop diathermy excision	
+261553003	REDY - Regeneration of dialysate	
+261569005	Thermocompaction	
+261576000	Ultrasound fragmentation - action	
+262143007	Side-to-end anastomosis - action	
+263720003	Compression	
+264592006	Intravesical drug therapy	
+264594007	Laser - action	
+264730003	Lateral rotation - action	
+264739002	Medial rotation - action	
+264947006	Prescription of optical aid - action	
+272381008	Microvascular anastomosis - action	
+274392008	EUA - Examination under anesthetic	
+276734006	Mechanical assistance	
+277261002	Excision biopsy	
+277607009	Digital removal	
+277763000	Refashioning	
+277851003	Conduit anastomosis	
+277852005	Reservoir anastomosis	
+278110001	Radiographic imaging - action	
+278292003	Ultrasound imaging - action	
+278312000	Reattachment - action	
+278313005	Regeneration - action	
+278420002	Sealing	
+281609006	Cryoablation - action	
+281613004	Decompression - action	
+281615006	Exploration - action	
+281698007	Cryocautery - action	
+281767003	Manual dilatation	
+281838007	Disarticulation - action	
+281839004	Exenteration	
+282015008	Shave biopsy - action	
+282089006	Replacement - action	
+282722008	Ultrasound destruction	
+286553006	Plastic operation	
+286637000	Block dissection	
+286792001	Denervation	
+287682008	Application of caustics	
+288324002	Eversion - action	
+288466002	Diathermy incision	
+288468001	Disimpaction - action	
+289928003	Surgical reduction	
+289930001	Enzyme destruction	
+289936007	Shave excision	
+289938008	Microsurgical repair	
+290001001	Recession - action	
+297179000	Microsurgical anastomosis	
+297183000	Revascularization	
+298053008	Devascularization - action	
+298116000	Application of substance	
+299712004	Osteoclasis - action	
+299713009	Osteotomy - action	
+299893001	Interposition anastomosis - action	
+302193003	Actions by modality	
+302196006	Freeing - action	
+302199004	Clinical examination - action	
+302204005	Ultrasound - action	
+302205006	Microwave - action	
+303893007	Functional modification	
+303894001	Structural modification	
+303955003	Transfusion - action	
+303996000	Terminalization	
+303998004	Unused action values	
+304054006	Structural support - action	
+304904003	Manual evacuation	
+312236008	Duplex ultrasound	
+312250003	Magnetic resonance imaging - action	
+312251004	Computed tomography imaging - action	
+312254007	Plain film technique	
+312275004	Fluoroscopic imaging - action	
+312336005	Opening - action	
+312337001	Thermography imaging - action	
+312421008	Radionuclide imaging - action	
+312883004	Desensitization - action	
+313029009	Brachytherapy - action	
+360017003	Clipping - action	
+360018008	Stimulus dosing technique	
+360020006	Extirpation - action	
+360021005	Bypass - action	
+360025001	Harvesting - action	
+360027009	Interposition - action	
+360028004	Surgical biopsy - action	
+360029007	Nonsurgical biopsy - action	
+360032005	Flap reconstruction - action	
+360037004	Imaging method	
+360038009	Gluing - action	
+360051004	Surgical toilet - action	
+360060007	Approximation - action	
+360082000	Apposition - action	
+360084004	Septation - action	
+360087006	Indirect anastomosis - action	
+360146007	Repositioning - action	
+360147003	Attention - action	
+360148008	Obstetric action	
+360149000	Delivery - action	
+360150000	Inlay replacement - action	
+360152008	Monitoring - action	
+360153003	Take impression - action	
+360154009	Trial fit of device - action	
+360160009	Checking - action	
+360161008	Induction - action	
+360163006	Infiltration - action	
+360165004	Apheresis - action	
+360166003	Filtration - action	
+360220002	Mapping - action	
+360222005	Massage - action	
+360223000	Cine imaging - action	
+360226008	Electrical discharge - action	
+360231005	Video imaging - action	
+360232003	Spectroscopy - action	
+360239007	Termination - action	
+360240009	Connection - action	
+360270004	Therapy - action	
+360272007	Discussion - action	
+360273002	Provision - action	
+360314001	Cutting - action	
+360315000	Filing - action	
+360323003	Restore - action	
+360324009	Obturation - action	
+360325005	Simple removal - action	
+360393008	Disinsertion - action	
+362939006	Dissolution - action	
+363659002	Pacing - action	
+363678002	Positron emission tomographic imaging - action	
+367529003	Lending - action	
+367558000	Contouring - action	
+367559008	Preparation - action	
+367560003	Buckling - action	
+367642006	Inversion - action	
+367740008	Suspension - action	
+369242005	Hyfrecation - action	
+386746003	Maintenance - action	
+399009009	B mode ultrasound	
+399015009	Tomographic imaging, plain radiologic - action	
+399035005	Tomographic imaging - action	
+399064001	2D mode ultrasound	
+399155008	M-mode ultrasound	
+410460000	Illumination	
+410461001	Dual diffuse direct illumination	
+410462008	Fine slit beam direct illumination	
+410463003	Broad tangential direct illumination	
+410464009	Indirect sclerotic scatter illumination	
+410465005	Indirect retroillumination from the iris	
+410466006	Indirect retroillumination from the retina	
+410467002	Indirect iris transillumination	
+410756002	Surgical decompression - action	
+410757006	Decompressive excision - action	
+410758001	Decompressive incision - action	
+410759009	Decompressive division - action	
+410769003	Elevation reduction - action	
+410814006	Surgical reduction - action	
+410817004	Dilation repair - action	
+410820007	Surgical transplantation - action	
+415186003	Proximal illumination - action	
+416677001	Internal drainage - action	
+419385000	Use	
+419652001	Take	
+419656003	Examination AND/OR history taking - action	
+419988009	Action of drug administration	
+424208002	Shunt - action	
+424832003	Surgical introduction - action	
+424900004	Recommendation - action	
+425362007	Surgical insertion - action	
+425689005	Teaching - action	
+425704008	Power doppler ultrasound	
+425764006	Transection - action	
+426413004	Closed reduction - action	
+426530000	Open reduction - action	
+426865009	3D mode ultrasound	
+428010000	Open embolization - action	
+428381003	Diathermy - action	
+430975009	Surgical piercing - action	
+439054007	Surgical cataract aspiration - action	
+439237009	Mechanical repair - action	
+439315000	Wedge osteotomy - action	
+439417007	Closed manual reduction - action	
+439513008	Surgical size reduction - action	
+440338007	Dispensing - action	
+440647007	Mechanical construction - action	
+441504007	Surgical manipulation - action	
+442837002	Excision debridement - action	
+445103003	Fixation by wedging - action	
+698788008	Transmission illumination	
+698789000	Reflection illumination	
+698790009	Epifluorescence illumination	
+698792001	Brightfield illumination	
+698793006	Darkfield illumination	
+698794000	Oblique illumination	
+698796003	Phase contrast illumination	
+698797007	Differential interference contrast	
+698798002	Total internal reflection fluorescence	
+702569007	Cone beam computed tomography imaging - action	
+713295009	Surgical replacement - action	

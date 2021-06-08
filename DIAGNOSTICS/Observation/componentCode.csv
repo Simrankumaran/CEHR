@@ -1,0 +1,1001 @@
+Code	Display
+1-8	Acyclovir [Susceptibility]
+10-9	Amdinocillin [Susceptibility] by Serum bactericidal titer
+100-8	Cefoperazone [Susceptibility] by Minimum inhibitory concentration (MIC)
+1000-9	DBG Ab [Presence] in Serum or Plasma from Blood product unit
+10000-8	R wave duration in lead AVR
+10001-6	R wave duration in lead I
+10002-4	R wave duration in lead II
+10003-2	R wave duration in lead III
+10004-0	R wave duration in lead V1
+10005-7	R wave duration in lead V2
+10006-5	R wave duration in lead V3
+10007-3	R wave duration in lead V4
+10008-1	R wave duration in lead V5
+10009-9	R wave duration in lead V6
+1001-7	DBG Ab [Presence] in Serum or Plasma from Donor
+10010-7	R' wave amplitude in lead AVF
+10011-5	R' wave amplitude in lead AVL
+10012-3	R' wave amplitude in lead AVR
+10013-1	R' wave amplitude in lead I
+10014-9	R' wave amplitude in lead II
+10015-6	R' wave amplitude in lead III
+10016-4	R' wave amplitude in lead V1
+10017-2	R' wave amplitude in lead V2
+10018-0	R' wave amplitude in lead V3
+10019-8	R' wave amplitude in lead V4
+1002-5	DBG Ab [Presence] in Serum or Plasma
+10020-6	R' wave amplitude in lead V5
+10021-4	R' wave amplitude in lead V6
+10022-2	R' wave duration in lead AVF
+10023-0	R' wave duration in lead AVL
+10024-8	R' wave duration in lead AVR
+10025-5	R' wave duration in lead I
+10026-3	R' wave duration in lead II
+10027-1	R' wave duration in lead III
+10028-9	R' wave duration in lead V1
+10029-7	R' wave duration in lead V2
+1003-3	Indirect antiglobulin test.complement specific reagent [Presence] in Serum or Plasma
+10030-5	R' wave duration in lead V3
+10031-3	R' wave duration in lead V4
+10032-1	R' wave duration in lead V5
+10033-9	R' wave duration in lead V6
+10034-7	S wave amplitude in lead AVF
+10035-4	S wave amplitude in lead AVL
+10036-2	S wave amplitude in lead AVR
+10037-0	S wave amplitude in lead I
+10038-8	S wave amplitude in lead II
+10039-6	S wave amplitude in lead III
+1004-1	Direct antiglobulin test.complement specific reagent [Presence] on Red Blood Cells
+10040-4	S wave amplitude in lead V1
+10041-2	S wave amplitude in lead V2
+10042-0	S wave amplitude in lead V3
+10043-8	S wave amplitude in lead V4
+10044-6	S wave amplitude in lead V5
+10045-3	S wave amplitude in lead V6
+10046-1	S wave duration in lead AVF
+10047-9	S wave duration in lead AVL
+10048-7	S wave duration in lead AVR
+10049-5	S wave duration in lead I
+1005-8	Indirect antiglobulin test.IgG specific reagent [Presence] in Serum or Plasma
+10050-3	S wave duration in lead II
+10051-1	S wave duration in lead III
+10052-9	S wave duration in lead V1
+10053-7	S wave duration in lead V2
+10054-5	S wave duration in lead V3
+10055-2	S wave duration in lead V4
+10056-0	S wave duration in lead V5
+10057-8	S wave duration in lead V6
+10058-6	S' wave amplitude in lead AVF
+10059-4	S' wave amplitude in lead AVL
+1006-6	Direct antiglobulin test.IgG specific reagent [Interpretation] on Red Blood Cells
+10060-2	S' wave amplitude in lead AVR
+10061-0	S' wave amplitude in lead I
+10062-8	S' wave amplitude in lead II
+10063-6	S' wave amplitude in lead III
+10064-4	S' wave amplitude in lead V1
+10065-1	S' wave amplitude in lead V2
+10066-9	S' wave amplitude in lead V3
+10067-7	S' wave amplitude in lead V4
+10068-5	S' wave amplitude in lead V5
+10069-3	S' wave amplitude in lead V6
+1007-4	Direct antiglobulin test.poly specific reagent [Presence] on Red Blood Cells
+10070-1	S' wave duration in lead AVF
+10071-9	S' wave duration in lead AVL
+10072-7	S' wave duration in lead AVR
+10073-5	S' wave duration in lead I
+10074-3	S' wave duration in lead II
+10075-0	S' wave duration in lead III
+10076-8	S' wave duration in lead V1
+10077-6	S' wave duration in lead V2
+10078-4	S' wave duration in lead V3
+10079-2	S' wave duration in lead V4
+1008-2	Indirect antiglobulin test.poly specific reagent [Presence] in Serum or Plasma
+10080-0	S' wave duration in lead V5
+10081-8	S' wave duration in lead V6
+10082-6	ST initial amplitude 6 ms in lead AVF
+10083-4	ST initial amplitude 6 ms in lead AVL
+10084-2	ST initial amplitude 6 ms in lead AVR
+10085-9	ST initial amplitude 6 ms in lead I
+10086-7	ST initial amplitude 6 ms in lead II
+10087-5	ST initial amplitude 6 ms in lead III
+10088-3	ST initial amplitude 6 ms in lead V1
+10089-1	ST initial amplitude 6 ms in lead V2
+1009-0	Deprecated Direct antiglobulin test.poly specific reagent [Presence] on Red Blood Cells
+10090-9	ST initial amplitude 6 ms in lead V3
+10091-7	ST initial amplitude 6 ms in lead V4
+10092-5	ST initial amplitude 6 ms in lead V5
+10093-3	ST initial amplitude 6 ms in lead V6
+10094-1	ST slope in lead AVF
+10095-8	ST slope in lead AVL
+10096-6	ST slope in lead AVR
+10097-4	ST slope in lead I
+10098-2	ST slope in lead II
+10099-0	ST slope in lead III
+101-6	Cefoperazone [Susceptibility] by Disk diffusion (KB)
+1010-8	E sup(w) Ab [Presence] in Serum or Plasma from Blood product unit
+10100-6	ST slope in lead V1
+10101-4	ST slope in lead V2
+10102-2	ST slope in lead V3
+10103-0	ST slope in lead V4
+10104-8	ST slope in lead V5
+10105-5	ST slope in lead V6
+10106-3	ST wave end displacement in lead AVF
+10107-1	ST wave end displacement in lead AVL
+10108-9	ST wave end displacement in lead AVR
+10109-7	ST wave end displacement in lead I
+1011-6	E sup(w) Ab [Presence] in Serum or Plasma from Donor
+10110-5	ST wave end displacement in lead II
+10111-3	ST wave end displacement in lead III
+10112-1	ST wave end displacement in lead V1
+10113-9	ST wave end displacement in lead V2
+10114-7	ST wave end displacement in lead V3
+10115-4	ST wave end displacement in lead V4
+10116-2	ST wave end displacement in lead V5
+10117-0	ST wave end displacement in lead V6
+10118-8	ST wave mid displacement in lead AVF
+10119-6	ST wave mid displacement in lead AVL
+1012-4	E sup(w) Ab [Presence] in Serum or Plasma
+10120-4	ST wave mid displacement in lead AVR
+10121-2	ST wave mid displacement in lead I
+10122-0	ST wave mid displacement in lead II
+10123-8	ST wave mid displacement in lead III
+10124-6	ST wave mid displacement in lead V1
+10125-3	ST wave mid displacement in lead V2
+10126-1	ST wave mid displacement in lead V3
+10127-9	ST wave mid displacement in lead V4
+10128-7	ST wave mid displacement in lead V5
+10129-5	ST wave mid displacement in lead V6
+1013-2	E sup(w) Ag [Presence] on Red Blood Cells from Blood product unit
+10130-3	T' wave amplitude in lead AVF
+10131-1	T' wave amplitude in lead AVL
+10132-9	T' wave amplitude in lead AVR
+10133-7	T' wave amplitude in lead I
+10134-5	T' wave amplitude in lead II
+10135-2	T' wave amplitude in lead III
+10136-0	T' wave amplitude in lead V1
+10137-8	T' wave amplitude in lead V2
+10138-6	T' wave amplitude in lead V3
+10139-4	T' wave amplitude in lead V4
+1014-0	E sup(w) Ag [Presence] on Red Blood Cells from Donor
+10140-2	T' wave amplitude in lead V5
+10141-0	T' wave amplitude in lead V6
+10142-8	T wave amplitude in lead AVF
+10143-6	T wave amplitude in lead AVL
+10144-4	T wave amplitude in lead AVR
+10145-1	T wave amplitude in lead I
+10146-9	T wave amplitude in lead II
+10147-7	T wave amplitude in lead III
+10148-5	T wave amplitude in lead V1
+10149-3	T wave amplitude in lead V2
+1015-7	E sup(w) Ag [Presence] on Red Blood Cells
+10150-1	T wave amplitude in lead V3
+10151-9	T wave amplitude in lead V4
+10152-7	T wave amplitude in lead V5
+10153-5	T wave amplitude in lead V6
+10154-3	Chief complaint Narrative - Reported
+10155-0	History of allergies, reported
+10156-8	History of Childhood diseases Narrative
+10157-6	History of family member diseases Narrative
+10158-4	History of Functional status Narrative
+10159-2	History of Industrial exposure Narrative
+1016-5	E Ab [Presence] in Serum or Plasma from Blood product unit
+10160-0	History of Medication use Narrative
+10161-8	History of Occupational exposure Narrative
+10162-6	History of pregnancies Narrative
+10163-4	History of pregnancies
+10164-2	History of Present illness Narrative
+10165-9	Deprecated History of psychiatric symptoms and diseases Narrative
+10166-7	History of Social function Narrative
+10167-5	History of Surgical procedures Narrative
+10168-3	History of Cardiovascular system disorders Narrative
+10169-1	History of Ear disorders Narrative
+1017-3	E Ab [Presence] in Serum or Plasma from Donor
+10170-9	History of Endocrine system disorders Narrative
+10171-7	History of Eyes disorders Narrative
+10172-5	History of Hematologic system disorders Narrative
+10173-3	History of Musculoskeletal system disorders Narrative
+10174-1	History of Nose disorders Narrative
+10175-8	History of Oral cavity disorders Narrative
+10176-6	History of Reproductive system disorders Narrative
+10177-4	History of Respiratory system disorders Narrative
+10178-2	History of Skin disorders Narrative
+10179-0	History of Throat and Neck disorders Narrative
+1018-1	E Ab [Presence] in Serum or Plasma
+10180-8	History of Throat and Neck disorders
+10181-6	History of Urinary tract disorders Narrative
+10182-4	History of Travel Narrative
+10183-2	Hospital discharge medications Narrative
+10184-0	Hospital discharge physical findings Narrative
+10185-7	Hospital discharge procedures Narrative
+10186-5	Identifying information Narrative Observed
+10187-3	Review of systems Narrative - Reported
+10188-1	Review of systems overview Narrative - Reported
+10189-9	Review of systems overview - Reported
+1019-9	E Ag [Presence] on Red Blood Cells from Blood product unit
+10190-7	Mental status Narrative
+10191-5	Physical findings of Abdomen Narrative
+10192-3	Physical findings of Back Narrative
+10193-1	Physical findings of Breasts Narrative
+10194-9	Physical findings of Neurologic deep tendon reflexes Narrative
+10195-6	Physical findings of Ear Narrative
+10196-4	Physical findings of Extremities Narrative
+10197-2	Physical findings of Eye Narrative
+10198-0	Physical findings of Genitourinary tract Narrative
+10199-8	Physical findings of Head Narrative
+102-4	Cefoperazone [Susceptibility] by Serum bactericidal titer
+1020-7	E Ag [Presence] on Red Blood Cells from Donor
+10200-4	Physical findings of Heart Narrative
+10201-2	Physical findings of Mouth and Throat and Teeth Narrative
+10202-0	Physical findings of Nervous system Narrative
+10203-8	Physical findings of Nose Narrative
+10204-6	Physical findings of Pelvis Narrative
+10205-3	Physical findings of Rectum Narrative
+10206-1	Physical findings of Skin Narrative
+10207-9	Physical findings of Thorax and Lungs Narrative
+10208-7	Physical findings of Vessels Narrative
+10209-5	Physical findings of Neurologic balance and Coordination Narrative
+1021-5	E Ag [Presence] on Red Blood Cells
+10210-3	Physical findings of General status Narrative
+10211-1	Physical findings of Sense of touch Narrative
+10212-9	Physical findings of Strength Narrative
+10213-7	Surgical operation note anesthesia Narrative
+10214-5	Surgical operation note anesthesia duration
+10215-2	Surgical operation note findings Narrative
+10216-0	Surgical operation note fluids Narrative
+10217-8	Surgical operation note indications [Interpretation] Narrative
+10218-6	Surgical operation note postoperative diagnosis Narrative
+10219-4	Surgical operation note preoperative diagnosis Narrative
+1022-3	Fy sup(a) Ab [Presence] in Serum or Plasma from Blood product unit
+10220-2	Surgical operation note prep time duration
+10221-0	Surgical operation note specimens taken Narrative
+10222-8	Surgical operation note surgical complications [Interpretation] Narrative
+10223-6	Surgical operation note surgical procedure Narrative
+10224-4	Hemodynamic method special circumstances
+10225-1	Cardiac measurement device Institution inventory number
+10226-9	Oxygen content in Intravascular space
+10227-7	Cardiac measurement device Vendor model number
+10228-5	Cardiac measurement device Vendor serial number
+10229-3	Hemodynamic method Type of
+1023-1	Fy sup(a) Ab [Presence] in Serum or Plasma from Donor
+10230-1	Left ventricular Ejection fraction
+10231-9	Right ventricular Ejection fraction
+10232-7	Oxygen content in Aorta root
+10233-5	Oxygen content in Left atrium
+10234-3	Oxygen content in Right atrium
+10235-0	Oxygen content in High right atrium
+10236-8	Oxygen content in Low right atrium
+10237-6	Oxygen content in Mid right atrium
+10238-4	Oxygen content in Left ventricle
+10239-2	Oxygen content in Right ventricular outflow tract
+1024-9	Fy sup(a) Ab [Presence] in Serum or Plasma
+10240-0	Oxygen content in Right ventricle
+10241-8	Oxygen content in Coronary sinus
+10242-6	Oxygen content in Ductus arteriosus
+10243-4	Oxygen content in Inferior vena cava
+10244-2	Oxygen content in Left pulmonary artery
+10245-9	Oxygen content in Main pulmonary artery
+10246-7	Oxygen content in Right pulmonary artery
+10247-5	Oxygen content in Pulmonary wedge
+10248-3	Oxygen content in Superior vena cava
+10249-1	Heart rate device Institution inventory number
+1025-6	Fy sup(a) Ag [Presence] on Red Blood Cells from Blood product unit
+10250-9	Heart rate device Vendor model number
+10251-7	Heart rate device Vendor serial number
+10252-5	Biliary drain site
+10253-3	Type of Biliary drain
+10254-1	Type of Peritoneal drain
+10255-8	Type of Subarachnoid drain
+10256-6	Biliary drain Institution inventory number
+10257-4	Chest tube Institution inventory number
+10258-2	Enteral tube Institution inventory number
+10259-0	Gastrostomy tube Institution inventory number
+1026-4	Fy sup(a) Ag [Presence] on Red Blood Cells from Donor
+10260-8	GI tube Institution inventory number
+10261-6	Intravascular tube Institution inventory number
+10262-4	IO tube Institution inventory number
+10263-2	Nasogastric tube Institution inventory number
+10264-0	Oral tube Institution inventory number
+10265-7	Peritoneal drain Institution inventory number
+10266-5	Peritoneal tube Institution inventory number
+10267-3	Rate control device Institution inventory number
+10268-1	Stool collection device Institution inventory number
+10269-9	Subarachnoid drain Institution inventory number
+1027-2	Fy sup(a) Ag [Presence] on Red Blood Cells
+10270-7	Synovial drain Institution inventory number
+10271-5	Tube or drain Institution inventory number
+10272-3	Upper GI tube Institution inventory number
+10273-1	Bladder irrigation tube Institution inventory number
+10274-9	Urine tube Institution inventory number
+10275-6	Wound drain device Institution inventory number
+10276-4	Peritoneal drain site
+10277-2	Stool collection site
+10278-0	Subarachnoid drain site
+10279-8	Biliary drain Vendor model number
+1028-0	Fy sup(b) Ab [Presence] in Serum or Plasma from Blood product unit
+10280-6	Chest tube Vendor model number
+10281-4	Enteral tube Vendor model number
+10282-2	Gastrostomy tube Vendor model number
+10283-0	GI tube Vendor model number
+10284-8	Intravascular tube Vendor model number
+10285-5	IO tube Vendor model number
+10286-3	Nasogastric tube Vendor model number
+10287-1	Oral tube Vendor model number
+10288-9	Peritoneal drain Vendor model number
+10289-7	Peritoneal tube Vendor model number
+1029-8	Fy sup(b) Ab [Presence] in Serum or Plasma from Donor
+10290-5	Rate control device Vendor model number
+10291-3	Stool collection device Vendor model number
+10292-1	Subarachnoid drain Vendor model number
+10293-9	Synovial drain Vendor model number
+10294-7	Tube or drain Vendor model number
+10295-4	Upper GI tube Vendor model number
+10296-2	Bladder irrigation tube Vendor model number
+10297-0	Urine tube Vendor model number
+10298-8	Wound drain device Vendor model number
+10299-6	Biliary drain Vendor serial number
+103-2	Ceforanide [Susceptibility] by Minimum lethal concentration (MLC)
+1030-6	Fy sup(b) Ab [Presence] in Serum or Plasma
+10300-2	Chest tube Vendor serial number
+10301-0	Enteral tube Vendor serial number
+10302-8	Gastrostomy tube Vendor serial number
+10303-6	GI tube Vendor serial number
+10304-4	Intravascular tube Vendor serial number
+10305-1	IO tube Vendor serial number
+10306-9	Nasogastric tube Vendor serial number
+10307-7	Oral tube Vendor serial number
+10308-5	Peritoneal drain Vendor serial number
+10309-3	Peritoneal tube Vendor serial number
+1031-4	Fy sup(b) Ag [Presence] on Red Blood Cells from Blood product unit
+10310-1	Rate control device Vendor serial number
+10311-9	Stool collection device Vendor serial number
+10312-7	Subarachnoid drain Vendor serial number
+10313-5	Synovial drain Vendor serial number
+10314-3	Tube or drain Vendor serial number
+10315-0	Upper GI tube Vendor serial number
+10316-8	Bladder irrigation tube Vendor serial number
+10317-6	Urine tube Vendor serial number
+10318-4	Wound drain device Vendor serial number
+10319-2	Enema device Institution inventory number
+1032-2	Fy sup(b) Ag [Presence] on Red Blood Cells from Donor
+10320-0	Enema device Vendor model number
+10321-8	Enema device Vendor serial number
+10322-6	Potassium intake 24 hour
+10323-4	Wound drain fluid [Appearance] Lower GI tract
+10324-2	Breath rate device Institution inventory number
+10325-9	Breath rate device Vendor model number
+10326-7	Breath rate device Vendor serial number
+10327-5	Eosinophils/100 leukocytes in Sputum by Manual count
+10328-3	Lymphocytes/100 leukocytes in Cerebral spinal fluid by Manual count
+10329-1	Monocytes/100 leukocytes in Cerebral spinal fluid by Manual count
+1033-0	Fy sup(b) Ag [Presence] on Red Blood Cells
+10330-9	Monocytes/100 leukocytes in Body fluid by Manual count
+10331-7	Rh [Type] in Blood
+10332-5	Cortisol [Mass/volume] in Serum or Plasma --pre 250 ug corticotropin IM
+10333-3	Appearance of Cerebral spinal fluid
+10334-1	Cancer Ag 125 [Units/volume] in Serum or Plasma
+10335-8	Color of Cerebral spinal fluid
+10336-6	Gonadotropin peptide [Mass/volume] in Urine
+10337-4	Procollagen type I [Mass/volume] in Serum
+10338-2	Barbiturates [Mass/volume] in Serum or Plasma
+10339-0	Fluoxetine+Norfluoxetine [Mass/volume] in Serum or Plasma
+1034-8	Fetal cell screen [Interpretation] in Blood
+10340-8	Molindone [Mass/volume] in Serum or Plasma
+10341-6	Norpropoxyphene [Mass/volume] in Serum or Plasma
+10342-4	Sulfamethoxazole [Mass/volume] in Serum or Plasma
+10343-2	Temazepam [Mass/volume] in Serum or Plasma
+10344-0	Tranylcypromine [Mass/volume] in Serum or Plasma
+10345-7	Trihexyphenidyl [Mass/volume] in Urine
+10346-5	Hemoglobin A [Units/volume] in Blood by Electrophoresis
+10347-3	Babesia microti identified in Blood by Light microscopy
+10348-1	Bordetella parapertussis Ab [Presence] in Serum
+10349-9	Brucella sp Ab [Units/volume] in Serum
+1035-5	Fresh frozen plasma given [Volume]
+10350-7	Herpes simplex virus IgM Ab [Titer] in Serum by Immunoassay
+10351-5	HIV 1 RNA [Units/volume] (viral load) in Serum or Plasma by Probe with amplification
+10352-3	Bacteria identified in Genital specimen by Aerobe culture
+10353-1	Bacteria identified in Nose by Aerobe culture
+10354-9	Bacteria identified in Urethra by Culture
+10355-6	Microscopic observation [Identifier] in Bone marrow by Wright Giemsa stain
+10356-4	Deprecated Microscopic observation [Identifier] in Stool by Trichrome stain
+10357-2	Microscopic observation [Identifier] in Wound by Gram stain
+10358-0	Teichoate Ab [Titer] in Serum by Immune diffusion (ID)
+10359-8	Asialoganglioside GM1 IgM Ab [Titer] in Serum
+1036-3	G Ab [Presence] in Serum or Plasma from Blood product unit
+10360-6	DNA single strand IgG Ab [Units/volume] in Serum
+10361-4	DNA single strand IgM Ab [Units/volume] in Serum
+10362-2	Endomysium IgA Ab [Presence] in Serum
+10363-0	Barbiturates [Presence] in Unspecified specimen
+10364-8	Cotinine [Mass/mass] in Hair
+10365-5	Cotinine [Mass/volume] in Serum or Plasma
+10366-3	Cotinine [Mass/volume] in Urine
+10367-1	Ethanol [Mass/volume] in Gastric fluid
+10368-9	Lead [Mass/volume] in Capillary blood
+10369-7	Opiates [Mass/mass] in Hair
+1037-1	G Ab [Presence] in Serum or Plasma from Donor
+10370-5	Phencyclidine [Mass/mass] in Hair
+10371-3	Bite cells [Presence] in Blood by Light microscopy
+10372-1	Blister cells [Presence] in Blood by Light microscopy
+10373-9	Fragments [Presence] in Blood by Light microscopy
+10374-7	Helmet cells [Presence] in Blood by Light microscopy
+10375-4	Irregularly contracted cells [Presence] in Blood by Light microscopy
+10376-2	Oval macrocytes [Presence] in Blood by Light microscopy
+10377-0	Pencil cells [Presence] in Blood by Light microscopy
+10378-8	Polychromasia [Presence] in Blood by Light microscopy
+10379-6	Erythrocytes.dual population [Presence] in Blood by Light microscopy
+1038-9	G Ab [Presence] in Serum or Plasma
+10380-4	Stomatocytes [Presence] in Blood by Light microscopy
+10381-2	Target cells [Presence] in Blood by Light microscopy
+10382-0	A,B variant NOS Ag [Presence] on Red Blood Cells from Blood product unit
+10383-8	A,B variant NOS Ag [Presence] on Red Blood Cells from Donor
+10384-6	A,B variant NOS Ag [Presence] on Red Blood Cells
+10385-3	Albumin concentration given
+10386-1	Albumin given [Volume]
+10387-9	Autologous erythrocytes given [Volume]
+10388-7	Autologous whole blood given [Volume]
+10389-5	Blood product.other [Type]
+1039-7	G Ag [Presence] on Red Blood Cells from Blood product unit
+10390-3	Blood product special preparation [Type]
+10391-1	Cytomegalovirus immune globulin given [Volume]
+10392-9	Cryoprecipitate given [Volume]
+10393-7	Factor IX given [Type]
+10394-5	Factor IX given [Volume]
+10395-2	Factor VIII given [Type]
+10396-0	Factor VIII given [Volume]
+10397-8	Hepatitis B immune globulin given [Volume]
+10398-6	I Ag [Presence] on Red Blood Cells from Blood product unit
+10399-4	I Ag [Presence] on Red Blood Cells from Donor
+104-0	Ceforanide [Susceptibility] by Minimum inhibitory concentration (MIC)
+1040-5	G Ag [Presence] on Red Blood Cells from Donor
+10400-0	I Ag [Presence] on Red Blood Cells
+10401-8	Immune serum globulin given [Type]
+10402-6	Immune serum globulin given [Volume]
+10403-4	Inject immune serum globulin [Volume]
+10404-2	Inject Rh immune globulin [Volume]
+10405-9	Inject varicella zoster virus immune globulin [Volume]
+10406-7	little i Ag [Presence] on Red Blood Cells from Blood product unit
+10407-5	little i Ag [Presence] on Red Blood Cells from Donor
+10408-3	little i Ag [Presence] on Red Blood Cells
+10409-1	Pentaspan given [Volume]
+1041-3	G Ag [Presence] on Red Blood Cells
+10410-9	Plasma given [Type]
+10411-7	Plasma given [Volume]
+10412-5	Platelets given [Type]
+10413-3	Rh immune globulin given [Volume]
+10414-1	Transfuse albumin [Volume]
+10415-8	Transfuse blood exchange transfusion [Volume]
+10416-6	Transfuse blood product other [Volume]
+10417-4	Transfuse cryoprecipitate [Volume]
+10418-2	Transfuse factor IX [Volume]
+10419-0	Transfuse factor VIII [Volume]
+1042-1	H Ab [Presence] in Serum or Plasma from Blood product unit
+10420-8	Transfuse immune serum globulin [Volume]
+10421-6	Transfuse Pentaspan [Volume]
+10422-4	Transfuse plasma [Volume]
+10423-2	Transfuse platelets [Volume]
+10424-0	Transfuse erythrocytes [Volume]
+10425-7	Transfuse Rh immune globulin [Volume]
+10426-5	Transfuse whole blood [Volume]
+10427-3	Transfuse whole blood autologous [Volume]
+10428-1	Varicella zoster virus immune globulin given [Volume]
+10429-9	AE 1 Ag [Presence] in Tissue by Immune stain
+1043-9	H Ab [Presence] in Serum or Plasma from Donor
+10430-7	AE 3 Ag [Presence] in Tissue by Immune stain
+10431-5	B-cell Ag [Presence] in Tissue by Immune stain
+10432-3	CD30 Ag [Presence] in Tissue by Immune stain
+10433-1	BR-2 Ag [Presence] in Tissue by Immune stain
+10434-9	Complement C3 Ag [Presence] in Tissue by Immune stain
+10435-6	C5B-9 Ag [Presence] in Tissue by Immune stain
+10436-4	CD15 Ag [Presence] in Tissue by Immune stain
+10437-2	CD16 Ag [Presence] in Tissue by Immune stain
+10438-0	CD20 Ag [Presence] in Tissue by Immune stain
+10439-8	CD3 Ag [Presence] in Tissue by Immune stain
+1044-7	H Ab [Presence] in Serum
+10440-6	Deprecated CD30 Ag [Presence] in Tissue by Immune stain
+10441-4	CD34 Ag [Presence] in Tissue by Immune stain
+10442-2	CD56 Ag [Presence] in Tissue by Immune stain
+10443-0	CD43 T-cell monocyte+myeloid cell Ag [Presence] in Tissue by Immune stain
+10444-8	CD57 Ag [Presence] in Tissue by Immune stain
+10445-5	CD11c Ag [Presence] in Tissue by Immune stain
+10446-3	Leukocyte common Ag [Presence] in Tissue by Immune stain
+10447-1	M-5 Ag [Presence] in Tissue by Immune stain
+10448-9	T-cell Ag [Presence] in Tissue by Immune stain
+10449-7	Glucose [Mass/volume] in Serum or Plasma --1 hour post meal
+1045-4	H NOS Ab [Presence] in Serum or Plasma from Blood product unit
+10450-5	Glucose [Mass/volume] in Serum or Plasma --10 hours fasting
+10451-3	Proinsulin [Moles/volume] in Serum or Plasma --12 hours fasting
+10452-1	Xylose [Mass/volume] in Serum or Plasma --1 hour post 25 g xylose PO
+10453-9	Xylose [Mass/volume] in Serum or Plasma --1 hour post dose xylose PO
+10454-7	Xylose [Mass/volume] in Serum or Plasma --2 hours post 25 g xylose PO
+10455-4	Xylose [Mass/volume] in Serum or Plasma --30 minutes post 25 g xylose PO
+10456-2	Xylose [Mass/volume] in Serum or Plasma --6 hours fasting
+10457-0	Actin Ag [Presence] in Tissue by Immune stain
+10458-8	Alkaline phosphatase.placental Ag [Presence] in Tissue by Immune stain
+10459-6	Alpha-1-Fetoprotein Ag [Presence] in Tissue by Immune stain
+1046-2	H NOS Ab [Presence] in Serum or Plasma from Donor
+10460-4	Lactalbumin alpha Ag [Presence] in Tissue by Immune stain
+10461-2	Alpha-1-Antichymotrypsin Ag [Presence] in Tissue by Immune stain
+10462-0	Alpha 1 antitrypsin Ag [Presence] in Tissue by Immune stain
+10463-8	Amyloid A component Ag [Presence] in Tissue by Immune stain
+10464-6	Amyloid P component Ag [Presence] in Tissue by Immune stain
+10465-3	Amyloid.prealbumin Ag [Presence] in Tissue by Immune stain
+10466-1	Anion gap 3 in Serum or Plasma
+10467-9	Beta-2-Microglobulin amyloid Ag [Presence] in Tissue by Immune stain
+10468-7	Calcitonin Ag [Presence] in Tissue by Immune stain
+10469-5	Carcinoembryonic Ag [Presence] in Tissue by Immune stain
+1047-0	H NOS Ab [Presence] in Serum or Plasma
+10470-3	Choriogonadotropin Ag [Presence] in Tissue by Immune stain
+10471-1	Chromogranin A Ag [Presence] in Tissue by Immune stain
+10472-9	Chromogranin Ag [Presence] in Tissue by Immune stain
+10473-7	Chymotrypsin Ag [Presence] in Tissue by Immune stain
+10474-5	Collagen type 4 Ag [Presence] in Tissue by Immune stain
+10475-2	Corticotropin Ag [Presence] in Tissue by Immune stain
+10476-0	Desmin Ag [Presence] in Tissue by Immune stain
+10477-8	Enolase.neuron specific Ag [Presence] in Tissue by Immune stain
+10478-6	Eosinophil major basic protein Ag [Presence] in Tissue by Immune stain
+10479-4	CD227 Ag [Presence] in Tissue by Immune stain
+1048-8	H NOS Ag [Presence] on Red Blood Cells from Blood product unit
+10480-2	Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+10481-0	Follitropin.alpha subunit Ag [Presence] in Tissue by Immune stain
+10482-8	Follitropin.beta subunit Ag [Presence] in Tissue by Immune stain
+10483-6	Gastrin Ag [Presence] in Tissue by Immune stain
+10484-4	Glial fibrillary acidic protein Ag [Presence] in Tissue by Immune stain
+10485-1	Glucagon Ag [Presence] in Tissue by Immune stain
+10486-9	Hemoglobin Ag [Presence] in Tissue by Immune stain
+10487-7	HMB-45 Ag [Presence] in Tissue by Immune stain
+10488-5	IgA Ag [Presence] in Tissue by Immune stain
+10489-3	IgA.heavy chain Ag [Presence] in Tissue by Immune stain
+1049-6	H NOS Ag [Presence] on Red Blood Cells from Donor
+10490-1	IgE Ag [Presence] in Tissue by Immune stain
+10491-9	IgG Ag [Presence] in Tissue by Immune stain
+10492-7	IgG.heavy chain Ag [Presence] in Tissue by Immune stain
+10493-5	IgM Ag [Presence] in Tissue by Immune stain
+10494-3	IgM.heavy chain Ag [Presence] in Tissue by Immune stain
+10495-0	Insulin Ag [Presence] in Tissue by Immune stain
+10496-8	Kappa light chains Ag [Presence] in Tissue by Immune stain
+10497-6	Immunoglobulin light chains.kappa amyloid Ag [Presence] in Tissue by Immune stain
+10498-4	Keratin Ag [Presence] in Tissue by Immune stain
+10499-2	Lambda light chains Ag [Presence] in Tissue by Immune stain
+105-7	Ceforanide [Susceptibility] by Disk diffusion (KB)
+1050-4	H NOS Ag [Presence] on Red Blood Cells
+10500-7	Immunoglobulin light chains.lambda amyloid Ag [Presence] in Tissue by Immune stain
+10501-5	Lutropin [Units/volume] in Serum or Plasma
+10502-3	Lutropin Ag [Presence] in Tissue by Immune stain
+10503-1	Lysozyme Ag [Presence] in Tissue by Immune stain
+10504-9	Myelin basic protein Ag [Presence] in Tissue by Immune stain
+10505-6	Myoglobin Ag [Presence] in Tissue by Immune stain
+10506-4	Peanut agglutinin Ag [Presence] in Tissue by Immune stain
+10507-2	Prolactin Ag [Presence] in Tissue by Immune stain
+10508-0	Prostate specific Ag [Presence] in Tissue by Immune stain
+10509-8	Prostatic acid phosphatase Ag [Presence] in Tissue by Immune stain
+1051-2	Hemolytic disease of newborn screen [Interpretation] in Blood
+10510-6	S-100 Ag Ag [Presence] in Tissue by Immune stain
+10511-4	Serotonin Ag [Presence] in Tissue by Immune stain
+10512-2	Somatostatin Ag [Presence] in Tissue by Immune stain
+10513-0	Somatotropin Ag [Presence] in Tissue by Immune stain
+10514-8	Synaptophysin Ag [Presence] in Tissue by Immune stain
+10515-5	Thyroglobulin Ag [Presence] in Tissue by Immune stain
+10516-3	Thyrotropin Ag [Presence] in Tissue by Immune stain
+10517-1	Trypsin Ag [Presence] in Tissue by Immune stain
+10518-9	Ulex europaeus I lectin Ag [Presence] in Tissue by Immune stain
+10519-7	Vimentin Ag [Presence] in Tissue by Immune stain
+1052-0	Deprecated I (intermediate) subtype [Presence] in Serum or Plasma from Blood product unit
+10520-5	Coagulation factor VI Ag [Presence] in Tissue by Immune stain
+10521-3	Coagulation factor VIII Ag [Presence] in Tissue by Immune stain
+10522-1	Coagulation factor XIII Ag [Presence] in Tissue by Immune stain
+10523-9	Fibrinogen Ag [Presence] in Tissue by Immune stain
+10524-7	Microscopic observation [Identifier] in Cervix by Cyto stain
+10525-4	Microscopic observation [Identifier] in Unspecified specimen by Cyto stain
+10526-2	Microscopic observation [Identifier] in Sputum by Cyto stain
+10527-0	Microscopic observation [Identifier] in Tissue by Cyto stain
+10528-8	Acetophenazine [Mass/volume] in Serum or Plasma
+10529-6	Amoxapine metabolite [Mass/volume] in Serum or Plasma
+1053-8	Deprecated I (intermediate) subtype [Presence] in serum or plasma from donor
+10530-4	Aprobarbital [Mass/volume] in Serum or Plasma
+10531-2	Bretylium [Mass/volume] in Serum or Plasma
+10532-0	Deprecated Desethylamiodarone [Mass/volume] in Serum or Plasma
+10533-8	Propoxyphene+Acetaminophen [Mass/volume] in Serum or Plasma
+10534-6	Diazoxide [Mass/volume] in Serum or Plasma
+10535-3	Digoxin [Mass/volume] in Serum or Plasma
+10536-1	Dipyridamole [Mass/volume] in Serum or Plasma
+10537-9	Deprecated Doxepin+Nordoxepin [Mass/volume] in Serum or Plasma
+10538-7	Deprecated Fluoxetine+Norfluoxetine [Mass/volume] in Serum or Plasma
+10539-5	Glipizide [Mass/volume] in Serum or Plasma
+1054-6	Deprecated I (intermediate) subtype [Presence] in srum
+10540-3	Glyburide [Mass/volume] in Serum or Plasma
+10541-1	Mepivacaine [Mass/volume] in Serum or Plasma
+10542-9	Metharbital [Mass/volume] in Serum or Plasma
+10543-7	Methsuximide+Normethsuximide [Mass/volume] in Serum or Plasma
+10544-5	Normeperidine [Presence] in Serum or Plasma
+10545-2	Normephenytoin [Mass/volume] in Serum or Plasma
+10546-0	Normethsuximide [Mass/volume] in Serum or Plasma
+10547-8	Primidone+Phenobarbital [Mass/volume] in Serum or Plasma
+10548-6	Phenytoin Free/Phenytoin.total in Serum or Plasma
+10549-4	Pirmenol [Mass/volume] in Serum or Plasma
+1055-3	Deprecated I (intermediate) subtype [Presence] on Red Blood Cells from Blood product unit
+10550-2	Deprecated Temazepam [Mass/volume] in Serum or Plasma
+10551-0	Triamterene [Mass/volume] in Serum or Plasma
+10552-8	Tricyclic antidepressants [Mass/volume] in Serum or Plasma
+10553-6	Prostatic acid phosphatase [Enzymatic activity/volume] in Genital fluid
+10554-4	Deprecated Prostatic acid phosphatase [Enzymatic activity/volume] in Seminal plasma
+10555-1	Acrosin [Entitic Catalytic Activity] in Spermatozoa
+10556-9	Deprecated Adenosine triphosphatase [Enzymatic activity/volume] in Seminal plasma
+10557-7	Adenosine triphosphate [Moles/volume] in Semen
+10558-5	Albumin [Moles/volume] in Semen
+10559-3	Deprecated Calcium [Molecules/volume] in Semen
+1056-1	Deprecated I (intermediate) subtype [Presence] on Red Blood Cells from donor
+10560-1	Carcinoembryonic Ag [Units/volume] in Semen
+10561-9	Carnitine [Moles/volume] in Semen
+10562-7	Cells [#/volume] in Cervical mucus
+10563-5	Cells other than spermatozoa [#/volume] in Semen
+10564-3	Cervical mucus [Volume]
+10565-0	Choriogonadotropin [Units/volume] in Semen
+10566-8	Deprecated Choriogonadotropin [Molecules/volume] in Semen
+10567-6	Citrate [Moles/volume] in Semen
+10568-4	Clarity of Semen
+10569-2	Color of Semen
+1057-9	Deprecated I (intermediate) subtype [Presence] on Red Blood Cells
+10570-0	Consistency of Cervical mucus
+10571-8	Deprecated Consistency of Semen
+10572-6	Deprecated Duration^post ejaculation
+10573-4	Ferning [Type] in Cervical mucus
+10574-2	Fructose [Moles/volume] in Semen
+10575-9	Deprecated Gamma glutamyl transferase [Enzymatic activity/volume] in Semen
+10576-7	Germ cells.immature [#/volume] in Semen
+10577-5	Glucosidase [Enzymatic activity/volume] in Seminal plasma
+10578-3	Glycerophosphocholine [Moles/volume] in Seminal plasma
+10579-1	Leukocytes [#/volume] in Semen
+1058-7	I Ab [Presence] in Serum or Plasma from Blood product unit
+10580-9	Liquefaction [Time] in Semen
+10581-7	Deprecated Number of entities [#] in Spermatozoa
+10582-5	pH of Cervical mucus
+10583-3	Prostaglandin F1 alpha [Moles/volume] in Semen
+10584-1	Deprecated Protein [Mass/volume] in Semen
+10585-8	Round cells [#/volume] in Semen
+10586-6	Deprecated Volume of Semen
+10587-4	Sexual abstinence duration
+10588-2	Spermatogonia [#/volume] in Semen
+10589-0	Spermatids [#/volume] in Semen by Streptoavidin-biotin method (SAB)
+1059-5	I Ab [Presence] in Serum or Plasma from Donor
+10590-8	Spermatids [#/volume] in Semen by Sertoli cell barrier method (SCB)
+10591-6	Primary Spermatocytes [#/volume] in Semen
+10592-4	Secondary Spermatocytes [#/volume] in Semen
+10593-2	Spermatozoa Pyriform Head/100 spermatozoa in Semen
+10594-0	Spermatozoa Tapering Head/100 spermatozoa in Semen
+10595-7	Deprecated Spermatozoa [#/volume] in Semen
+10596-5	Deprecated Spermatozoa Ab in cervical mucosa
+10597-3	Deprecated Spermatozoa Ab in semen
+10598-1	Deprecated Spermatozoa Ab in serum
+10599-9	Spermatozoa penetration [Presence] in Seminal fluid and Cervical mucosa by Kremer test
+106-5	Ceforanide [Susceptibility] by Serum bactericidal titer
+1060-3	I Ab [Presence] in Serum or Plasma
+10600-5	Spermatozoa penetration [Presence] in Seminal fluid and Cervical mucosa
+10601-3	Spermatozoa penetration [Presence] in Seminal fluid and Cervical mucosa --post coitus
+10602-1	Spermatozoa Abnormal Head/100 spermatozoa in Semen
+10603-9	Spermatozoa Abnormal Midpiece/100 spermatozoa in Semen
+10604-7	Spermatozoa Abnormal Tail/100 spermatozoa in Semen
+10605-4	Spermatozoa Agglutinated/100 spermatozoa in Semen
+10606-2	Spermatozoa Amorphous Head/100 spermatozoa in Semen
+10607-0	Spermatozoa Coiled Tail/100 spermatozoa in Semen
+10608-8	Spermatozoa Cytoplasmic Droplet/100 spermatozoa in Semen
+10609-6	Spermatozoa Duplicate Head/100 spermatozoa in Semen
+1061-1	I NOS Ab [Presence] in Serum or Plasma from Blood product unit
+10610-4	Spermatozoa Duplicate Tail/100 spermatozoa in Semen
+10611-2	Spermatozoa Immotile/100 spermatozoa in Semen
+10612-0	Spermatozoa Large Oval Head/100 spermatozoa in Semen
+10613-8	Spermatozoa Viable/100 spermatozoa in Semen
+10614-6	Spermatozoa Motile w IgA/100 spermatozoa in Semen by Immunobead
+10615-3	Spermatozoa Motile w IgA/100 spermatozoa in Semen by Mixed antiglobulin reaction
+10616-1	Spermatozoa Motile w IgG/100 spermatozoa in Semen by Immunobead
+10617-9	Spermatozoa Motile w IgG/100 spermatozoa in Semen by Mixed antiglobulin reaction
+10618-7	Spermatozoa Motile w IgM/100 spermatozoa in Semen by Immunobead
+10619-5	Spermatozoa Motile w IgM/100 spermatozoa in Semen by Mixed antiglobulin reaction
+1062-9	I NOS Ab [Presence] in Serum or Plasma from Donor
+10620-3	Spermatozoa Nonprogressive/100 spermatozoa in Semen
+10621-1	Spermatozoa Normal Head/100 spermatozoa in Semen
+10622-9	Spermatozoa Normal/100 spermatozoa in Semen
+10623-7	Spermatozoa Pin Head/100 spermatozoa in Semen
+10624-5	Spermatozoa Rapid/100 spermatozoa in Semen
+10625-2	Spermatozoa Round Head/100 spermatozoa in Semen
+10626-0	Spermatozoa Slow/100 spermatozoa in Semen
+10627-8	Spermatozoa Small Oval Head/100 spermatozoa in Semen
+10628-6	Spermatozoa Tail Swelling/100 spermatozoa in Semen
+10629-4	Spermatozoa Vacuolated Head/100 spermatozoa in Semen
+1063-7	I NOS Ab [Presence] in Serum or Plasma
+10630-2	Spinnbarkeit [Length] in Cervical mucus
+10631-0	Testosterone [Moles/volume] in Semen
+10632-8	Time until next menstrual period
+10633-6	Zinc [Moles/volume] in Semen
+10634-4	Complement C1 esterase inhibitor.functional/Complement C1 esterase inhibitor.total in Serum or Plasma
+10635-1	Acanthamoeba sp identified in Eye by Organism specific culture
+10636-9	Acanthamoeba sp identified in Eye by Wet preparation
+10637-7	Microscopic observation [Identifier] in Tissue by Night blue stain
+10638-5	Thermophilic Actinomycetes colony count [#/volume] in Unspecified specimen by Organism specific culture
+10639-3	Thermophilic Actinomycetes identified in Unspecified specimen by Organism specific culture
+1064-5	I NOS Ag [Presence] on Red Blood Cells from Blood product unit
+10640-1	Deprecated Adenovirus 40+41 [Identifier] in Stool by Electron microscopy
+10641-9	Amoeba identified in Aspirate by Immune stain
+10642-7	Amoeba identified in Aspirate by Wet preparation
+10643-5	Amoeba identified in Stool by Organism specific culture
+10644-3	Arthropod identified in Unspecified specimen
+10645-0	Aspergillus fumigatus Ag [Presence] in Tissue by Immunofluorescence
+10646-8	Astrovirus [Identifier] in Stool by Electron microscopy
+10647-6	Babesia sp identified in Blood by Thick film
+10648-4	Babesia sp identified in Blood by Thin film
+10649-2	Calicivirus [Identifier] in Stool by Electron microscopy
+1065-2	I NOS Ag [Presence] on Red Blood Cells from Donor
+10650-0	Candida sp DNA [Presence] in Blood by Probe with amplification
+10651-8	Chlamydophila pneumoniae Ag [Presence] in Sputum or Bronchial
+10652-6	Chlamydophila pneumoniae DNA [Presence] in Sputum or Bronchial by Probe with amplification
+10653-4	Clotrimazole [Susceptibility] by Minimum inhibitory concentration (MIC)
+10654-2	Clotrimazole [Susceptibility] by Minimum lethal concentration (MLC)
+10655-9	Coccidia identified in Duodenal fluid by Acid fast stain
+10656-7	Coccidia identified in Stool by Acid fast stain
+10657-5	Deprecated Cryptococcus neoformans Ag [Presence] in Tissue by Immunofluorescence
+10658-3	Cyanobacterium identified in Water by Light microscopy
+10659-1	Cyclospora sp identified in Stool by Acid fast stain
+1066-0	I NOS Ag [Presence] on Red Blood Cells
+10660-9	Cytomegalovirus Ag [Presence] in Tissue by Immune stain
+10661-7	Dinoflagellate identified in Water by Light microscopy
+10662-5	Filaria identified in Blood by Concentration
+10663-3	Filaria identified in Blood by Thick film
+10664-1	Filaria identified in Blood by Thin film
+10665-8	Fungus colony count [#/volume] in Unspecified specimen by Environmental culture
+10666-6	Fungus identified in Tissue by Fontana-Masson stain
+10667-4	Fungus identified in Unspecified specimen by Animal inoculation
+10668-2	Fungus identified in Unspecified specimen by Environmental culture
+10669-0	Fungus identified in Unspecified specimen by Sticky tape for environmental fungus
+1067-8	Jk sup(a) Ab [Presence] in Serum or Plasma from Blood product unit
+10670-8	Giardia lamblia [Presence] in Stool by Organism specific culture
+10671-6	Helminth identified in Unspecified specimen
+10672-4	Helminth+Arthropod identified in Unspecified specimen
+10673-2	Hepatitis B virus core Ag [Presence] in Tissue by Immune stain
+10674-0	Hepatitis B virus surface Ag [Presence] in Tissue by Immune stain
+10675-7	Hepatitis B virus surface Ag [Presence] in Tissue by Orcein stain
+10676-5	Hepatitis C virus RNA [Units/volume] (viral load) in Serum or Plasma by Probe with amplification
+10677-3	Herpes simplex virus 1 Ag [Presence] in Tissue by Immune stain
+10678-1	Herpes simplex virus 1+2 Ag [Presence] in Tissue by Immune stain
+10679-9	Herpes simplex virus 2 Ag [Presence] in Tissue by Immune stain
+1068-6	Jk sup(a) Ab [Presence] in Serum or Plasma from Donor
+10680-7	Herpes simplex virus identified in Cerebral spinal fluid by Electron microscopy
+10681-5	Herpes simplex virus identified in Tissue by Electron microscopy
+10682-3	Deprecated HIV 1 RNA [Units/volume] in Serum or Plasma by Probe with amplification
+10683-1	Hydatid cyst identified in Aspirate by Immune stain
+10684-9	Hydatid cyst identified in Liver by Wet preparation
+10685-6	Hydatid cyst identified in Lung tissue by Wet preparation
+10686-4	Leishmania sp identified in Tissue by Giemsa stain
+10687-2	Leishmania sp identified in Tissue by Organism specific culture
+10688-0	Microscopic observation [Identifier] in Hair by KOH preparation
+10689-8	Microscopic observation [Identifier] in Nail by KOH preparation
+1069-4	Jk sup(a) Ab [Presence] in Serum or Plasma
+10690-6	Microsporidia identified in Duodenal fluid by Trichrome stain modified
+10691-4	Mushroom.toxic identified by Inspection
+10692-2	Mushroom.toxic identified in Food by Light microscopy
+10693-0	Mushroom.toxic identified in Vomitus by Light microscopy
+10694-8	Naegleria sp identified in Tissue by Organism specific culture
+10695-5	Naegleria sp identified in Tissue by Wet preparation
+10696-3	Norovirus [Identifier] in Stool by Electron microscopy
+10697-1	Nystatin [Susceptibility] by Minimum inhibitory concentration (MIC)
+10698-9	Nystatin [Susceptibility] by Minimum lethal concentration (MLC)
+10699-7	Onchocerca sp identified in Tissue by Wet preparation
+107-3	Cefotaxime [Susceptibility] by Minimum lethal concentration (MLC)
+1070-2	Jk sup(a) Ag [Presence] on Red Blood Cells from Blood product unit
+10700-3	Orthopoxvirus [Identifier] in Skin by Electron microscopy
+10701-1	Ova and parasites identified in Stool by Concentration
+10702-9	Ova and parasites identified in Stool by Immune stain
+10703-7	Ova and parasites identified in Stool by Kinyoun iron hematoxylin stain
+10704-5	Ova and parasites identified in Stool by Light microscopy
+10705-2	Human papilloma virus Ag [Presence] in Tissue by Immune stain
+10706-0	Picornavirus [Identifier] in Stool by Electron microscopy
+10707-8	Toxic Plant identified in Plant specimen by Inspection
+10708-6	Toxic Plant identified in Vomitus by Light microscopy
+10709-4	Plasmodium falciparum Ag [Units/volume] in Blood by Immunofluorescence
+1071-0	Jk sup(a) Ag [Presence] on Red Blood Cells from Donor
+10710-2	Plasmodium sp identified in Blood by Thin film
+10711-0	Plasmodium vivax Ag [Units/volume] in Blood by Immunofluorescence
+10712-8	Pneumocystis sp identified in Lung tissue
+10713-6	Prototheca identified in Unspecified specimen by Culture
+10714-4	Deprecated Rotavirus [Identifier] in Stool by Electron microscopy
+10715-1	Schistosoma sp identified in Urine sediment by Light microscopy
+10716-9	Schistosoma sp identified in Unspecified specimen by Organism specific culture
+10717-7	Streptococcus pneumoniae Ab [Units/volume] in Serum by Latex agglutination
+10718-5	Strongyloides sp Ab [Units/volume] in Serum by Immunoassay
+10719-3	Taenia solium adult Ab [Units/volume] in Serum by Immunoblot
+1072-8	Jk sup(a) Ag [Presence] on Red Blood Cells
+10720-1	Terbinafine [Susceptibility] by Minimum inhibitory concentration (MIC)
+10721-9	Terbinafine [Susceptibility] by Minimum lethal concentration (MLC)
+10722-7	Torovirus [Identifier] in Stool by Electron microscopy
+10723-5	Toxoplasma gondii IgA Ab [Units/volume] in Serum by Immunoassay
+10724-3	Toxoplasma gondii IgE Ab [Units/volume] in Serum by Immunoassay
+10725-0	Toxoplasma gondii DNA [Units/volume] in Body fluid by Probe with amplification
+10726-8	Toxoplasma gondii [Presence] in Tissue by Giemsa stain
+10727-6	Toxoplasma gondii identified in Tissue
+10728-4	Trichomonas sp identified in Genital specimen by Organism specific culture
+10729-2	Trypanosoma sp identified in Blood by Light microscopy
+1073-6	Jk sup(b) Ab [Presence] in Serum or Plasma from Blood product unit
+10730-0	Trypanosoma sp identified in Blood by Organism specific culture
+10731-8	Trypanosoma sp identified in Blood by Thick film
+10732-6	Trypanosoma sp identified in Blood by Thin film
+10733-4	Trypanosoma sp identified in Blood by Wet preparation
+10734-2	Varicella zoster virus identified in Skin by Electron microscopy
+10735-9	Viral sequencing [Identifier] in Serum by Sequencing
+10736-7	Virus identified in Cerebral spinal fluid by Electron microscopy
+10737-5	Virus identified in Stool by Electron microscopy
+10738-3	Virus identified in Tissue by Electron microscopy
+10739-1	Virus identified in Unspecified specimen by Electron microscopy
+1074-4	Jk sup(b) Ab [Presence] in Serum or Plasma from Donor
+10740-9	Aluminum.microscopic observation [Identifier] in Bone by Histomorphometry stain
+10741-7	Amyloid.microscopic observation [Identifier] in Brain by Thioflavine-S stain
+10742-5	Amyloid.microscopic observation [Identifier] in Tissue by Bennhold stain.Putchler modified
+10743-3	Amyloid.microscopic observation [Identifier] in Tissue by Highman stain
+10744-1	Amyloid.microscopic observation [Identifier] in Tissue by Vassar-culling stain
+10745-8	Bile.microscopic observation [Identifier] in Tissue by Fouchet stain
+10746-6	Calcium.microscopic observation [Identifier] in Tissue by Von Kossa stain
+10747-4	Collagen fibers+Elastic fibers.microscopic observation [Identifier] in Tissue by Lawson-Van Gieson stain
+10748-2	Collagen fibers+Elastic fibers.microscopic observation [Identifier] in Tissue by Verhoeff-Van Gieson stain
+10749-0	Collagen fibers.microscopic observation [Identifier] in Tissue by Van Gieson stain
+1075-1	Jk sup(b) Ab [Presence] in Serum or Plasma
+10750-8	Connective tissue.microscopic observation [Identifier] in Tissue by Trichrome stain.Masson
+10751-6	Copper.microscopic observation [Identifier] in Tissue by Rhodamine stain
+10752-4	Fat.microscopic observation [Identifier] in Milk by Sudan IV stain
+10753-2	Fat.microscopic observation [Identifier] in Stool by Sudan IV stain
+10754-0	Fat.microscopic observation [Identifier] in Tissue by Sudan IV stain
+10755-7	Fungus.microscopic observation [Identifier] in Tissue by Methenamine silver stain.Grocott
+10756-5	Glial fibers.microscopic observation [Identifier] in Tissue by Holzer stain
+10757-3	Hematologic+Nuclear elements.microscopic observation [Identifier] in Tissue by Giemsa stain.May-Grunwald
+10758-1	Iron.microscopic observation [Identifier] in Bone by Histomorphometry stain
+10759-9	Iron.microscopic observation [Identifier] in Sputum by Gomori stain
+1076-9	Jk sup(b) Ag [Presence] on Red Blood Cells from Blood product unit
+10760-7	Iron.microscopic observation [Identifier] in Tissue by Gomori stain
+10761-5	Iron.microscopic observation [Identifier] in Tissue by Other stain
+10762-3	Microscopic observation [Identifier] in Blood by Hemosiderin stain
+10763-1	Microscopic observation [Identifier] in Body fluid by Sudan black stain
+10764-9	Microscopic observation [Identifier] in Sputum by Silver stain
+10765-6	Microscopic observation [Identifier] in Tissue by Acetate esterase stain
+10766-4	Microscopic observation [Identifier] in Tissue by Alcian blue stain
+10767-2	Microscopic observation [Identifier] in Tissue by Alcian blue stain.sulfated
+10768-0	Microscopic observation [Identifier] in Tissue by Alcian blue stain.with periodic acid-Schiff
+10769-8	Microscopic observation [Identifier] in Tissue by Alizarin red S stain
+1077-7	Jk sup(b) Ag [Presence] on Red Blood Cells from Donor
+10770-6	Microscopic observation [Identifier] in Tissue by Argentaffin stain
+10771-4	Deprecated Microscopic observation [Identifier] in Tissue by Rhodamine-auramine fluorochrome stain
+10772-2	Microscopic observation [Identifier] in Tissue by Azure-eosin stain
+10773-0	Microscopic observation [Identifier] in Tissue by Basic fuchsin stain
+10774-8	Microscopic observation [Identifier] in Tissue by Bielschowsky stain
+10775-5	Microscopic observation [Identifier] in Tissue by Bleach stain
+10776-3	Microscopic observation [Identifier] in Tissue by Bodian stain
+10777-1	Microscopic observation [Identifier] in Tissue by Brown and Brenn stain
+10778-9	Microscopic observation [Identifier] in Tissue by Butyrate esterase stain
+10779-7	Microscopic observation [Identifier] in Tissue by Carmine stain.Best
+1078-5	Jk sup(b) Ag [Presence] on Red Blood Cells
+10780-5	Microscopic observation [Identifier] in Tissue by Chloracetate esterase stain
+10781-3	Microscopic observation [Identifier] in Tissue by Churukian-Schenk stain
+10782-1	Microscopic observation [Identifier] in Tissue by Congo red stain
+10783-9	Microscopic observation [Identifier] in Tissue by Crystal violet stain
+10784-7	Microscopic observation [Identifier] in Tissue by Esterase stain.non-specific
+10785-4	Microscopic observation [Identifier] in Tissue by Fite-Faraco stain
+10786-2	Deprecated Microscopic observation [Identifier] in Tissue by Giemsa stain.3 micron
+10787-0	Microscopic observation [Identifier] in Tissue by Gridley stain
+10788-8	Microscopic observation [Identifier] in Tissue by Hansel stain
+10789-6	Microscopic observation [Identifier] in Tissue by Hematoxylin-eosin-Harris regressive stain
+1079-3	Js sup(a) Ab [Presence] in Serum or Plasma from Blood product unit
+10790-4	Microscopic observation [Identifier] in Tissue by Hematoxylin-eosin-Mayers progressive stain
+10791-2	Microscopic observation [Identifier] in Tissue by Mallory-Heidenhain stain
+10792-0	Microscopic observation [Identifier] in Tissue by Methenamine silver stain.Jones
+10793-8	Microscopic observation [Identifier] in Tissue by Methyl green stain
+10794-6	Microscopic observation [Identifier] in Tissue by Methyl green-pyronine Y stain
+10795-3	Microscopic observation [Identifier] in Tissue by Methyl violet stain
+10796-1	Microscopic observation [Identifier] in Tissue by Mucicarmine stain
+10797-9	Microscopic observation [Identifier] in Tissue by Neutral red stain
+10798-7	Microscopic observation [Identifier] in Tissue by Oil red O stain
+10799-5	Microscopic observation [Identifier] in Tissue by Pentachrome stain.Movat
+108-1	Cefotaxime [Susceptibility] by Minimum inhibitory concentration (MIC)
+1080-1	Js sup(a) Ab [Presence] in Serum or Plasma from Donor
+10800-1	Microscopic observation [Identifier] in Tissue by Periodic acid-Schiff stain with diatase digestion
+10801-9	Microscopic observation [Identifier] in Tissue by Phosphotungstic acid Hematoxylin (PTAH) Stain
+10802-7	Microscopic observation [Identifier] in Tissue by Prussian blue stain
+10803-5	Microscopic observation [Identifier] in Tissue by Quinacrine fluorescent stain
+10804-3	Microscopic observation [Identifier] in Tissue by Reticulin stain
+10805-0	Microscopic observation [Identifier] in Tissue by Safranin stain
+10806-8	Microscopic observation [Identifier] in Tissue by Schmorl stain
+10807-6	Microscopic observation [Identifier] in Tissue by Sevier-Munger stain
+10808-4	Microscopic observation [Identifier] in Tissue by Silver impregnation stain.Dieterle
+10809-2	Microscopic observation [Identifier] in Tissue by Silver nitrate stain
+1081-9	Js sup(a) Ab [Presence] in Serum or Plasma
+10810-0	Microscopic observation [Identifier] in Tissue by Silver stain.Fontana-Masson
+10811-8	Microscopic observation [Identifier] in Tissue by Silver stain.Grimelius
+10812-6	Microscopic observation [Identifier] in Tissue by Steiner stain
+10813-4	Microscopic observation [Identifier] in Tissue by Sudan black stain
+10814-2	Microscopic observation [Identifier] in Tissue by Supravital stain
+10815-9	Microscopic observation [Identifier] in Tissue by Tetrachrome stain
+10816-7	Deprecated Microscopic observation [Identifier] in Tissue by Toluidine blue O stain
+10817-5	Microscopic observation [Identifier] in Tissue by Trichrome stain.Gomori-Wheatley
+10818-3	Microscopic observation [Identifier] in Tissue by Trichrome stain.Masson modified
+10819-1	Microscopic observation [Identifier] in Tissue by Wade stain
+1082-7	Js sup(a) Ag [Presence] on Red Blood Cells from Blood product unit
+10820-9	Deprecated Microscopic observation [Identifier] in Tissue by Warthin-Starry stain
+10821-7	Deprecated Microscopic observation [Identifier] in Tissue by Wright Giemsa stain
+10822-5	Mucin.microscopic observation [Identifier] in Tissue by Mucicarmine stain.Mayer
+10823-3	Mucopolysaccharides.microscopic observation [Identifier] in Tissue by Colloidal ferric oxide stain.Hale
+10824-1	Myelin+Myelin breakdown products.microscopic observation [Identifier] in Tissue by Luxol fast blue/Periodic acid-Schiff stain
+10825-8	Myelin+Nerve cells.microscopic observation [Identifier] in Tissue by Luxol fast blue/Cresyl violet stain
+10826-6	Nissel.microscopic observation [Identifier] in Tissue by Cresyl echt violet stain
+10827-4	Reticulum.microscopic observation [Identifier] in Tissue by Gomori stain
+10828-2	Urate crystals.microscopic observation [type] in Tissue by De Galantha stain
+10829-0	Silicon [Mass/volume] in Serum or Plasma
+1083-5	Js sup(a) Ag [Presence] on Red Blood Cells from Donor
+10830-8	Deprecated Surgical operation note complications
+10831-6	Surgical operation note complications [Interpretation]
+10832-4	Glucose [Mass/volume] in Serum or Plasma --15 minutes post 50 g lactose PO
+10833-2	Insulin [Mass/volume] in Serum or Plasma --7 hours post 75 g glucose PO
+10834-0	Globulin [Mass/volume] in Serum by calculation
+10835-7	Lipoprotein a [Mass/volume] in Serum or Plasma
+10836-5	Niacin [Mass/volume] in Blood
+10837-3	Organic acids [Presence] in Serum or Plasma
+10838-1	Phosphoserine [Mass/volume] in Serum or Plasma
+10839-9	Troponin I.cardiac [Mass/volume] in Serum or Plasma
+1084-3	Js sup(a) Ag [Presence] on Red Blood Cells
+10840-7	Atropine [Mass/volume] in Urine
+10841-5	Methazolamide [Mass/volume] in Serum or Plasma
+10842-3	Deprecated HLA-DQ1 [Presence]
+10843-1	Deprecated HLA-DQ2 [Presence]
+10844-9	Deprecated HLA-DQ3 [Presence]
+10845-6	Deprecated HLA-DQ4 [Presence]
+10846-4	Borrelia burgdorferi DNA [Presence] in Blood by Probe with amplification
+10847-2	Borrelia burgdorferi DNA [Presence] in Body fluid by Probe with amplification
+10848-0	Chlamydia sp IgG Ab [Titer] in Serum by Immunofluorescence
+10849-8	Chlamydia sp IgM Ab [Titer] in Serum by Immunofluorescence
+1085-0	Js sup(b) Ab [Presence] in Serum or Plasma from Blood product unit
+10850-6	Cyclospora cayetanensis [Presence] in Unspecified specimen
+10851-4	Escherichia coli O157:H7 [Presence] in Stool by Organism specific culture
+10852-2	Deprecated Fungus identified in Blood by Culture
+10853-0	Isospora belli [Presence] in Unspecified specimen by Acid fast stain.Kinyoun modified
+10854-8	Deprecated Midrofilaria identified in Blood by Concentration
+10855-5	Ova and parasites identified in Duodenal fluid or Gastric fluid by Light microscopy
+10856-3	Microscopic observation [Identifier] in Genital mucus by Gram stain
+10857-1	Microsporidia identified in Unspecified specimen by Light microscopy
+10858-9	Teichoate Ab [Presence] in Serum
+10859-7	Trypanosoma sp [Identifier] in Blood by Acridine Orange + Giemsa Stain
+1086-8	Js sup(b) Ab [Presence] in Serum or Plasma from Donor
+10860-5	Varicella zoster virus [Presence] in Unspecified specimen by Organism specific culture
+10861-3	Progesterone receptor [Mass/mass] in Tissue
+10862-1	Basement membrane Ab [Titer] in Serum
+10863-9	Endomysium IgA Ab [Titer] in Serum
+10864-7	Immune complex [Units/volume] in Serum or Plasma by Raji cell assay
+10865-4	Intercellular substance Ab [Presence] in Serum
+10866-2	Sulfatide IgG Ab [Titer] in Serum
+10867-0	Sulfatide IgM Ab [Titer] in Serum
+10868-8	Bacitracin [Susceptibility] by Disk diffusion (KB)
+10869-6	Xylose [Mass/volume] in Blood --3 hours post 25 g xylose PO
+1087-6	Js sup(b) Ab [Presence] in Serum or Plasma
+10870-4	Xylose [Mass/volume] in Blood --4 hours post 25 g xylose PO
+10871-2	Xylose [Mass/volume] in Blood --5 hours post 25 g xylose PO
+10872-0	Xylose [Mass/volume] in Blood --baseline
+10873-8	Beta-2-Microglobulin [Mass/time] in 24 hour Urine
+10874-6	Bombesin [Mass/volume] in Plasma
+10875-3	Carnitine esters [Mass/volume] in Urine
+10876-1	Carnitine esters [Mass/volume] in Serum or Plasma
+10877-9	Carnitine free (C0) [Mass/volume] in Urine
+10878-7	Iodine.protein bound [Mass/volume] in Serum or Plasma
+10879-5	Isovalerylglycine [Mass/volume] in Urine
+1088-4	Js sup(b) Ag [Presence] on Red Blood Cells from Blood product unit
+10880-3	Magnesium [Mass/mass] in Stool
+10881-1	Pentacarboxylporphyrins [Mass/volume] in Red Blood Cells
+10882-9	Pentacarboxylporphyrins [Mass/volume] in Serum or Plasma
+10883-7	Phenolphthalein [Mass/mass] in Stool
+10884-5	Phosphate [Mass/mass] in Stool
+10885-2	Porphyrins [Mass/time] in 24 hour Urine
+10886-0	Prostate Specific Ag Free [Mass/volume] in Serum or Plasma
+10887-8	Pyridinoline [Mass/time] in 24 hour Urine
+10888-6	Lipase [Enzymatic activity/volume] in Urine
+10889-4	Bisacodyl [Mass/mass] in Stool
+1089-2	Js sup(b) Ag [Presence] on Red Blood Cells from Donor
+10890-2	Deprecated Normethsuximide [Mass/volume] in Serum or Plasma
+10891-0	Oxyphenisatin [Mass/mass] in Stool
+10892-8	Pentoxifylline [Mass/volume] in Serum or Plasma
+10893-6	Trenbolone [Mass/volume] in Urine
+10894-4	Aspergillus niger Ab [Presence] in Serum by Immune diffusion (ID)
+10895-1	Clostridium difficile toxin B [Presence] in Stool
+10896-9	Eastern equine encephalitis virus IgG Ab [Titer] in Serum by Immunofluorescence
+10897-7	Eastern equine encephalitis virus IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence
+10898-5	Eastern equine encephalitis virus IgM Ab [Titer] in Serum by Immunofluorescence

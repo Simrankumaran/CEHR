@@ -1,0 +1,9 @@
+Code	Display	Definition	Canonical Status
+active	Active	The medication is still being taken.	~active
+completed	Completed	The medication is no longer being taken.	~complete
+entered-in-error	Entered in Error	Some of the actions that are implied by the medication statement may have occurred.  For example, the patient may have taken some of the medication.  Clinical decision support systems should take this status into account.	~error
+intended	Intended	The medication may be taken at some time in the future.	~planned
+stopped	Stopped	Actions implied by the statement have been permanently halted, before all of them occurred. This should not be used if the statement was entered in error.	~failed
+on-hold	On Hold	Actions implied by the statement have been temporarily halted, but are expected to continue later. May also be called 'suspended'.	~suspended
+unknown	Unknown	The state of the medication use is not currently known.	~unknown
+not-taken	Not Taken	The medication was not consumed by the patient	~not-done

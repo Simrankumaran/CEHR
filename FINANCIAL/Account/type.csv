@@ -1,0 +1,11 @@
+Lvl	Code	Display	Definition
+0	_ActAccountCode	ActAccountCode	"An account represents a grouping of financial transactions that are tracked and reported together with a single balance. 	 	Examples of account codes (types) are Patient billing accounts (collection of charges), Cost centers; Cash."
+1	ACCTRECEIVABLE	account receivable	An account for collecting charges, reversals, adjustments and payments, including deductibles, copayments, coinsurance (financial transactions) credited or debited to the account receivable account for a patient's encounter.
+1	CASH	Cash	Cash
+1	CC	credit card	Description: Types of advance payment to be made on a plastic card usually issued by a financial institution used of purchasing services and/or products.
+2	AE	American Express	American Express
+2	DN	Diner's Club	Diner's Club
+2	DV	Discover Card	Discover Card
+2	MC	Master Card	Master Card
+2	V	Visa	Visa
+1	PBILLACCT	patient billing account	An account representing charges and credits (financial transactions) for a patient's encounter.

@@ -1,0 +1,42 @@
+Code	Display	Definition
+AU	Audiology	
+BG	Blood Gases	
+BLB	Blood Bank	
+CG	Cytogenetics	
+CH	Chemistry	
+CP	Cytopathology	
+CT	CAT Scan	
+CTH	Cardiac Catheterization	
+CUS	Cardiac Ultrasound	
+EC	Electrocardiac (e.g., EKG,  EEC, Holter)	
+EN	Electroneuro (EEG, EMG,EP,PSG)	
+GE	Genetics	
+HM	Hematology	
+ICU	Bedside ICU Monitoring	
+IMM	Immunology	
+LAB	Laboratory	
+MB	Microbiology	
+MCB	Mycobacteriology	
+MYC	Mycology	
+NMR	Nuclear Magnetic Resonance	
+NMS	Nuclear Medicine Scan	
+NRS	Nursing Service Measures	
+OSL	Outside Lab	
+OT	Occupational Therapy	
+OTH	Other	
+OUS	OB Ultrasound	
+PF	Pulmonary Function	
+PHR	Pharmacy	
+PHY	Physician (Hx. Dx, admission note, etc.)	
+PT	Physical Therapy	
+RAD	Radiology	
+RC	Respiratory Care (therapy)	
+RT	Radiation Therapy	
+RUS	Radiology Ultrasound	
+RX	Radiograph	
+SP	Surgical Pathology	
+SR	Serology	
+TX	Toxicology	
+VR	Virology	
+VUS	Vascular Ultrasound	
+XRC	Cineradiograph	

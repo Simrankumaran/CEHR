@@ -1,0 +1,33 @@
+Code	Display	Definition
+pat	Patient	
+pat-crs	Patient: Canceled via automated reminder system	
+pat-cpp	Patient: Canceled via Patient Portal	
+pat-dec	Patient: Deceased	
+pat-fb	Patient: Feeling Better	
+pat-lt	Patient: Lack of Transportation	
+pat-mt	Patient: Member Terminated	
+pat-mv	Patient: Moved	
+pat-preg	Patient: Pregnant	
+pat-swl	Patient: Scheduled from Wait List	
+pat-ucp	Patient: Unhappy/Changed Provider	
+prov	Provider	
+prov-pers	Provider: Personal	
+prov-dch	Provider: Discharged	
+prov-edu	Provider: Edu/Meeting	
+prov-hosp	Provider: Hospitalized	
+prov-labs	Provider: Labs Out of Acceptable Range	
+prov-mri	Provider: MRI Screening Form Marked Do Not Proceed	
+prov-onc	Provider: Oncology Treatment Plan Changes	
+maint	Equipment Maintenance/Repair	
+meds-inc	Prep/Med Incomplete	
+other	Other	
+oth-cms	Other: CMS Therapy Cap Service Not Authorized	
+oth-err	Other: Error	
+oth-fin	Other: Financial	
+oth-iv	Other: Improper IV Access/Infiltrate IV	
+oth-int	Other: No Interpreter Available	
+oth-mu	Other: Prep/Med/Results Unavailable	
+oth-room	Other: Room/Resource Maintenance	
+oth-oerr	Other: Schedule Order Error	
+oth-swie	Other: Silent Walk In Error	
+oth-weath	Other: Weather	

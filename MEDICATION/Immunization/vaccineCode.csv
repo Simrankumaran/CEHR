@@ -1,0 +1,269 @@
+Code	System	Display
+143	http://hl7.org/fhir/sid/cvx	Adenovirus types 4 and 7
+54	http://hl7.org/fhir/sid/cvx	adenovirus, type 4
+55	http://hl7.org/fhir/sid/cvx	adenovirus, type 7
+82	http://hl7.org/fhir/sid/cvx	adenovirus, unspecified formulation
+24	http://hl7.org/fhir/sid/cvx	anthrax
+181	http://hl7.org/fhir/sid/cvx	anthrax immune globulin
+801	http://hl7.org/fhir/sid/cvx	AS03 Adjuvant
+19	http://hl7.org/fhir/sid/cvx	BCG
+27	http://hl7.org/fhir/sid/cvx	botulinum antitoxin
+173	http://hl7.org/fhir/sid/cvx	cholera, BivWC
+174	http://hl7.org/fhir/sid/cvx	cholera, live attenuated
+26	http://hl7.org/fhir/sid/cvx	cholera, unspecified formulation
+172	http://hl7.org/fhir/sid/cvx	cholera, WC-rBS
+29	http://hl7.org/fhir/sid/cvx	CMVIG
+56	http://hl7.org/fhir/sid/cvx	dengue fever
+12	http://hl7.org/fhir/sid/cvx	diphtheria antitoxin
+28	http://hl7.org/fhir/sid/cvx	DT (pediatric)
+20	http://hl7.org/fhir/sid/cvx	DTaP
+106	http://hl7.org/fhir/sid/cvx	DTaP, 5 pertussis antigens
+107	http://hl7.org/fhir/sid/cvx	DTaP, unspecified formulation
+146	http://hl7.org/fhir/sid/cvx	DTaP,IPV,Hib,HepB
+110	http://hl7.org/fhir/sid/cvx	DTaP-Hep B-IPV
+50	http://hl7.org/fhir/sid/cvx	DTaP-Hib
+120	http://hl7.org/fhir/sid/cvx	DTaP-Hib-IPV
+130	http://hl7.org/fhir/sid/cvx	DTaP-IPV
+132	http://hl7.org/fhir/sid/cvx	DTaP-IPV-HIB-HEP B, historical
+170	http://hl7.org/fhir/sid/cvx	DTAP/IPV/HIB - non-US
+01	http://hl7.org/fhir/sid/cvx	DTP
+22	http://hl7.org/fhir/sid/cvx	DTP-Hib
+102	http://hl7.org/fhir/sid/cvx	DTP-Hib-Hep B
+57	http://hl7.org/fhir/sid/cvx	hantavirus
+30	http://hl7.org/fhir/sid/cvx	HBIG
+52	http://hl7.org/fhir/sid/cvx	Hep A, adult
+154	http://hl7.org/fhir/sid/cvx	Hep A, IG
+169	http://hl7.org/fhir/sid/cvx	Hep A, live attenuated
+83	http://hl7.org/fhir/sid/cvx	Hep A, ped/adol, 2 dose
+84	http://hl7.org/fhir/sid/cvx	Hep A, ped/adol, 3 dose
+31	http://hl7.org/fhir/sid/cvx	Hep A, pediatric, unspecified formulation
+85	http://hl7.org/fhir/sid/cvx	Hep A, unspecified formulation
+104	http://hl7.org/fhir/sid/cvx	Hep A-Hep B
+193	http://hl7.org/fhir/sid/cvx	Hep A-Hep B, pediatric/adolescent
+08	http://hl7.org/fhir/sid/cvx	Hep B, adolescent or pediatric
+42	http://hl7.org/fhir/sid/cvx	Hep B, adolescent/high risk infant
+43	http://hl7.org/fhir/sid/cvx	Hep B, adult
+44	http://hl7.org/fhir/sid/cvx	Hep B, dialysis
+45	http://hl7.org/fhir/sid/cvx	Hep B, unspecified formulation
+58	http://hl7.org/fhir/sid/cvx	Hep C
+59	http://hl7.org/fhir/sid/cvx	Hep E
+189	http://hl7.org/fhir/sid/cvx	HepB-CpG
+60	http://hl7.org/fhir/sid/cvx	herpes simplex 2
+47	http://hl7.org/fhir/sid/cvx	Hib (HbOC)
+46	http://hl7.org/fhir/sid/cvx	Hib (PRP-D)
+49	http://hl7.org/fhir/sid/cvx	Hib (PRP-OMP)
+48	http://hl7.org/fhir/sid/cvx	Hib (PRP-T)
+17	http://hl7.org/fhir/sid/cvx	Hib, unspecified formulation
+51	http://hl7.org/fhir/sid/cvx	Hib-Hep B
+61	http://hl7.org/fhir/sid/cvx	HIV
+118	http://hl7.org/fhir/sid/cvx	HPV, bivalent
+62	http://hl7.org/fhir/sid/cvx	HPV, quadrivalent
+137	http://hl7.org/fhir/sid/cvx	HPV, unspecified formulation
+165	http://hl7.org/fhir/sid/cvx	HPV9
+86	http://hl7.org/fhir/sid/cvx	IG
+14	http://hl7.org/fhir/sid/cvx	IG, unspecified formulation
+87	http://hl7.org/fhir/sid/cvx	IGIV
+160	http://hl7.org/fhir/sid/cvx	Influenza A monovalent (H5N1), ADJUVANTED-2013
+151	http://hl7.org/fhir/sid/cvx	influenza nasal, unspecified formulation
+123	http://hl7.org/fhir/sid/cvx	influenza, H5N1-1203
+135	http://hl7.org/fhir/sid/cvx	Influenza, high dose seasonal
+153	http://hl7.org/fhir/sid/cvx	Influenza, injectable, MDCK, preservative free
+171	http://hl7.org/fhir/sid/cvx	Influenza, injectable, MDCK, preservative free, quadrivalent
+186	http://hl7.org/fhir/sid/cvx	Influenza, injectable, MDCK, quadrivalent, preservative
+158	http://hl7.org/fhir/sid/cvx	influenza, injectable, quadrivalent
+150	http://hl7.org/fhir/sid/cvx	influenza, injectable, quadrivalent, preservative free
+161	http://hl7.org/fhir/sid/cvx	Influenza, injectable,quadrivalent, preservative free, pediatric
+166	http://hl7.org/fhir/sid/cvx	influenza, intradermal, quadrivalent, preservative free
+111	http://hl7.org/fhir/sid/cvx	influenza, live, intranasal
+149	http://hl7.org/fhir/sid/cvx	influenza, live, intranasal, quadrivalent
+155	http://hl7.org/fhir/sid/cvx	influenza, recombinant, injectable, preservative free
+185	http://hl7.org/fhir/sid/cvx	influenza, recombinant, quadrivalent,injectable, preservative free
+141	http://hl7.org/fhir/sid/cvx	Influenza, seasonal, injectable
+140	http://hl7.org/fhir/sid/cvx	Influenza, seasonal, injectable, preservative free
+144	http://hl7.org/fhir/sid/cvx	influenza, seasonal, intradermal, preservative free
+15	http://hl7.org/fhir/sid/cvx	influenza, split (incl. purified surface antigen)
+168	http://hl7.org/fhir/sid/cvx	influenza, trivalent, adjuvanted
+88	http://hl7.org/fhir/sid/cvx	influenza, unspecified formulation
+16	http://hl7.org/fhir/sid/cvx	influenza, whole
+10	http://hl7.org/fhir/sid/cvx	IPV
+134	http://hl7.org/fhir/sid/cvx	Japanese Encephalitis IM
+39	http://hl7.org/fhir/sid/cvx	Japanese encephalitis SC
+129	http://hl7.org/fhir/sid/cvx	Japanese Encephalitis, unspecified formulation
+63	http://hl7.org/fhir/sid/cvx	Junin virus
+64	http://hl7.org/fhir/sid/cvx	leishmaniasis
+65	http://hl7.org/fhir/sid/cvx	leprosy
+66	http://hl7.org/fhir/sid/cvx	Lyme disease
+04	http://hl7.org/fhir/sid/cvx	M/R
+67	http://hl7.org/fhir/sid/cvx	malaria
+05	http://hl7.org/fhir/sid/cvx	measles
+68	http://hl7.org/fhir/sid/cvx	melanoma
+191	http://hl7.org/fhir/sid/cvx	meningococcal A polysaccharide (non-US)
+192	http://hl7.org/fhir/sid/cvx	meningococcal AC polysaccharide (non-US)
+108	http://hl7.org/fhir/sid/cvx	meningococcal ACWY, unspecified formulation
+163	http://hl7.org/fhir/sid/cvx	meningococcal B, OMV
+162	http://hl7.org/fhir/sid/cvx	meningococcal B, recombinant
+164	http://hl7.org/fhir/sid/cvx	meningococcal B, unspecified
+103	http://hl7.org/fhir/sid/cvx	meningococcal C conjugate
+148	http://hl7.org/fhir/sid/cvx	Meningococcal C/Y-HIB PRP
+147	http://hl7.org/fhir/sid/cvx	meningococcal MCV4, unspecified formulation
+136	http://hl7.org/fhir/sid/cvx	Meningococcal MCV4O
+114	http://hl7.org/fhir/sid/cvx	meningococcal MCV4P
+32	http://hl7.org/fhir/sid/cvx	meningococcal MPSV4
+167	http://hl7.org/fhir/sid/cvx	meningococcal, unknown serogroups
+03	http://hl7.org/fhir/sid/cvx	MMR
+94	http://hl7.org/fhir/sid/cvx	MMRV
+07	http://hl7.org/fhir/sid/cvx	mumps
+127	http://hl7.org/fhir/sid/cvx	Novel influenza-H1N1-09
+128	http://hl7.org/fhir/sid/cvx	Novel Influenza-H1N1-09, all formulations
+125	http://hl7.org/fhir/sid/cvx	Novel Influenza-H1N1-09, nasal
+126	http://hl7.org/fhir/sid/cvx	Novel influenza-H1N1-09, preservative-free
+02	http://hl7.org/fhir/sid/cvx	OPV
+179	http://hl7.org/fhir/sid/cvx	OPV ,monovalent, unspecified
+178	http://hl7.org/fhir/sid/cvx	OPV bivalent
+182	http://hl7.org/fhir/sid/cvx	OPV, Unspecified
+69	http://hl7.org/fhir/sid/cvx	parainfluenza-3
+177	http://hl7.org/fhir/sid/cvx	PCV10
+11	http://hl7.org/fhir/sid/cvx	pertussis
+23	http://hl7.org/fhir/sid/cvx	plague
+133	http://hl7.org/fhir/sid/cvx	Pneumococcal conjugate PCV 13
+100	http://hl7.org/fhir/sid/cvx	pneumococcal conjugate PCV 7
+152	http://hl7.org/fhir/sid/cvx	Pneumococcal Conjugate, unspecified formulation
+33	http://hl7.org/fhir/sid/cvx	pneumococcal polysaccharide PPV23
+109	http://hl7.org/fhir/sid/cvx	pneumococcal, unspecified formulation
+89	http://hl7.org/fhir/sid/cvx	polio, unspecified formulation
+70	http://hl7.org/fhir/sid/cvx	Q fever
+175	http://hl7.org/fhir/sid/cvx	Rabies - IM Diploid cell culture
+176	http://hl7.org/fhir/sid/cvx	Rabies - IM fibroblast culture
+40	http://hl7.org/fhir/sid/cvx	rabies, intradermal injection
+18	http://hl7.org/fhir/sid/cvx	rabies, intramuscular injection
+90	http://hl7.org/fhir/sid/cvx	rabies, unspecified formulation
+72	http://hl7.org/fhir/sid/cvx	rheumatic fever
+159	http://hl7.org/fhir/sid/cvx	Rho(D) - Unspecified formulation
+157	http://hl7.org/fhir/sid/cvx	Rho(D) -IG IM
+156	http://hl7.org/fhir/sid/cvx	Rho(D)-IG
+73	http://hl7.org/fhir/sid/cvx	Rift Valley fever
+34	http://hl7.org/fhir/sid/cvx	RIG
+119	http://hl7.org/fhir/sid/cvx	rotavirus, monovalent
+116	http://hl7.org/fhir/sid/cvx	rotavirus, pentavalent
+74	http://hl7.org/fhir/sid/cvx	rotavirus, tetravalent
+122	http://hl7.org/fhir/sid/cvx	rotavirus, unspecified formulation
+71	http://hl7.org/fhir/sid/cvx	RSV-IGIV
+93	http://hl7.org/fhir/sid/cvx	RSV-MAb
+145	http://hl7.org/fhir/sid/cvx	RSV-MAb (new)
+06	http://hl7.org/fhir/sid/cvx	rubella
+38	http://hl7.org/fhir/sid/cvx	rubella/mumps
+76	http://hl7.org/fhir/sid/cvx	Staphylococcus bacterio lysate
+138	http://hl7.org/fhir/sid/cvx	Td (adult)
+09	http://hl7.org/fhir/sid/cvx	Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed
+113	http://hl7.org/fhir/sid/cvx	Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+139	http://hl7.org/fhir/sid/cvx	Td(adult) unspecified formulation
+115	http://hl7.org/fhir/sid/cvx	Tdap
+180	http://hl7.org/fhir/sid/cvx	tetanus immune globulin
+35	http://hl7.org/fhir/sid/cvx	tetanus toxoid, adsorbed
+142	http://hl7.org/fhir/sid/cvx	tetanus toxoid, not adsorbed
+112	http://hl7.org/fhir/sid/cvx	tetanus toxoid, unspecified formulation
+77	http://hl7.org/fhir/sid/cvx	tick-borne encephalitis
+13	http://hl7.org/fhir/sid/cvx	TIG
+98	http://hl7.org/fhir/sid/cvx	TST, unspecified formulation
+95	http://hl7.org/fhir/sid/cvx	TST-OT tine test
+96	http://hl7.org/fhir/sid/cvx	TST-PPD intradermal
+97	http://hl7.org/fhir/sid/cvx	TST-PPD tine test
+78	http://hl7.org/fhir/sid/cvx	tularemia vaccine
+190	http://hl7.org/fhir/sid/cvx	Typhoid conjugate vaccine (TCV)
+25	http://hl7.org/fhir/sid/cvx	typhoid, oral
+41	http://hl7.org/fhir/sid/cvx	typhoid, parenteral
+53	http://hl7.org/fhir/sid/cvx	typhoid, parenteral, AKD (U.S. military)
+91	http://hl7.org/fhir/sid/cvx	typhoid, unspecified formulation
+101	http://hl7.org/fhir/sid/cvx	typhoid, ViCPs
+131	http://hl7.org/fhir/sid/cvx	typhus, historical
+75	http://hl7.org/fhir/sid/cvx	vaccinia (smallpox)
+105	http://hl7.org/fhir/sid/cvx	vaccinia (smallpox) diluted
+79	http://hl7.org/fhir/sid/cvx	vaccinia immune globulin
+21	http://hl7.org/fhir/sid/cvx	varicella
+81	http://hl7.org/fhir/sid/cvx	VEE, inactivated
+80	http://hl7.org/fhir/sid/cvx	VEE, live
+92	http://hl7.org/fhir/sid/cvx	VEE, unspecified formulation
+36	http://hl7.org/fhir/sid/cvx	VZIG
+117	http://hl7.org/fhir/sid/cvx	VZIG (IND)
+37	http://hl7.org/fhir/sid/cvx	yellow fever
+183	http://hl7.org/fhir/sid/cvx	Yellow fever vaccine - alt
+184	http://hl7.org/fhir/sid/cvx	Yellow fever, unspecified formulation
+121	http://hl7.org/fhir/sid/cvx	zoster live
+187	http://hl7.org/fhir/sid/cvx	zoster recombinant
+188	http://hl7.org/fhir/sid/cvx	zoster, unspecified formulation
+998	http://hl7.org/fhir/sid/cvx	no vaccine administered
+99	http://hl7.org/fhir/sid/cvx	RESERVED - do not use
+999	http://hl7.org/fhir/sid/cvx	unknown
+AGRPAL	urn:oid:1.2.36.1.2001.1005.17	Agrippal
+AVAXM	urn:oid:1.2.36.1.2001.1005.17	Avaxim
+BCG	urn:oid:1.2.36.1.2001.1005.17	BCG
+CDT	urn:oid:1.2.36.1.2001.1005.17	CDT
+CMX	urn:oid:1.2.36.1.2001.1005.17	COMVAX
+DTP	urn:oid:1.2.36.1.2001.1005.17	Triple Antigen
+DTPA	urn:oid:1.2.36.1.2001.1005.17	DTPa
+ENGP	urn:oid:1.2.36.1.2001.1005.17	Engerix B
+FLRIX	urn:oid:1.2.36.1.2001.1005.17	Fluarix
+FLUVAX	urn:oid:1.2.36.1.2001.1005.17	Fluvax
+FLVRN	urn:oid:1.2.36.1.2001.1005.17	Fluvirin
+FVXJNR	urn:oid:1.2.36.1.2001.1005.17	Fluvax Junior
+GNDIP	urn:oid:1.2.36.1.2001.1005.17	Diphtheria
+GNFLU	urn:oid:1.2.36.1.2001.1005.17	Influenza
+GNHEP	urn:oid:1.2.36.1.2001.1005.17	Hepatitis B
+GNHIB	urn:oid:1.2.36.1.2001.1005.17	HIB
+GNHPA	urn:oid:1.2.36.1.2001.1005.17	Hepatitis A
+GNJEN	urn:oid:1.2.36.1.2001.1005.17	Japanese Encephalitis
+GNMEA	urn:oid:1.2.36.1.2001.1005.17	Measles
+GNMEN	urn:oid:1.2.36.1.2001.1005.17	Meningococcal C
+GNMUM	urn:oid:1.2.36.1.2001.1005.17	Mumps
+GNPNE	urn:oid:1.2.36.1.2001.1005.17	Pneumococcal
+GNPOL	urn:oid:1.2.36.1.2001.1005.17	Polio
+GNROX	urn:oid:1.2.36.1.2001.1005.17	Rotavirus
+GNRUB	urn:oid:1.2.36.1.2001.1005.17	Rubella
+GNTET	urn:oid:1.2.36.1.2001.1005.17	Tetanus
+GNVAR	urn:oid:1.2.36.1.2001.1005.17	Varicella
+HATWNJ	urn:oid:1.2.36.1.2001.1005.17	Twinrix Junior
+HAVAQ	urn:oid:1.2.36.1.2001.1005.17	Vaqta Paed/Adol
+HAVJ	urn:oid:1.2.36.1.2001.1005.17	Havrix Junior
+HBOC	urn:oid:1.2.36.1.2001.1005.17	HibTITER
+HBV	urn:oid:1.2.36.1.2001.1005.17	HBV
+HBVP	urn:oid:1.2.36.1.2001.1005.17	HBVAX II
+HBX	urn:oid:1.2.36.1.2001.1005.17	Hiberix
+IFHX	urn:oid:1.2.36.1.2001.1005.17	Infanrix Hexa
+IFIP	urn:oid:1.2.36.1.2001.1005.17	Infanrix-IPV
+IFPA	urn:oid:1.2.36.1.2001.1005.17	Infanrix Penta
+IFX	urn:oid:1.2.36.1.2001.1005.17	Infanrix
+IFXB	urn:oid:1.2.36.1.2001.1005.17	InfanrixHepB
+INFLUV	urn:oid:1.2.36.1.2001.1005.17	Influvac
+IPV	urn:oid:1.2.36.1.2001.1005.17	IPOL
+JEVAX	urn:oid:1.2.36.1.2001.1005.17	JE-VAX
+MENJUG	urn:oid:1.2.36.1.2001.1005.17	Menjugate
+MENTEC	urn:oid:1.2.36.1.2001.1005.17	Meningitec
+MENUME	urn:oid:1.2.36.1.2001.1005.17	Menomune
+MENVAX	urn:oid:1.2.36.1.2001.1005.17	Mencevax ACWY
+MMR	urn:oid:1.2.36.1.2001.1005.17	MMR
+MMRCSL	urn:oid:1.2.36.1.2001.1005.17	MMR II
+MMRSKB	urn:oid:1.2.36.1.2001.1005.17	Priorix
+MNTRX	urn:oid:1.2.36.1.2001.1005.17	Menitorix
+NEISVC	urn:oid:1.2.36.1.2001.1005.17	NeisVac-C
+OPV	urn:oid:1.2.36.1.2001.1005.17	Polio
+P	urn:oid:1.2.36.1.2001.1005.17	Pertussis
+PANVAX	urn:oid:1.2.36.1.2001.1005.17	Panvax
+PDCL	urn:oid:1.2.36.1.2001.1005.17	Pediacel
+PLCL	urn:oid:1.2.36.1.2001.1005.17	Poliacel
+PNEUMO	urn:oid:1.2.36.1.2001.1005.17	Pneumovax
+PRPD	urn:oid:1.2.36.1.2001.1005.17	ProHIBit
+PROQAD	urn:oid:1.2.36.1.2001.1005.17	ProQuad
+PRPOMP	urn:oid:1.2.36.1.2001.1005.17	PedvaxHIB
+PRPT	urn:oid:1.2.36.1.2001.1005.17	ActHIB
+PRVNR	urn:oid:1.2.36.1.2001.1005.17	Prevenar 7
+PRVTH	urn:oid:1.2.36.1.2001.1005.17	Prevenar 13
+PRXTEX	urn:oid:1.2.36.1.2001.1005.17	Priorix-Tetra
+QDCL	urn:oid:1.2.36.1.2001.1005.17	Quadracel
+ROTRIX	urn:oid:1.2.36.1.2001.1005.17	Rotarix
+ROTTEQ	urn:oid:1.2.36.1.2001.1005.17	Rotateq
+SYNFLX	urn:oid:1.2.36.1.2001.1005.17	Synflorix
+TCL	urn:oid:1.2.36.1.2001.1005.17	Tripacel
+VAXGRP	urn:oid:1.2.36.1.2001.1005.17	Vaxigrip
+VGRJNR	urn:oid:1.2.36.1.2001.1005.17	Vaxigrip Junior
+VLRIX	urn:oid:1.2.36.1.2001.1005.17	Varilrix
+VRVAX	urn:oid:1.2.36.1.2001.1005.17	Varivax

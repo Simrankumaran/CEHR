@@ -1,0 +1,5 @@
+Code	Display	
+provider	Other Provider	The data for the immunization event originated with another provider.
+record	Written Record	The data for the immunization event originated with a written record for the patient.
+recall	Parent/Guardian/Patient Recall	The data for the immunization event originated from the recollection of the patient or parent/guardian of the patient.
+school	School Record	The data for the immunization event originated with a school record for the patient.

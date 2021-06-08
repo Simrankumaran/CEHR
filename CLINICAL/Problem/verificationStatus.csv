@@ -1,0 +1,7 @@
+Lvl	Code	Display	Definition	Canonical Status
+0	unconfirmed	Unconfirmed	There is not sufficient diagnostic and/or clinical evidence to treat this as a confirmed condition.	
+1	provisional	Provisional	This is a tentative diagnosis - still a candidate that is under consideration.	
+1	differential	Differential	One of a set of potential (and typically mutually exclusive) diagnoses asserted to further guide the diagnostic process and preliminary treatment.	~differential
+0	confirmed	Confirmed	There is sufficient diagnostic and/or clinical evidence to treat this as a confirmed condition.	~confirmed
+0	refuted	Refuted	This condition has been ruled out by diagnostic and clinical evidence.	~refuted
+0	entered-in-error	Entered in Error	The statement was entered in error and is not valid.	~error

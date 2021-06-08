@@ -1,0 +1,7 @@
+Code	Display	Definition
+base	base price	the amount is the base price used for calculating the total price before applying surcharges, discount or taxes.
+surcharge	surcharge	the amount is a surcharge applied on the base price.
+deduction	deduction	the amount is a deduction applied on the base price.
+discount	discount	the amount is a discount applied on the base price.
+tax	tax	the amount is the tax component of the total price.
+informational	informational	the amount is of informational character, it has not been applied in the calculation of the total price.

@@ -1,0 +1,4 @@
+Lvl	Code	Display	Definition	Canonical Status
+0	active	Active	The subject is currently experiencing, or is at risk of, a reaction to the identified substance.	~active
+0	inactive	Inactive	The subject is no longer at risk of a reaction to the identified substance.	~inactive
+1	resolved	Resolved	A reaction to the identified substance has been clinically reassessed by testing or re-exposure and is considered no longer to be present. Re-exposure could be accidental, unplanned, or outside of any clinical setting.	~resolved

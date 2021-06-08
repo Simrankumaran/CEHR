@@ -1,0 +1,7 @@
+Lvl	Code	Display	Definition
+0	active	Active	The subject is currently experiencing the symptoms of the condition or there is evidence of the condition.
+1	recurrence	Recurrence	The subject is experiencing a re-occurence or repeating of a previously resolved condition, e.g. urinary tract infection, pancreatitis, cholangitis, conjunctivitis.
+1	relapse	Relapse	The subject is experiencing a return of a condition, or signs and symptoms after a period of improvement or remission, e.g. relapse of cancer, multiple sclerosis, rheumatoid arthritis, systemic lupus erythematosus, bipolar disorder, [psychotic relapse of] schizophrenia, etc.
+0	inactive	Inactive	The subject is no longer experiencing the symptoms of the condition or there is no longer evidence of the condition.
+1	remission	Remission	The subject is no longer experiencing the symptoms of the condition, but there is a risk of the symptoms returning.
+1	resolved	Resolved	The subject is no longer experiencing the symptoms of the condition and there is a negligible perceived risk of the symptoms returning.

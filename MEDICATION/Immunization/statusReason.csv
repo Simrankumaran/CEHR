@@ -1,0 +1,5 @@
+Code	Display	
+IMMUNE	immunity	Definition:Testing has shown that the patient already has immunity to the agent targeted by the immunization.
+MEDPREC	medical precaution	Definition:The patient currently has a medical condition for which the vaccine is contraindicated or for which precaution is warranted.
+OSTOCK	product out of stock	Definition:There was no supply of the product on hand to perform the service.
+PATOBJ	patient objection	Definition:The patient or their guardian objects to receiving the vaccine.

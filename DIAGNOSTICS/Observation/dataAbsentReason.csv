@@ -1,0 +1,16 @@
+Lvl	Code	Display	Definition
+0	unknown	Unknown	The value is expected to exist but is not known.
+1	asked-unknown	Asked But Unknown	The source was asked but does not know the value.
+1	temp-unknown	Temporarily Unknown	There is reason to expect (from the workflow) that the value may become known.
+1	not-asked	Not Asked	The workflow didn't lead to this value being known.
+1	asked-declined	Asked But Declined	The source was asked but declined to answer.
+0	masked	Masked	The information is not available due to security, privacy or related reasons.
+0	not-applicable	Not Applicable	There is no proper value for this element (e.g. last menstrual period for a male).
+0	unsupported	Unsupported	The source system wasn't capable of supporting this element.
+0	as-text	As Text	The content of the data is represented in the resource narrative.
+0	error	Error	Some system or workflow process error means that the information is not available.
+1	not-a-number	Not a Number (NaN)	The numeric value is undefined or unrepresentable due to a floating point processing error.
+1	negative-infinity	Negative Infinity (NINF)	The numeric value is excessively low and unrepresentable due to a floating point processing error.
+1	positive-infinity	Positive Infinity (PINF)	The numeric value is excessively high and unrepresentable due to a floating point processing error.
+0	not-performed	Not Performed	The value is not available because the observation procedure (test, etc.) was not performed.
+0	not-permitted	Not Permitted	The value is not permitted in this context (e.g. due to profiles, or the base data types).

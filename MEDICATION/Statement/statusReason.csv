@@ -1,0 +1,121 @@
+Code	Display	Definition
+182862001	Drug not taken - dislike taste	
+182863006	Drug not taken - dislike form	
+182864000	Drug not taken - side-effects	
+182865004	Drug not taken - inconvenient	
+182867007	Drug not taken - pat disbelief	
+182868002	Treatment stopped - alternative therapy undertaken	
+182869005	Drug not taken - patient lost tablets	
+182870006	Drug discontinued - reason unknown	
+182871005	Drug discontinued - patient fear/risk	
+182872003	Drug discontinued - too expensive	
+182873008	Drug treatment stopped - patient ran out of tablets	
+182874002	Treatment stopped - patient unable to concentrate	
+266711001	Drug not taken - problem swallowing	
+275929009	Tablets too large to swallow	
+134390006	Angiotensin converting enzyme inhibitor not indicated	
+134397009	Angiotensin converting enzyme inhibitor declined	
+135799002	Angiotensin converting enzyme inhibitor indicated	
+161646004	H/O: high risk medication	
+161647008	H/O: anticoagulant therapy	
+161648003	H/O: steroid therapy	
+161649006	H/O: insulin therapy	
+161650006	H/O: anticonvulsant therapy	
+161652003	H/O: hormone replacement (HRT)	
+161653008	H/O: chemotherapy	
+170622002	Oral steroids started	
+170624001	Oral steroids stopped	
+170688000	Lithium stopped	
+170689008	Injectable phenothiazine stopped	
+170821007	B12 injections started	
+170826002	B12 injections stopped	
+170919001	Warfarin therapy stopped	
+170954008	Hormone replacement therapy (HRT) contraindicated	
+170955009	Hormone replacement therapy (HRT) started	
+170958006	Hormonal replacement therapy (HRT) stopped	
+182834008	Drug course completed	
+182840001	Drug treatment stopped - medical advice	
+182841002	Dr stopped drugs - ineffective	
+182842009	Doctor stopped drugs - side effect	
+182843004	Dr stopped drugs -inconvenient	
+182844005	Doctor stopped drugs - patient dislikes	
+182845006	Doctor stopped drugs - avoid interaction	
+182846007	Doctor stopped drugs - medical aim achieved	
+274512008	Drug therapy discontinued	
+309841001	Thyroxine treatment stopped	
+312451002	Aspirin prophylaxis contra-indicated	
+315023008	Aspirin prophylaxis refused	
+315062004	Beta blocker contraindicated	
+315364008	Angiotensin converting enzyme inhibitors contraindicated	
+390914001	Thrombolytic therapy refused	
+391158008	Antibiotic prophylaxis recommended	
+391159000	Antibiotic prophylaxis not recommended	
+394888000	Hormone replacement therapy requested	
+394987009	Angiotensin II receptor antagonists contraindicated	
+395006008	Medication stopped - interaction	
+395007004	Medication stopped - ineffective	
+395008009	Medication stopped - contra-indication	
+395009001	Medication stopped - side effect	
+401084003	Angiotensin II receptor antagonist declined	
+401244004	H/O: prolonged corticosteroid therapy	
+407572003	Angiotensin II receptor antagonist not indicated	
+408339001	Thrombolysis therapy not indicated	
+408354007	Drug treatment still needed	
+408355008	Drug treatment no longer needed	
+412782003	Inappropriate medication stopped	
+413555000	Antibiotic prophylaxis indicated	
+413558003	Anticoagulation contraindicated	
+413559006	Anticoagulation declined	
+413560001	Anticoagulation not indicated	
+416404000	Angiotensin converting enzyme inhibitor target dose not achieved	
+417576009	Deferred antibiotic therapy	
+430279008	Drug treatment stopped at end of clinical trial	
+438553004	H/O: drug therapy	
+439631004	H/O: statin therapy	
+440935004	H/O: beta blocker therapy	
+440991005	H/O: nitrate therapy	
+441186000	H/O: antiplatelet agent therapy	
+441195008	H/O: angiotensin converting enzyme (ACE) inhibitor therapy	
+441196009	H/O: angiotensin II receptor antagonist therapy	
+441899004	History of therapy with ototoxic medication	
+473151000	History of tuberculosis chemotherapy	
+698428006	Angiotensin II receptor antagonist indicated	
+698449007	Antibiotic therapy indicated	
+698459008	Antidepressant drug treatment stopped	
+698460003	Antiviral therapy declined	
+698468005	Bisoprolol contraindicated	
+698758004	Nebivolol therapy refused	
+698985001	Long term dual antiplatelet drug therapy indicated	
+699008007	History of fenfluramine therapy	
+699137009	Carvedilol therapy declined	
+700110004	Bisphosphonate prophylaxis suspended	
+700384008	Antibiotic prophylaxis not indicated	
+702542006	Incretin mimetic therapy started	
+703989007	Teriparatide therapy declined	
+703991004	Raloxifene therapy declined	
+703996009	Teriparatide not indicated	
+703997000	Teriparatide contraindicated	
+703999002	Raloxifene contraindicated	
+704000000	Raloxifene not indicated	
+704033005	Phosphodiesterase 5 inhibitor not indicated	
+704047009	Phosphodiesterase 5 inhibitor declined	
+707298000	Phosphodiesterase-5 inhibitor contraindicated	
+708000007	Insulin treatment stopped	
+710159007	Long-term current use of immunosuppressive drug	
+710814002	Long-term current use of drug therapy	
+710815001	Long-term current use of insulin	
+710816000	Long-term current use of steroid	
+710817009	Long-term current use of inhaled steroid	
+711149003	Long-term current use of antibiotic	
+711150003	Long-term current use of anticoagulant	
+711370000	Oral steroids used since last encounter	
+711436000	Inhaled steroids used daily	
+712985002	Chemotherapy not done	
+106511000119106	Long-term current use of mycophenolate	
+106521000119104	Long-term current use of cyclophosphamide	
+106631000119102	Long-term current use of infliximab	
+106691000119103	Long-term current use of etanercept	
+133621000119103	Long term current use of non-steroidal anti-inflammatory drug	
+134651000119108	History of estrogen therapy	
+134671000119104	History of systemic steroid therapy	
+140561000119102	Long-term current use of azathioprine	

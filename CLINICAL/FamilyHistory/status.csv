@@ -1,0 +1,5 @@
+Code	Display	Definition	Canonical Status
+partial	Partial	Some health information is known and captured, but not complete - see notes for details.	~partial
+completed	Completed	All available related health information is captured as of the date (and possibly time) when the family member history was taken.	~complete
+entered-in-error	Entered in Error	This instance should not have been part of this patient's medical record.	~error
+health-unknown	Health Unknown	Health information for this family member is unavailable/unknown.	~unknown

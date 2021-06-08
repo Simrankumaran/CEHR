@@ -1,0 +1,6 @@
+Code	Display	Definition	Version
+CHECKUP	en: A routine check-up, such as an annual physicalnl: Routinecontrole, zoals jaarlijks lichamelijk onderzoek		added v2.3
+EMERGENCY	en: Emergency appointmentnl: Spoedafspraak		added v2.3
+FOLLOWUP	en: A follow up visit from a previous appointmentnl: Een vervolgbezoek na een vorige afspraak		added v2.3
+ROUTINE	en: Routine appointment - default if not valuednl: Routine afspraak - standaardwaarde bij geen waarde		added v2.3
+WALKIN	en: A previously unscheduled walk-in visitnl: Een niet eerder gepland inloopbezoek		added v2.3

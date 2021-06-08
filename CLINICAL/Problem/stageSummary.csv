@@ -1,0 +1,1001 @@
+Code	Display	Definition
+786005	Clinical stage I B	
+1523005	Clinical stage IV B	
+2640006	Clinical stage 4	
+2786004	Epithelial ovarian tumor, International Federation of Gynecology and Obstetrics stage III	
+5701003	Lymphoma stage IIe	
+5856006	N3 stage	
+6123003	pT4 stage	
+6534007	Epithelial ovarian tumor, FIGO stage IIA	
+13104003	Clinical stage I	
+14410001	Tumor stage T3	
+14926007	pM1: Distant metastasis	
+14927003	FIGO VC stage II	
+15076001	pN2 category	
+15540006	International Federation of Gynecology and Obstetrics cervical cancer (FIGO CC) stage I	
+15542003	Clinical stage I C	
+17076002	pMX: Distant metastasis cannot be assessed	
+17691001	Clinical stage I S	
+17816005	Clinical stage II B	
+19408000	pM0: No distant metastasis	
+21917009	pN0 category	
+22079002	N4 category	
+22364004	International Federation of Gynecology and Obstetrics vulvar carcinoma (FIGO VC) stage III	
+23351008	Tumor stage T1	
+25654007	International Federation of Gynecology and Obstetrics cervical cancer (FIGO CC) stage Ib	
+27167007	Metastasis stage MX	
+30382004	International Federation of Gynecology and Obstetrics endometrial cancer (FIGO EC) stage II	
+30440004	Lymphoma stage I	
+30893008	Metastasis stage M0	
+31747005	Modified Dukes stage B1	
+33177002	Clinical stage IV C	
+33907000	Clinical stage III E	
+34537009	International Federation of Gynecology and Obstetrics endometrial cancer (FIGO EC) stage IV	
+35440002	Clinical stage I D	
+36018006	Epithelial ovarian tumor, International Federation of Gynecology and Obstetrics stage IA	
+37415008	Epithelial ovarian tumor, International Federation of Gynecology and Obstetrics stage IC	
+39617003	Clinical stage II C	
+39880006	pT0 category	
+43189003	pTX category	
+44255004	Lymphoma stage IIIe	
+44401000	Tumor stage Tis	
+45552005	pN1 category	
+46059003	Node stage N2	
+46333007	Clinical stage 1 A	
+46756001	International Federation of Gynecology and Obstetrics endometrial cancer (FIGO EC) stage I A	
+48105005	Clinical stage 3 C	
+49182004	pN3 category	
+49219005	International Federation of Gynecology and Obstetrics cervical cancer (FIGO CC) stage Ia	
+50237009	International Federation of Gynecology and Obstetrics endometrial cancer (FIGO EC) stage I	
+50283003	Clinical stage III	
+52708004	International Federation of Gynecology and Obstetrics cervical cancer (FIGO CC) stage III	
+52774001	Clinical stage 2 A	
+52865009	Clinical stage IV D	
+53173007	Modified Dukes stage B2	
+53623008	Node stage N1	
+53786006	pT1 category	
+54452005	pNX category	
+54498006	Modified Dukes stage C1	
+55336000	Clinical stage III D	
+55440008	Metastasis stage M1	
+56380009	Clinical stage I E	
+56587006	International Federation of Gynecology and Obstetrics vulvar carcinoma (FIGO VC) stage I	
+56769006	Modified Dukes stage A	
+56944001	Lymphoma stage III	
+57306005	Modified Dukes stage C2	
+57605004	Modified Dukes stage D	
+58790005	Tumor stage T0	
+60275007	FIGO EC stage I B	
+60333009	Clinical stage II	
+62455006	N0 stage	
+64062008	Clinical stage III B	
+64202001	Clinical stage IV E	
+64574000	Epithelial ovarian tumor, FIGO stage IIB	
+64737002	Epithelial ovarian tumor, FIGO stage IB	
+64877001	Clinical stage III S	
+65235001	Epithelial ovarian tumor, FIGO stage I	
+65306007	FIGO VM stage II	
+65536004	FIGO VM stage III	
+65565005	T4 stage	
+66445009	Lymphoma stage IV	
+67101007	TX stage	
+67673008	T2 stage	
+68240008	FIGO CC stage II	
+69605008	Clinical stage II E	
+70046009	FIGO VM stage I	
+70664003	Clinical stage IV S	
+71725004	Clinical stage IV A	
+72780008	FIGO VC stage IV	
+73055006	FIGO VM stage V	
+73082003	Clinical stage III A	
+73511008	Epithelial ovarian tumor, FIGO stage IV	
+74053007	Lymphoma stage IIIs	
+75339006	Lymphoma stage III 2	
+76422004	Lymphoma stage II	
+78199001	Epithelial ovarian tumor, FIGO stage IIC	
+78607009	Epithelial ovarian tumor, FIGO stage II	
+79420006	Node stage NX	
+80588003	FIGO VM stage IV	
+80663004	pN4 stage	
+80898003	pT2 stage	
+80975007	FIGO EC stage III	
+81822003	FIGO CC stage IV	
+84633001	Lymphoma stage IIIse	
+84921008	pTis stage	
+87977001	International Federation of Gynecology and Obstetrics cervical cancer stage Ib occ	
+89487002	Lymphoma stage Ie	
+90321006	Clinical stage II S	
+90402004	pT3 stage	
+112240001	Clinical stage II D	
+112241002	Lymphoma stage III 1	
+258297005	Metastasis stage M2	
+258298000	Metastasis stage M3	
+258299008	Metastasis stage M4	
+261646003	Tumor stage T1a	
+261647007	Tumor stage T1a1	
+261648002	Tumor stage T1a2	
+261649005	Tumor stage T1b	
+261650005	Tumor stage T1c	
+261651009	Tumor stage T2a	
+261652002	Tumor stage T2b	
+261653007	Tumor stage T2c	
+261654001	Tumor stage T3a	
+261655000	Tumor stage T3b	
+261656004	Tumor stage T3bi	
+261657008	Tumor stage T3bii	
+261658003	Tumor stage T3c	
+261659006	Tumor stage T4a	
+261660001	Tumor stage T4b	
+261661002	Tumor stage T4c	
+261662009	Tumor stage T4d	
+261927002	Metastasis stage M1a	
+261928007	Metastasis stage M1b	
+261929004	Metastasis stage M1c	
+261967001	Node stage N2a	
+261968006	Node stage N2b	
+261969003	Node stage N2c	
+277672002	Node stage N1a	
+277674001	Node stage N1b	
+277744001	Metastasis stage pM1	
+277772008	Node stage N1bi	
+277776006	Node stage N1bii	
+277777002	Node stage N1biii	
+277778007	Node stage N1biv	
+313108002	Tumor stage T1mic	
+313110000	Tumor stage T1b1	
+313111001	Tumor stage T1b2	
+313145008	Tumor stage Tis pu	
+313146009	Tumor stage Tis pd	
+369793000	Tis (--): Carcinoma in situ (endometrium / uterine cervix)	
+369794006	T1 (I): Cervical carcinoma confined to uterus	
+369795007	T1a (IA): Invasive carcinoma of uterine cervix diagnosed by microscopy only	
+369796008	T1a1 (IA1): Tumor of uterine cervix with stromal invasion < 3.0 mm in depth and horizontal spread < 7.0 mm	
+369797004	T1a2 (IA2): Tumor of uterine cervix with stromal invasion > 3.0 mm but < 5.0 mm in depth and horizontal spread < 7.0 mm	
+369798009	T1b (IB): Tumor of uterine cervix with clinically visible lesion confined to the cervix or microscopic lesion greater than T1a2/IA2	
+369799001	T1b1 (IB1): Tumor of uterine cervix, clinically visible lesion < 4.0 mm in greatest dimension	
+369800002	T1b2 (IB2): Tumor of uterine cervix, clinically visible lesion > 4.0 mm in greatest dimension	
+369801003	T2 (II): Tumor of uterine cervix invades beyond the uterus but not to pelvic wall or to lower third of vagina	
+369802005	T2a (IIA): Tumor of uterine cervix, T2 without parametrial invasion	
+369803000	T2b (IIB): Tumor of uterine cervix, T2 with parametrial invasion	
+369804006	T3 (III): Tumor of uterine cervix extends to the pelvic wall and/or involves the lower third of the vagina and/or causes hydronephrosis or nonfunctioning kidney	
+369805007	T3a (IIIA): Tumor of uterine cervix involves lower third of vagina, but not pelvic wall	
+369806008	T4 (IVA): Tumor of uterine cervix/vagina invades mucosa of bladder or rectum and/or extends beyond true pelvis	
+369807004	T1 (I): Endometrial tumor confined to corpus uteri	
+369808009	T1a (IA): Tumor limited to endometrium	
+369809001	T1b (IB): Endometrial tumor invades up to or less than one half of the endometrium	
+369810006	T1c (IC): Endometrial tumor invades to more than one half of the endometrium	
+369811005	T2 (II): Endometrial tumor invades cervix, but does not extend beyond uterus	
+369812003	T2a (IIA): Endometrial tumor with endocervical glandular involvement	
+369813008	T2b (IIB): Endometrial tumor with cervical stromal invasion	
+369814002	T3 (III): Endometrial tumor with local and/or regional spread as specified in T3a, b, N1 and FIGO IIIA, B, and C below or adnexa (direct extension or metastasis) and/or cancer cells in ascites or peritoneal washings	
+369815001	T3b (IIIB): Endometrial tumor with vaginal involvement (direct extension or metastasis)	
+369816000	T4 (IVA): Endometrial tumor invades bladder mucosa and/or bowel mucosa	
+369817009	T1 (I): Tumor confined to vagina	
+369818004	T2 (II): Vaginal tumor invades paravaginal tissues but not to pelvic wall	
+369819007	T3 (III): Vaginal tumor extends to pelvic wall	
+369820001	T1 (I): Tumor limited to fallopian tube(s)	
+369821002	T1a (IA): Tumor limited to one fallopian tube without penetrating the serosal surface, no ascites	
+369822009	T1b (IB): Tumor limited to both tubes without penetrating the serosal surface: no ascites	
+369823004	T1c (IC): Tumor limited to one or both tube(s) with extension into or through the tubal serosa; or with malignant cells in ascites or peritoneal washings: FALLOPIAN TUBE: Salpingectomy	
+369824005	T2 (II): Fallopian tube tumor involves one or both tube(s) with pelvic extension	
+369825006	T2a (IIA): Fallopian tube tumor with extension and/or metastasis to the uterus and/or ovaries	
+369826007	T2b (IIB): Fallopian tube/ovarian tumor with extension to other pelvic structures	
+369827003	T2c (IIC): Fallopian tube/ovarian tumor with pelvic extension (T2a or b) with malignant cells in ascites or peritoneal washings	
+369828008	T3 and/or N1 (III): Fallopian tube tumor involves one or both tube(s) with peritoneal implants outside the pelvis and/or regional lymph node metastasis	
+369829000	T3a (IIIA): Fallopian tube/ovarian tumor with microscopic peritoneal metastasis beyond pelvis	
+369830005	T3b (IIIB): Fallopian tube/ovarian tumor with macroscopic peritoneal metastasis beyond pelvis < 2 cm in greatest dimension	
+369831009	T3c (IIIC): Fallopian tube/ovarian tumor with peritoneal metastasis beyond pelvis > 2 cm in greatest dimension and/or regional lymph node metastasis	
+369832002	T1: Clinically inapparent prostate tumor not palpable or visible by imaging	
+369833007	T1a: Prostate tumor incidental histologic finding in 5% or less of tissue resected	
+369834001	T1b: Prostate tumor incidental histologic finding in > 5% of tissue resected	
+369835000	T1c: Tumor identified by needle biopsy because of elevated prostate specific antigen: PROSTATE: Biopsy/transurethral resection: PROSTATE: Resection	
+369836004	T2a: Prostate tumor involves one lobe	
+369837008	T3: Prostate tumor extends through the prostatic capsule	
+369838003	T3a: Prostate tumor with extracapsular extension (unilateral or bilateral)	
+369839006	T3b: Prostate tumor invades the seminal vesicle(s)	
+369840008	T2: Aerodigestive tract tumor causing bone erosion or destruction, except for the posterior antral wall, including extension into hard palate and/or middle nasal meatus	
+369841007	T1: Aerodigestive tract tumor < 2 cm in greatest dimension	
+369842000	T1: Aerodigestive tract tumor confined to ethmoid with or without bone erosion	
+369843005	T1: Aerodigestive tract tumor confined to nasopharynx	
+369844004	T1: Tumor limited to one subsite of hypo-pharynx and < 2 cm in greatest dimension	
+369845003	T1: Tumor limited to one subsite of supraglottis with normal vocal cord mobility	
+369846002	T1: Tumor limited to subglottis	
+369847006	T1: Tumor limited to the antral mucosa with no erosion or destruction of bone	
+369848001	T1: Tumor limited to vocal cord(s) (may involve anterior or posterior commissure) with normal mobility	
+369849009	T1a: Tumor limited to one vocal cord	
+369850009	T1b: Tumor involves both vocal cords	
+369851008	T2: Aerodigestive tract tumor > 2 cm but < 4 cm in greatest dimension	
+369852001	T2: Aerodigestive tract tumor > 2 cm but < 4 cm in greatest dimension without extraparenchymal extension	
+369853006	T2: Aerodigestive tract tumor extends into nasal cavity	
+369854000	T2: Aerodigestive tract tumor extends to soft tissue of oropharynx and/or nasal fossa	
+369855004	T2: Aerodigestive tract tumor extends to supraglottis and/or subglottis, and/or with impaired vocal cord mobility	
+369856003	T2: Aerodigestive tract tumor extends to vocal cord(s) with normal or impaired mobility	
+369857007	T2: Aerodigestive tract tumor invades more than one subsite of hypopharynx or an adjacent site, or measures > 2 cm but < 4 cm in greatest dimension, without fixation of hemilarynx	
+369858002	T2: Aerodigestive tract tumor invades mucosa of >1 adjacent subsite of supraglottis/glottis/region outside supraglottis, (mucosa of base of tongue/vallecula/medial wall of piriform sinus) without fixation of larynx	
+369859005	T2a: Aerodigestive tract tumor without parapharyngeal extension	
+369860000	T2b: Aerodigestive tract tumor with parapharyngeal extension	
+369861001	T3: Aerodigestive tract tumor > 4 cm in greatest dimension	
+369862008	T3: Aerodigestive tract tumor extends to anterior orbit and/or maxillary sinus	
+369863003	T3: Aerodigestive tract tumor having extraparenchymal extension without seventh nerve involvement, and/or > 4 cm but < 6 cm in greatest dimension	
+369864009	T3: Aerodigestive tract tumor invades any of the following: bone of posterior wall of maxillary sinus, subcutaneous tissues, skin of cheek, floor or medial wall of orbit, infratemporal fossa, pterygoid plates, ethmoid sinuses	
+369865005	T3: Aerodigestive tumor invades bony structures and/or paranasal sinuses	
+369866006	T3: Aerodigestive tract tumor limited to larynx with vocal cord fixation	
+369867002	T3: Aerodigestive tract tumor limited to larynx with vocal cord fixation and/or invades any of the following: postcricoid area, pre-epiglottic tissues, deep base of tongue	
+369868007	T3: Aerodigestive tract tumor measures > 4 cm in greatest dimension, or with fixation of hemilarynx	
+369869004	T4: Lip: Tumor invades adjacent structures (cortical bone, inferior alveolar nerve, floor of mouth, skin of face)	
+369870003	T4: Oral Cavity: Tumor invades adjacent structures (cortical bone, deep (extrinsic) muscle of tongue, maxillary sinus, skin)	
+369871004	T4: Aerodigestive tract tumor invades adjacent structures (pterygoid muscles, mandible, hard palate, deep muscle of tongue, larynx)	
+369872006	T4: Aerodigestive tract tumor invades adjacent structures (thyroid/cricoid cartilage, carotid artery, soft tissues of neck, prevertebral fascia/muscles, thyroid and/or esophagus)	
+369873001	T4: Aerodigestive tumor invades base of skull, seventh nerve, and/or exceeds 6 cm in greatest dimension	
+369874007	T4: Aerodigestive tract tumor invades orbital contents beyond the floor or medial wall including apex and/or any of the following: cribriform plate, base of skull, nasopharynx, sphenoid sinus, frontal sinus	
+369875008	T4: Tumor invades through cricoid or thyroid cartilage and/or extends into other tissues beyond the larynx (trachea, soft tissues of neck, thyroid, esophagus)	
+369876009	T4: Tumor invades through thyroid cartilage and/or extends to other tissues beyond the larynx (trachea, soft tissues of neck, pharynx)	
+369877000	T4: Tumor invades through thyroid cartilage, and/or extends into soft tissues of the neck, thyroid, and/or esophagus	
+369878005	T4: Aerodigestive tract tumor with intracranial extension and/or involvement of cranial nerves, infratemporal fossa, hypopharynx or orbit	
+369879002	T4: Aerodigestive tract tumor with intracranial extension, orbital extension including apex, involving sphenoid and/or frontal sinus and/or skin of nose	
+369880004	T1: Lung tumor 3 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus	
+369881000	T2:Lung tumor with any of these features:>3cm in greatest dimension, involves main bronchus >2cm distal to carina; invades visceral pleura; assoc with atelectasis/obstructive pneumonitis extends to hilar region, does not involve entire lung	
+369882007	T3: Lung tumor of any size associated atelectasis or obstructive pneumonitis of the entire lung	
+369883002	T3: Lung tumor of any size in the main bronchus < 2 cm distal to the carina but without involvement of the carina	
+369884008	T3: Lung tumor of any size that directly invades any of the following: chest wall (including superior sulcus tumors); diaphragm; mediastinal pleura; parietal pericardium	
+369885009	T4: Lung tumor of any size that invades any of the following: mediastinum; heart; great vessels; trachea; esophagus; vertebral body; carina	
+369886005	T4: Lung tumor of any size with a malignant pleural effusion	
+369887001	T4: Lung tumor of any size with separate tumor nodule(s) in same lobe	
+369888006	T1: Kidney tumor < 7.0 cm in greatest dimension limited to the kidney	
+369889003	T2: Renal tumor > 7.0 cm in greatest dimension limited to the kidney	
+369890007	T3: Renal tumor extends into major veins or invades the adrenal gland or perinephric tissues but not beyond Gerota fascia	
+369891006	T3a: Renal tumor invades the adrenal gland or perinephric tissues but not beyond Gerota fascia	
+369892004	T3b: Renal tumor grossly extends into the renal vein(s) or vena cava below the diaphragm	
+369893009	T3c: Renal tumor grossly extends into the vena cava above the diaphragm	
+369894003	T4: Renal tumor invades beyond Gerota fascia	
+369895002	T1: Breast tumor <= 2 cm in greatest dimension	
+369896001	T1mic: Microinvasion <= 0.1 cm in greatest dimension: BREAST: Complete excision less than total mastectomy, total mastectomy, modified radical mastectomy, radical mastectomy	
+369897005	T1a: Breast tumor >0.1 cm but <= 0.5 cm in greatest dimension	
+369898000	T1b: Breast tumor >0.5 cm but <= 1 cm in greatest dimension	
+369899008	T1c: >1 cm but <= 2 cm in greatest dimension: BREAST: Complete excision less than total mastectomy, total mastectomy, modified radical mastectomy, radical mastectomy	
+369900003	T2: Breast tumor > 2 cm but <= 5 cm in greatest dimension	
+369901004	T3: Breast tumor >5 cm in greatest dimension	
+369902006	T4: Breast tumor of any size with direct extension to chest wall or skin	
+369903001	T4a: Breast tumor with extension to chest wall	
+369904007	T4b: Edema (including peau d'orange) or ulceration of the skin of the breast or satellite skin nodules confined to the same breast	
+369905008	T4c: Breast tumor, both T4a and T4b	
+369906009	T4d: Inflammatory carcinoma (breast)	
+369907000	Tis: Carcinoma in situ, breast: Intraductal carcinoma, lobular carcinoma in situ, or Paget disease of the nipple with no tumor	
+369909002	T1: Tumor invades lamina propria or submucosa	
+369910007	T1a: Esophagus/stomach tumor invades lamina propria	
+369911006	T1b: Esophagus/stomach tumor invades submucosa	
+369912004	T2: Tumor invades muscularis propria	
+369913009	T3: Esophageal tumor invades adventitia	
+369914003	T4: Tumor directly invades adjacent structures	
+369915002	T2: Stomach tumor invades muscularis propria or subserosa	
+369916001	T2a: Stomach tumor invades muscularis propria	
+369917005	T2b: Stomach tumor invades subserosa	
+369918000	T3: Stomach tumor penetrates serosa without invasion of adjacent structures	
+369919008	T4a: Colon/rectum tumor directly invades other organs or structures	
+369920002	T1: Tumor invades submucosa (colon/rectum)	
+369921003	T3: Colon/rectum tumor invades through the muscularis propria into the subserosa or the nonperitonealized pericolic or perirectal soft tissues	
+369922005	T4b: Colon/rectum tumor penetrates the visceral peritoneum	
+369923000	Tis (0): Carcinoma in situ (vagina)	
+369924006	Tis (0): Carcinoma in situ (limited to fallopian tube mucosa)	
+369925007	Tis: Epithelium only (carcinoma in situ, no invasion)	
+369926008	T1: Tumor limited to ampulla of Vater or sphincter of Oddi	
+369927004	T2: Ampulla tumor invades duodenal wall	
+369928009	T3: Ampulla tumor invades 2 cm or less into pancreas	
+369929001	T4: Ampulla tumor invades >2 cm into pancreas and/or into other adjacent organs	
+369930006	T1: Tumor limited to pancreas and < 2 cm in greatest dimension	
+369931005	T2: Tumor limited to pancreas and > 2 cm in greatest dimension	
+369932003	T3: Pancreatic tumor extends directly to any of the following: duodenum; bile duct; peripancreatic tissues	
+369933008	T4: Pancreas tumor extends directly to any of the following: stomach; spleen; colon; adjacent large vessels	
+369934002	"Tis: Carcinoma in situ (""flat tumor"" of urinary bladder)"	
+369935001	T1: Urinary tract tumor invades subepithelial connective tissue	
+369936000	T2: Urinary bladder tumor invades muscle	
+369937009	T2: Renal pelvis/ureter tumor invades the muscularis	
+369938004	T2a: Urinary bladder tumor invades superficial muscle (inner half)	
+369939007	T2b: Urinary bladder tumor invades deep muscle (outer half)	
+369940009	T3: Ureteral tumor invades beyond muscularis into periureteric fat	
+369941008	T3: Renal pelvis tumor invades beyond muscularis peripelvic fat or the renal parenchyma	
+369942001	T3: Urinary bladder tumor invades perivesical tissue	
+369943006	T3a: Bladder tumor invades perivesical tissue microscopically	
+369944000	T3b: Bladder tumor invades perivesical tissue macroscopically (extravesicular mass)	
+369945004	T4: Urinary bladder tumor invades any of the following: prostate, uterus, vagina, pelvic wall abdominal wall	
+369946003	T4: Renal pelvis/ureter tumor invades adjacent organs, or through the kidney into the perinephric fat	
+369947007	T4a: Bladder tumor invades prostate or uterus or vagina	
+369948002	T4b: Bladder tumor invades pelvic wall or abdominal wall	
+369949005	Ta: Noninvasive papillary carcinoma (urinary tract)	
+369950005	Tis: Intratubular germ cell neoplasia (carcinoma in situ, testis)	
+369951009	T1: Testicular tumor limited to the testis and epididymis without vascular/lymphatic invasion (tumor may invade tunica albuginea but not tunica vaginalis)	
+369952002	T2: Testicular tumor limited to the testis and epididymis with vascular/lymphatic invasion or tumor extending through tunica albuginea with involvement of tunica vaginalis	
+369953007	T3: Testicular tumor invades spermatic cord with or without vascular/lymphatic invasion	
+369954001	T4: Testicular tumor invades scrotum with or without vascular/lymphatic invasion	
+369955000	T1 (I): Trophoblastic disease confined to uterus	
+369956004	T1 (IA): Trophoblastic disease confined to uterus with no risk factors	
+369957008	T1 (IB): Trophoblastic disease confined to uterus with one risk factor	
+369958003	T1 (IC): Trophoblastic disease confined to uterus with two risk factors	
+369959006	T2 (II): Trophoblast: gestational trophoblastic tumor extends outside of the uterus but is limited to the genital structures (adnexa, vagina, broad ligament)	
+369960001	T2 (IIA): Trophoblast: GTT involving genital structure without risk factors	
+369961002	T2 (IIB): Trophoblast: gestational trophoblastic tumor extends outside of the uterus but limited to genital structures with one risk factor	
+369962009	T2 (IIC): Trophoblast: gestational trophoblastic tumor extends outside of the uterus but limited to genital structures with two risk factors	
+369963004	T1: Tumor limited to ipsilateral parietal and/or visceral pleura	
+369964005	T2: Pleural tumor invades any of the following: ipsilateral lung, endothoracic fascia, diaphragm, or pericardium	
+369965006	T3: Pleural tumor invades any of the following: ipsilateral chest wall muscle, ribs, or media-stinal organs or tissues	
+369966007	T4: Pleural tumor directly extends to any of the following: contralateral pleura, contralateral lung, peritoneum, intra-abdominal organs, cervical tissues	
+369967003	T1: Tumor size < 1 cm, limited to thyroid	
+369968008	T2: Tumor > 1 cm but < 4 cm, limited to thyroid	
+369969000	T3: Thyroid tumor > 4 cm, limited to thyroid	
+369970004	T4: Thyroid tumor of any size extending beyond the thyroid capsule	
+369971000	T1a (IA): Tumor limited to one ovary, capsule intact, no tumor on ovarian surface	
+369972007	T1b (IB): Tumor limited to both ovaries: capsule intact, no tumor on ovarian surface	
+369973002	T1c (IC): Tumor limited to one or both ovaries with any of the following: capsule ruptured, tumor on ovarian surface, malignant cells in ascites or peritoneal washings: OVARY: Resection	
+369974008	T2: Ovarian tumor involves one or both ovaries with pelvic extension	
+369975009	T2a (IIA): Ovarian tumor with extension and/or implants on uterus and/or tube(s)	
+369976005	T3 and/or N1 (III): Ovarian tumor involves one or both ovaries with microscopically confirmed peritoneal metastasis outside the pelvis and/or regional lymph node metastasis	
+369977001	T3b (IIIB): Tumor of uterine cervix extends to pelvic wall and/or causes hydronephrosis or nonfunctioning kidney	
+369978006	T2: Tumor confined within the prostate	
+369979003	T1: Aerodigestive tract tumor < 2 cm in greatest dimension without extraparenchymal extension	
+369980000	Tis: Tumor invades lamina propria (gastrointestinal tumor)	
+369981001	Tis: Tumor invades muscularis mucosae (colon/rectum)	
+369982008	T1: Solitary liver tumor < 2 cm; no vascular invasion	
+369983003	N1: Metastasis to movable ipsilateral axillary lymph node(s)	
+369984009	N1a: Only micrometastasis, none > 0.2 cm in greatest dimension	
+369985005	N1b: Metastasis to lymph node(s), any > 0.2 cm in greatest dimension	
+369986006	N1bi: Metastasis in 1 to 3 lymph nodes, any > 0.2 cm and all < 2 cm in greatest dimension	
+369987002	N1bii: Metastasis in 4 or more lymph nodes, any > 0.2 cm and all < 2 cm in greatest dimension	
+369988007	N1biii: Extension of tumor beyond the capsule of a lymph node metastasis, < 2 cm in greatest dimension	
+369989004	N1biv: Metastasis to a lymph node > 2 cm in greatest dimension	
+369990008	Clinical axillary lymph node metastases - matted	
+369991007	N3: Metastasis to ipsilateral internal mammary lymph node(s)	
+369992000	N1: Metastasis in 1-3 lymph nodes	
+369993005	N2: Metastasis in 4 or more lymph nodes	
+369994004	N1a: 1-3 nodes involved	
+369995003	N1b: 4-7 nodes involved	
+369996002	N1c: >7 nodes involved	
+369997006	N1: Metastasis in 1-6 perigastric lymph nodes	
+369998001	N2: Metastasis in 7-15 perigastric lymph nodes	
+369999009	N3: Metastasis in >15 perigastric lymph nodes	
+370000006	N1: Metastasis in a single lymph node, < 2 cm in greatest dimension	
+370001005	N1: Metastasis in a single lymph node, <= 2 cm in greatest dimension	
+370002003	N2: Metastasis in a single lymph node, > 2 cm but <= 5 cm in greatest dimension, or multiple lymph nodes, none > 5 cm in greatest dimension	
+370003008	N3: Metastasis in a lymph node > 5 cm in greatest dimension	
+370004002	N1: Metastasis in a single ipsilateral lymph node, < 3 cm in greatest dimension	
+370005001	N1: Unilateral metastasis in lymph node(s) > 6 cm in greatest dimension, above supraclavicular fossa	
+370006000	N2: Metastasis in a single ipsilat lymph node >3cm but <6cm in greatest dimension; or in multiple ipsilat lymph nodes, none >6cm in greatest dimension; or in bilat or contralat lymph nodes, none >6cm in greatest dimension	
+370007009	N2: Bilateral metastasis in lymph node(s) > 6 cm in greatest dimension, above supraclavicular fossa	
+370008004	N2a: Metastasis in a single ipsilateral lymph node, > 3 cm but < 6 cm in greatest dimension	
+370009007	N2b: Metastasis in multiple ipsilateral lymph nodes, none > 6 cm in greatest dimension	
+370010002	N2c: Metastasis in bilateral or contralateral lymph nodes, none > 6 cm in greatest dimension	
+370011003	N3: Metastasis in lymph node(s)	
+370012005	N3a: > 6 cm in dimension	
+370013000	N3b: extension to supraclavicular fossa	
+370014006	N3: Metastasis in a lymph node > 6 cm in greatest dimension	
+370015007	N1: Metastasis in ipsilateral peribronchial and/or ipsilateral hilar lymph nodes, including intrapulmonary nodes involved by direct extension of the primary tumor	
+370016008	N2: Metastasis in ipsilateral mediastinal and/or subcarinal lymph node(s)	
+370017004	N3: Metastasis in contralateral mediastinal, contralateral hilar, ipsilateral or contralateral scalene or supraclavicular lymph node(s)	
+370018009	N1: Metastasis in a single lymph node	
+370019001	N2: Metastasis in more than one regional lymph node	
+370020007	N1: Metastasis with a lymph node mass less than 2 cm in greatest dimension and 5 or fewer positive nodes, none larger than 2 cm in greatest dimension	
+370021006	N2: Metastasis with a lymph node mass >2 cm but <= 5 cm in greatest dimension, or more than 5 nodes positive, none > 5 cm; or evidence of extranodal extension of tumor	
+370022004	N3: Metastasis with a lymph node mass > 5 cm in greatest dimension	
+370023009	N1: Metastasis in regional lymph node or nodes	
+370024003	N1: Pelvic or inguinal lymph node metastasis	
+370025002	N1a: Metastasis in ipsilateral cervical lymph node(s)	
+370026001	N1b: Metastasis in bilateral, midline, or contralateral cervical or mediastinal lymph node(s)	
+370027005	N1a: Metastasis in single regional lymph node	
+370028000	N1b: Metastasis in multiple regional lymph nodes	
+370029008	M1 (IV): Distant metastasis	
+370030003	M1 (IVB): Distant metastasis	
+370031004	M1: Distant metastasis [includes metastasis to ipsilateral supraclavicular lymph nodes]	
+370032006	M1: Distant metastasis, includes separate tumor nodule(s) in a different lobe (ipsilateral or contralateral)	
+370033001	M1a: Non-regional lymph node or pulmonary metastasis	
+370034007	M1a: non-regional lymph node metastasis	
+370035008	M1a (III): gestational trophoblastic tumor extends to the lungs with or without genital tract involvement	
+370036009	M1a (IIIA): gestational trophoblastic tumor extends to the lungs with or without genital tract involvement without risk factors	
+370037000	M1a (IIIB): gestational trophoblastic tumor extends to the lungs with or without genital tract involvement with one risk factor	
+370038005	M1a (IIIC): gestational trophoblastic tumor extends to the lungs with or without genital tract involvement with two risk factors	
+370039002	M1b (IV): All other metastatic sites	
+370040000	M1b (IVA): All other metastatic sites without risk factors	
+370041001	M1b (IVB): All other metastatic sites with one risk factor	
+370042008	M1b (IVC): All other metastatic sites with two risk factors	
+370043003	M1b: Bone(s)	
+370044009	M1b: Distant metastasis other than to non-regional lymph nodes and lungs	
+370045005	M1c: Other site(s)	
+370046006	T3a,b: Colon/rectum tumor invades <=5 mm beyond the border of the muscularis propria	
+370047002	T3c,d: Colon/rectum tumor invades >5 mm beyond the border of the muscularis propria	
+370072002	Direct invasion of adrenal (T3a)	
+370123006	N1: Regional lymph node metastasis	
+372436009	N1: Metastasis in perirectal lymph node or nodes	
+372437000	N2: Metastasis to unilateral internal iliac and/or inguinal lymph node(s)	
+373150000	pNX: Regional lymph nodes cannot be assessed (e.g., previously removed, or not removed for pathologic study) (breast)	
+373151001	pN0: No regional lymph node metastasis histologically (i.e., none greater than 0.2 mm), no additional examination for isolated tumor cells (breast)	
+373156006	pN1: Metastasis in 1 to 3 axillary lymph nodes, and/or in internal mammary nodes with microscopic disease detected by sentinel lymph node dissection but not clinically apparent (breast)	
+373157002	pN1mi: Micrometastasis (greater than 0.2 mm, none greater than 2.0 mm) (breast)	
+373158007	pN1mi(i+): Micrometastasis detected only by IHC (breast)	
+373159004	pN1a: Metastasis in 1 to 3 axillary lymph nodes (breast)	
+373160009	pN1b: Metastasis in internal mammary lymph nodes with microscopic disease detected by sentinel lymph node dissection but not clinically apparent (breast)	
+373161008	pN1c: Metastasis in 1 to 3 axillary lymph nodes and in internal mammary lymph nodes with microscopic disease detected by sentinel lymph node dissection but not clinically apparent (breast)	
+373162001	pN2: Metastasis in 4 to 9 axillary lymph nodes, or in clinically apparent internal mammary lymph nodes in the absence of axillary lymph node metastasis (breast)	
+373163006	pN2a: Metastasis in 4 to 9 axillary lymph nodes (at least one tumor deposit greater than 2.0 mm) (breast)	
+373164000	pN2b: Metastasis in clinically apparent internal mammary lymph nodes in the absence of axillary lymph node metastasis (breast)	
+373165004	pN3a: Metastasis in 10 or more axillary lymph nodes (at least one tumor deposit greater than 2.0 mm), or metastasis to infraclavicular lymph nodes (breast)	
+373166003	pN3c: Metastasis in ipsilateral supraclavicular lymph nodes (breast)	
+373167007	pN3b: Tumor of breast with metastasis as per AJCC 6th Edition definition (breast)	
+373169005	pM0: No distant metastasis from breast tumor	
+373170006	pMX: Distant metastasis cannot be assessed (breast)	
+373171005	pM1: Distant metastasis (breast)	
+373172003	pT1: Tumor 2 cm or less in greatest dimension (breast)	
+373173008	pTX: Primary tumor cannot be assessed (breast)	
+373174002	pT0: No evidence of primary tumor (breast)	
+373175001	pTis: Carcinoma in situ (breast)	
+373176000	pTis: Ductal carcinoma in situ (breast)	
+373177009	pTis: Lobular carcinoma in situ (breast)	
+373178004	pTis: Paget's disease of the nipple with no tumor	
+373179007	pT1mic: Microinvasion <= 0.1 cm in greatest dimension (breast)	
+373180005	pT1a: Tumor >0.1 cm but <= 0.5 cm in greatest dimension (breast)	
+373182002	pT2: Tumor > 2 cm but <= 5 cm in greatest dimension (breast)	
+373183007	pT1c: Tumor more than 1 cm but not more than 2 cm in greatest dimension (breast)	
+373184001	pT3: Tumor >5 cm in greatest dimension (breast)	
+373185000	pT4: Tumor of any size with direct extension to chest wall or skin (breast)	
+373186004	pT4a: Tumor of any size with extension to chest wall, not including pectoralis muscle (breast)	
+373187008	pT4b: Tumor of any size with edema (including peau d'orange) or ulceration of the skin of the breast or satellite skin nodules confined to the same breast	
+373189006	pT4c: Tumor of any size with direct extension to chest wall (not including pectoralis muscle) and edema (including peau d'orange) or ulceration of the skin of the breast or satellite skin nodules confined to the same breast	
+373190002	pT4d: Inflammatory carcinoma (breast)	
+373199001	pTis: Tumor invades muscularis mucosae (colon/rectum)	
+373200003	pT1: Tumor invades submucosa (colon/rectum)	
+373201004	pTis: Tumor invades lamina propria (colon/rectum)	
+373204007	pT1b: Tumor >0.5 cm but <= 1 cm in greatest dimension (breast)	
+384612007	pT4a: Tumor directly invades other organs or structures (colon/rectum)	
+384613002	pT4b: Tumor penetrates visceral peritoneum (colon/rectum)	
+384748000	pM1: Distant metastasis, includes separate tumor nodule(s) in a different lobe (ipsilateral or contralateral) (lung)	
+384749008	pN1: Metastasis in ipsilateral peribronchial and/or ipsilateral hilar lymph nodes, including intrapulmonary nodes involved by direct extension of the primary tumor (lung)	
+384750008	pN2: Metastasis to ipsilateral mediastinal and/or subcarinal lymph nodes(s) (lung)	
+384751007	pN3: Metastasis to contralateral mediastinal, contralateral hilar, ipsilateral or contralateral scalene, or supraclavicular lymph nodes(s) (lung)	
+384753005	pT1: Tumor 3 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (i.e., not in the main bronchus) (lung)	
+384754004	pT2: Tumor of lung as per AJCC 6th Edition definition (lung)	
+384755003	pT3:Tumor directly invades any of following:chest wall,diaphragm,mediastinal pleura,parietal pericardium;or tumor in main bronchus<2 cm distal to carina(not involving it);or assoc atelectasis or obstructive pneumonitis of whole lung	
+384756002	pT4: Tumor of lung as per AJCC 6th Edition definition (lung)	
+384757006	pTX: Primary tumor cannot be assessed, or tumor proven by the presence of malignant cells in sputum or bronchial washings but not visualized by imaging or bronchoscopy (lung)	
+384983005	pT2: Organ confined (prostate)	
+384984004	pT2a: Unilateral, one-half of one lobe or less (prostate)	
+384985003	pT2b: Unilateral, involving more than one-half of lobe but not both lobes (prostate)	
+384986002	pT2c: Bilateral disease (prostate)	
+384987006	pT3: Extraprostatic extension (prostate)	
+384988001	pT3a: Extraprostatic extension (prostate)	
+384989009	pT3b: Seminal vesicle invasion (prostate)	
+384990000	pT4: Invasion of bladder AND/OR rectum (prostate)	
+385301007	pT1: Tumor 2 cm or less in greatest dimension (anal canal)	
+385302000	pT2: Tumor more than 2 cm but not more than 5 cm in greatest dimension (anal canal)	
+385303005	pT3: Tumor more than 5 cm in greatest dimension (anal canal)	
+385304004	pT4: Tumor of any size invades adjacent organ(s), e.g., vagina, urethra, bladder (anal canal)	
+385306002	pN1: Metastasis in perirectal lymph node(s) (anal canal)	
+385307006	pN2: Metastasis in unilateral internal iliac AND/OR inguinal lymph node(s) (anal canal)	
+385308001	pN3: Metastasis in perirectal and inguinal lymph nodes AND/OR bilateral internal iliac AND/OR inguinal lymph nodes (anal canal)	
+385316005	pT1: Tumor invades lamina propria or submucosa (stomach)	
+385317001	pT1a: Tumor invades lamina propria (stomach)	
+385318006	pT1b: Tumor invades submucosa (stomach)	
+385319003	pT2: Tumor invades muscularis propria or subserosa (stomach)	
+385320009	pT2a: Tumor invades muscularis propria (stomach)	
+385321008	pT2b: Tumor invades subserosa (stomach)	
+385322001	pT3: Tumor penetrates serosa (visceral peritoneum) without invasion of adjacent structures (stomach)	
+385323006	pT4: Tumor invades adjacent structures (stomach)	
+385324000	pN1: Metastasis in 1 to 6 regional (perigastric) lymph nodes (stomach)	
+385325004	pN2: Metastasis in 7 to 15 regional (perigastric) lymph nodes (stomach)	
+385326003	pN3: Metastasis in more than 15 regional (perigastric) lymph nodes (stomach)	
+385358008	Dukes stage finding	
+385360005	Modified Dukes stage finding	
+385362002	FIGO stage finding for gynecological malignancy	
+385364001	FIGO ovarian tumor stage finding	
+385366004	FIGO stage finding for epithelial tumor of ovary	
+385368003	FIGO stage finding for cervical carcinoma	
+385370007	FIGO stage finding for vulvar carcinoma	
+385372004	FIGO stage finding for vulvar melanoma	
+385374003	FIGO uterine tumor stage finding	
+385376001	FIGO stage finding for endometrial carcinoma	
+385378000	pM category finding	
+385379008	TNM tumor staging finding	
+385380006	Metastasis stage finding	
+385381005	pN category finding	
+385382003	Node stage finding	
+385385001	pT category finding	
+385389007	Lymphoma stage finding	
+385392006	Colon/rectum TNM finding	
+385415005	Anal canal TNM finding	
+385416006	Prostate TNM finding	
+385417002	Breast TNM finding	
+385418007	Lung TNM finding	
+394939004	Dukes stage A	
+394940002	Dukes stage B	
+394941003	Dukes stage C1	
+394942005	Dukes stage C2	
+394943000	Dukes stage D	
+395705003	pTis: Carcinoma in situ, intraepithelial (colon/rectum)	
+395706002	pT2: Tumor invades muscularis propria (colon/rectum)	
+395707006	pT3: Tumor invades through the muscularis propria into the subserosa or into non-peritonealized pericolic or perirectal tissues (colon/rectum)	
+395708001	pT3a,b: Tumor invades through the muscularis propria into the subserosa or into non-peritonealized pericolic or perirectal tissues, invades 5 mm or less beyond the border of the muscularis propria (colon/rectum)	
+395709009	pT3c,d: Tumor invades through the muscularis propria into the subserosa or into non-peritonealized pericolic or perirectal tissues, invades greater than 5 mm beyond the border of the muscularis propria (colon/rectum)	
+395710004	pT4: Tumor directly invades other organs or structures and/or perforates visceral peritoneum (colon/rectum)	
+395711000	pN1: Metastasis in 1 to 3 regional lymph nodes (colon/rectum)	
+395712007	pN2: Metastasis in 4 or more regional lymph nodes (colon/rectum)	
+396082002	pT1: Tumor 7 cm or less in greatest dimension, limited to the kidney (kidney)	
+396083007	Kidney TNM finding	
+396084001	pT1a: Tumor 4 cm or less in greatest dimension, limited to the kidney (kidney)	
+396085000	pT1b: Tumor more than 4 cm but not more than 7 cm in greatest dimension, limited to the kidney (kidney)	
+396086004	pT2: Tumor more than 7 cm in greatest dimension, limited to the kidney (kidney)	
+396087008	pT3: Tumor extends into major veins or invades adrenal gland or perirenal and/or renal sinus fat but not beyond Gerota's fascia (kidney)	
+396088003	pT3a: Tumor directly invades adrenal gland or perirenal and/or renal sinus fat but not beyond Gerota's fascia (kidney)	
+396089006	pT3b: Tumor grossly extends into the renal vein or its segmental (muscle-containing) branches, or vena cava below the diaphragm (kidney)	
+396090002	pT3c: Tumor grossly extends into vena cava above diaphragm or invades the wall of the vena cava (kidney)	
+396091003	pT4: Tumor invades beyond Gerota's fascia (kidney)	
+396092005	pN1: Metastasis in a single regional lymph node (kidney)	
+396093000	pN2: Metastasis in more than one regional lymph node (kidney)	
+396094006	Ampulla of Vater TNM finding	
+396095007	pT1: Tumor limited to ampulla of Vater or sphincter of Oddi (ampulla of Vater)	
+396096008	pT2: Tumor invades duodenal wall (ampulla of Vater)	
+396097004	pT3: Tumor invades pancreas (ampulla of Vater)	
+396098009	pT4: Tumor invades peripancreatic soft tissues or other adjacent organs or structures (ampulla of Vater)	
+396099001	Liver TNM finding	
+396100009	pT1: Solitary tumor without vascular invasion (liver, including intrahepatic bile ducts)	
+396101008	pT2: Solitary tumor with vascular invasion or multiple tumors none more than 5 cm (liver, including intrahepatic bile ducts)	
+396102001	pT3: Multiple tumors more than 5 cm or tumor involving a major branch of the portal or hepatic vein(s) (liver, including intrahepatic bile ducts)	
+396103006	pT4: Tumor(s) with direct invasion of adjacent organs other than the gallbladder or with perforation of visceral peritoneum (liver, including intrahepatic bile ducts)	
+396282005	Uterine cervix TNM finding	
+396283000	pT1 (I): Cervical carcinoma confined to uterus (extension to corpus should be disregarded) (TNM category and FIGO stage) (uterine cervix)	
+396287004	pT1a (IA): Invasive carcinoma diagnosed only by microscopy. All macroscopically visible lesions (even with superficial invasion) are pT1b/IB (TNM category and FIGO stage) (uterine cervix)	
+396288009	pT1a1 (IA1): Measured stromal invasion 3.0 mm or less in depth and 7.0 mm or less in horizontal spread (TNM category and FIGO stage) (uterine cervix)	
+396289001	pT1a2 (IA2): Measured stromal invasion more than 3.0 mm and not more than 5.0 mm in depth and 7.0 mm or less horizontal spread (TNM category and FIGO stage) (uterine cervix)	
+396290005	pT1b (IB): Clinically visible lesion confined to the cervix or microscopic lesion greater than T1a2/IA2 (TNM category and FIGO stage) (uterine cervix)	
+396291009	pT1b1 (IB1): Clinically visible lesion 4.0 cm or less in greatest dimension (TNM category and FIGO stage) (uterine cervix)	
+396292002	pT1b2 (IB2): Clinically visible lesion more than 4.0 cm in greatest dimension (TNM category and FIGO stage) (uterine cervix)	
+396294001	pT2 (II): Cervical carcinoma invades beyond uterus but not to pelvic wall or to lower third of vagina (TNM category and FIGO stage) (uterine cervix)	
+396297008	pT2a (IIA): Tumor without parametrial invasion (TNM category and FIGO stage) (uterine cervix)	
+396298003	pT2b (IIB): Tumor with parametrial invasion (TNM category and FIGO stage) (uterine cervix)	
+396299006	pT3 (III): Tumor extends to pelvic wall and/or involves lower third of vagina and/or causes hydronephrosis or non-functioning kidney (TNM category and FIGO stage) (uterine cervix)	
+396300003	pT3a (IIIA): Tumor involves lower third of vagina, no extension to pelvic wall (TNM category and FIGO stage) (uterine cervix)	
+396301004	pT3b (IIIB): Tumor extends to pelvic wall and/or causes hydronephrosis or non-functioning kidney (TNM category and FIGO stage) (uterine cervix)	
+396302006	pT4 (IVA): Tumor invades mucosa of bladder or rectum and/or extends beyond true pelvis (bullous edema is not sufficient evidence to classify a tumor as pT4) (TNM category and FIGO stage) (uterine cervix)	
+396303001	pM1 (IVB): Distant metastasis (TNM category and FIGO stage) (corpus uteri)	
+396311006	Corpus uteri TNM finding	
+396312004	pT1 (I): Tumor confined to corpus uteri (TNM category and FIGO stage) (corpus uteri)	
+396313009	pT1a (IA): Tumor limited to endometrium (TNM category and FIGO stage) (corpus uteri)	
+396314003	pT1b (IB): Tumor invades less than one-half of the myometrium (TNM category and FIGO stage) (corpus uteri)	
+396315002	pT1c (IC): Tumor invades one-half or more of the myometrium (TNM category and FIGO stage) (corpus uteri)	
+396316001	pT2 (II): Tumor invades cervix but does not extend beyond uterus (TNM category and FIGO stage) (corpus uteri)	
+396317005	pT2a (IIA): Tumor limited to the glandular epithelium of the endocervix. There is no evidence of connective tissue stromal invasion (TNM category and FIGO stage) (corpus uteri)	
+396318000	pT2b (IIB): Invasion of the stromal connective tissue of the cervix (TNM category and FIGO stage) (corpus uteri)	
+396319008	pT3 (III): Local and/or regional spread as specified in pT3a, pT3b, pN1, and FIGO IIIA, IIIB, and IIIC (TNM category and FIGO stage) (corpus uteri)	
+396320002	pT3a (IIIA): Tumor involves serosa, AND/OR adnexa (direct extension or metastasis) AND/OR cancer cells in ascites or peritoneal washings (TNM category and FIGO stage) (corpus uteri)	
+396321003	pT3b (IIIB): Involvement of vagina (direct extension or metastasis), rectal or bladder wall (without mucosal involvement), or pelvic wall(s) (frozen pelvis) (TNM category and FIGO stage) (corpus uteri)	
+396322005	pT4 (IVA): Tumor invades bladder mucosa and/or bowel mucosa (TNM category and FIGO stage) (corpus uteri)	
+396323000	pN1 (IIIC): Regional lymph node metastasis (TNM category and FIGO stage) (corpus uteri)	
+396368008	Skin melanoma TNM finding	
+396369000	pTis: Melanoma in situ (melanoma of the skin)	
+396370004	pT1: Melanoma 1.0 mm or less in thickness, with or without ulceration (melanoma of the skin)	
+396371000	pT1a: Melanoma 1.0 mm or less in thickness and level II or III, no ulceration (melanoma of the skin)	
+396372007	pT1b: Melanoma 1.0 mm or less in thickness and level IV or V or with ulceration (melanoma of the skin)	
+396373002	pT2: Melanoma 1.01 to 2.0 mm in thickness, with or without ulceration (melanoma of the skin)	
+396374008	pT2a: Melanoma 1.01 to 2.0 mm in thickness, no ulceration (melanoma of the skin)	
+396375009	pT2b: Melanoma 1.01 to 2.0 mm in thickness, with ulceration (melanoma of the skin)	
+396376005	pT3: Melanoma 2.01 to 4.0 mm in thickness, with or without ulceration (melanoma of the skin)	
+396377001	pT3a: Melanoma 2.01 to 4.0 mm in thickness, no ulceration (melanoma of the skin)	
+396378006	pT3b: Melanoma 2.01 to 4.0 mm in thickness, with ulceration (melanoma of the skin)	
+396379003	pT4: Melanoma greater than 4.0 mm in thickness, with or without ulceration (melanoma of the skin)	
+396380000	pT4a: Melanoma greater than 4.0 mm in thickness, no ulceration (melanoma of the skin)	
+396381001	pT4b: Melanoma greater than 4.0 mm in thickness, with ulceration (melanoma of the skin)	
+396382008	pN1: Metastasis in one regional lymph node (melanoma of the skin)	
+396383003	pN1a: Clinically occult (microscopic) metastasis (melanoma of the skin)	
+396384009	pN1b: Clinically apparent (macroscopic) metastasis (melanoma of the skin)	
+396385005	pN2: Metastasis in 2 to 3 regional nodes or intralymphatic regional metastasis without nodal metastasis (melanoma of the skin)	
+396386006	pN2a: Clinically occult (microscopic) metastasis (melanoma of the skin)	
+396387002	pN2b: Clinically apparent (macroscopic) metastasis (melanoma of the skin)	
+396388007	pN2c: Satellite or in-transit metastasis without nodal metastasis (melanoma of the skin)	
+396389004	pN3: Metastasis in four or more regional nodes, or matted metastatic nodes, or in-transit metastasis or satellite(s) with metastasis in regional node(s) (melanoma of the skin)	
+396390008	pM1a: Metastasis to skin, subcutaneous tissues, or distant lymph nodes (melanoma of the skin)	
+396391007	pM1b: Metastasis to lung (melanoma of the skin)	
+396392000	pM1c: Metastasis to visceral site other than lung or distant metastasis at any site associated with an elevated serum lactic dehydrogenase (LDH) (melanoma of the skin)	
+396492004	Carcinoma of skin (excluding eyelid, vulva, penis, and melanomas) TNM finding	
+396493009	pT1: Tumor 2 cm or less in greatest dimension (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396494003	pT1a: Tumor 2 cm or less in greatest dimension, limited to dermis or 2 mm or less in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396495002	pT1b: Tumor 2 cm or less in greatest dimension, limited to dermis and greater than 2 mm in thickness, but not more than 6 mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396496001	pT1c: Tumor 2 cm or less in greatest dimension, invading the subcutis and/or greater than 6 mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396497005	pT2: Tumor more than 2 cm, but not more than 5 cm, in greatest dimension (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396498000	pT2a: Tumor more than 2 cm, but not more than 5 cm, in greatest dimension, limited to dermis or greater than 2 mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396499008	pT2b: Tumor more than 2 cm, but not more than 5 cm, in greatest dimension, limited to dermis and greater than 2 mm in thickness, but not more than 6 mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396500004	pT2c: Tumor more than 2 cm, but not more than 5 cm, in greatest dimension, invading the subcutis and/or greater than 6 mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396501000	pT3: Tumor more than 5 cm in greatest dimension (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396502007	pT3a: Tumor more than 5 cm in greatest dimension, limited to dermis or not more than 2 mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396503002	pT3b: Tumor more than 5 cm in greatest dimension, limited to dermis and greater than 2 mm in thickness, but not more than 6 mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396504008	pT3c: Tumor more than 5 cm in greatest dimension, invading the subcutis and/or greater than 6 mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396506005	pT4: Tumor invades deep extradermal structures (i.e. cartilage, skeletal muscle, or bone) (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396507001	pT4b: Tumor invades deep extradermal structures (i.e. cartilage, skeletal muscle, or bone) greater than 6mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396508006	pT4a: Tumor invades deep extradermal structures (i.e. cartilage, skeletal muscle, or bone) not more than 6mm in thickness (carcinoma of skin excluding eyelid, vulva, penis, and melanomas)	
+396532004	Stage I: Tumor confined to gland, 5 cm or less (adrenal cortical carcinoma)	
+396533009	Stage II: Tumor confined to gland, greater than 5 cm (adrenal cortical carcinoma)	
+396534003	Stage III: Extraglandular extension of tumor without other organ involvement (adrenal cortical carcinoma)	
+396535002	Stage IV: Distant metastasis or extension into other organs (adrenal cortical carcinoma)	
+396566008	Oropharynx TNM finding	
+396567004	pT1: Tumor 2 cm or less in greatest dimension (oropharynx)	
+396568009	Upper aerodigestive tract TNM finding	
+396569001	pT2: Tumor more than 2 cm but not more than 4 cm in greatest dimension (oropharynx)	
+396570000	pT3: Tumor more than 4 cm in greatest dimension (oropharynx)	
+396571001	pT4a: Tumor invades the larynx, deep/extrinsic muscle of tongue, medial pterygoid muscle, hard palate, or mandible (oropharynx)	
+396572008	pT4b: Tumor invades lateral pterygoid muscle, pterygoid plates, lateral nasopharynx, or skull base or encases carotid artery (oropharynx)	
+396573003	Lip and oral cavity TNM finding	
+396574009	pT2: Tumor more than 2 cm but not more than 4 cm in greatest dimension (lip and oral cavity)	
+396575005	pT1: Tumor 2 cm or less in greatest dimension (lip and oral cavity)	
+396576006	pT1: Tumor 2 cm or less in greatest dimension	
+396577002	pT3: Tumor more than 4 cm in greatest dimension (lip and oral cavity)	
+396578007	pT4a: Tumor invades through cortical bone, inferior alveolar nerve, floor of mouth, or skin of face, i.e., chin or nose (lip)	
+396579004	pT4a: Tumor invades through cortical bone, into deep (extrinsic) muscle of tongue (genioglossus, hyoglossus, palatoglossus, and styloglossus), maxillary sinus, or skin of face (oral cavity)	
+396580001	pT4b: Tumor involves masticator space, pterygoid plates, or skull base and/or encases internal carotid artery (lip and oral cavity)	
+396581002	Hypopharyngeal TNM finding	
+396582009	Nasopharynx TNM finding	
+396583004	pT1: Tumor confined to the nasopharynx (nasopharynx)	
+396584005	pT2a: Tumor extends to the soft tissues of the oropharnyx and/or nasal cavity without parapharyngeal extension (nasopharynx)	
+396585006	pT2: Tumor extends to the soft tissues (nasopharynx)	
+396586007	pT2b: Tumor extends to the soft tissues of the oropharnyx and/or nasal cavity with parapharyngeal extension (nasopharynx)	
+396587003	pT3: Tumor involves bony structures and/or paranasal sinuses (nasopharynx)	
+396588008	pT4: Tumor with intracranial extension, and/or involvement of cranial nerves, infratemporal fossa, hypopharynx, orbit, or masticator space (nasopharynx)	
+396589000	pT1: Tumor limited to one subsite of hypopharynx and 2 cm or less in greatest dimension (hypopharynx)	
+396590009	pT2: Tumor invades more than one subsite of hypopharynx or an adjacent site, or measures more than 2 cm but not more than 4 cm in greatest diameter without fixation of hemilarynx (hypopharynx)	
+396591008	pT3: Tumor measures more than 4 cm in greatest dimension or with fixation of hemilarynx (hypopharynx)	
+396592001	pT4a: Tumor invades thyroid/cricoid cartilage, hyoid bone, thyroid gland, esophagus or central compartment of soft tissue (hypopharynx)	
+396593006	pT4b: Tumor invades prevertebral fascia, encases carotid artery, or involves mediastinal structures (hypopharynx)	
+396594000	Supraglottis TNM finding	
+396595004	pT1: Tumor limited to one subsite of supraglottis with normal vocal cord mobility (larynx, supraglottis)	
+396596003	pT2: Tumor invades mucosa of more than one adjacent subsite of supraglottis or glottis or region outside the supraglottis (e.g., mucosa of base of tongue, vallecula, medial wall of pyriform sinus) without fixation of the larynx	
+396597007	pT3: Tumor limited to the larynx with vocal cord fixation and/or invades any of the following: postcrocoid area, pre-epiglottic tissues, paraglottic space, and/or minor thyroid cartilage erosion (e.g., inner cortex) (larynx, supraglottis)	
+396598002	pT4a: Tumor invades through the thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus) (larynx, supraglottis)	
+396599005	pT4b: Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures (larynx, supraglottis)	
+396600008	Glottis TNM finding	
+396601007	pT1: Tumor limited to the vocal cord(s) (may involve anterior or posterior commissure) with normal mobility (larynx, glottis)	
+396602000	pT1a: Tumor limited to one vocal cord (may involve anterior or posterior commissure) with normal mobility (larynx, glottis)	
+396603005	pT1b: Tumor involves both vocal cords (may involve anterior or posterior commissure) with normal mobility (larynx, glottis)	
+396604004	pT2: Tumor extends to the supraglottis AND/OR subglottis, AND/OR with impaired vocal cord mobility (larynx, glottis)	
+396605003	pT3: Tumor limited to the larynx with vocal cord fixation, and/or invades the paraglottic space, and/or minor thyroid cartilage erosion (larynx, glottis)	
+396606002	pT4a: Tumor invades through thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, soft tissues of the neck including deep intrinsic muscle of the tongue, strap muscles, thyroid, or esophagus) (larynx, glottis)	
+396607006	pT4b: Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures (larynx, glottis)	
+396608001	Subglottis TNM finding	
+396609009	pT1: Tumor limited to the subglottis (larynx, subglottis)	
+396610004	pT2: Tumor extends to vocal cord(s) with normal or impaired mobility (larynx, subglottis)	
+396611000	pT3: Tumor limited to larynx with vocal cord fixation (larynx, subglottis)	
+396612007	pT4a: Tumor invades cricoid or thyroid cartilage and/or invades tissues beyond the larynx (e.g., trachea, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus) (larynx, subglottis)	
+396613002	pT4b: Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures (larynx, subglottis)	
+396614008	Maxillary sinus TNM finding	
+396615009	pT1: Tumor limited to the maxillary sinus mucosa with no erosion or destruction of bone (maxillary sinus)	
+396616005	pT2: Tumor causing bone erosion or destruction including extension into the hard palate and/or middle nasal meatus, except extension to posterior wall of maxillary sinus and pterygoid plates (maxillary sinus)	
+396617001	pT3: Tumor invades any of the following: bone of the posterior wall of maxillary sinus, subcutaneous tissues, floor or medial wall of orbit, pterygoid fossa, ethmoid sinuses (maxillary sinus)	
+396618006	pT4a: Tumor invades anterior orbital contents, skin of cheek, pterygoid plates, infratemporal fossa, cribriform plate, sphenoid or frontal sinuses (maxillary sinus)	
+396619003	pT4b: Tumor invades any of the following: orbital apex, dura, brain, middle cranial fossa, cranial nerves other than maxillary division of trigeminal nerve, nasopharynx, or clivus (maxillary sinus)	
+396621008	Nasal cavity and ethmoid sinus TNM finding	
+396622001	pT1: Tumor restricted to any one subsite, with or without bony invasion (nasal cavity and ethmoid sinus)	
+396623006	pT2: Tumor invading two subsites in a single region or extending to involve an adjacent region within the nasoethmoidal complex, with or without bony invasion (nasal cavity and ethmoid sinus)	
+396624000	pT3: Tumor extends to invade the medial wall or floor of the orbit, maxillary sinus, palate, or cribriform plate (nasal cavity and ethmoid sinus)	
+396625004	pT4a: Tumor invades any of the following: anterior orbital contents, skin of nose or cheek, minimal extension to anterior cranial fossa, pterygoid plates, sphenoid or frontal sinuses (nasal cavity and ethmoid sinus)	
+396626003	pT4b: Tumor invades any of the following: orbital apex, dura, brain, middle cranial fossa, cranial nerves other than maxillary division of trigeminal nerve, nasopharynx, or clivus (nasal cavity and ethmoid sinus)	
+396632008	pN1: Metastasis in a single ipsilateral lymph node, 3 cm or less in greatest dimension (upper aerodigestive tract)	
+396633003	pN2a: Metastasis in a single ipsilateral lymph node, more than 3 cm but not more than 6 cm in greatest dimension (upper aerodigestive tract)	
+396634009	pN2c: Metastasis in bilateral or contralateral lymph nodes, none more than 6 cm in greatest dimension (upper aerodigestive tract)	
+396635005	pN2b: Metastasis in multiple ipsilateral lymph nodes, none more than 6 cm in greatest dimension (upper aerodigestive tract)	
+396636006	pN3: Metastasis in a lymph node, more than 6 cm in greatest dimension (upper aerodigestive tract)	
+396637002	pN1: Unilateral metastasis in lymph node(s), 6 cm or less in greatest dimension, above the supraclavicular fossa (nasopharynx)	
+396638007	pN2: Bilateral metastasis in lymph node(s), 6 cm or less in greatest dimension, above the supraclavicular fossa (nasopharynx)	
+396639004	pN3: Metastasis in a lymph node(s), more than 6 cm in dimension, and/or to supraclavicular fossa (nasopharynx)	
+396640002	pN3a: Metastasis in a lymph node(s), more than 6 cm in dimension (nasopharynx)	
+396641003	pN3b: Metastasis in lymph node(s) residing wholly or in part in the supraclavicular fossa (nasopharynx)	
+396648009	Major salivary gland TNM finding	
+396650001	pT1: Tumor 2 cm or less in greatest dimension without extraparenchymal extension (major salivary glands)	
+396651002	pT2: Tumor more than 2 cm but not more than 4 cm in greatest dimension without extraparenchymal extension (major salivary glands)	
+396653004	pT3: Tumor more than 4 cm and/or tumor having extraparenchymal extension (major salivary glands)	
+396657003	pT4a: Tumor invades skin, mandible, ear canal, and/or facial nerve (major salivary glands)	
+396658008	pT4b: Tumor invades skull base and/or pterygoid plates and/or encases carotid artery (major salivary glands)	
+396666004	Urinary bladder, ureter, or renal pelvis TNM finding	
+396667008	pTa: Non-invasive papillary carcinoma (urinary bladder, ureter, renal pelvis)	
+396668003	pTis: Flat carcinoma in situ (urinary bladder, ureter, renal pelvis)	
+396669006	pT1: Tumor invades subepithelial connective tissue (urinary bladder, ureter, renal pelvis)	
+396670007	pT2: Tumor invades muscularis propria (urinary bladder, ureter, renal pelvis)	
+396671006	pT2a: Tumor invades superficial muscle (inner half) (urinary bladder)	
+396672004	pT2b: Tumor invades deep muscle (outer half) (urinary bladder)	
+396673009	pT3: Tumor invades perivesical tissue (urinary bladder)	
+396674003	pT3a: Tumor invades perivesical tissue microscopically (urinary bladder)	
+396675002	pT3b: Tumor invades perivesical tissue macroscopically (extravesical mass) (urinary bladder)	
+396676001	pT4: Tumor invades any of the following: prostate, uterus, vagina, pelvic wall, abdominal wall (urinary bladder)	
+396677005	pT4a: Tumor invades prostate or uterus or vagina (urinary bladder)	
+396678000	pT4b: Tumor invades pelvic wall or abdominal wall (urinary bladder)	
+396679008	pN1: Metastasis in a single lymph node, 2 cm or less in greatest dimension (urinary bladder, ureter, renal pelvis)	
+396680006	pN2: Metastasis in a single lymph node, more than 2 cm but not more than 5 cm in greatest dimension; or multiple lymph nodes, none more than 5 cm in greatest dimension (urinary bladder, ureter, renal pelvis)	
+396681005	pT3: Tumor invades beyond muscularis into periureteric fat or renal parenchyma (renal pelvis)	
+396682003	pT4: Tumor invades adjacent organs, or through the kidney into the perinephric fat (renal pelvis and ureter)	
+396683008	pT3: Tumor invades beyond muscularis into periureteric fat (ureter)	
+396684002	pT2: Tumor invades muscularis (renal pelvis and ureter)	
+396726006	Testis TNM finding	
+396727002	pTis: Intratubular germ cell neoplasia (carcinoma in situ) (testis)	
+396728007	pT1: Tumor limited to the testis and epididymis without vascular/lymphatic invasion; tumor may invade into the tunica albuginea but not the tunica vaginalis (testis)	
+396729004	pT2: Tumor limited to the testis and epididymis with vascular/lymphatic invasion, or tumor extending through the tunica albuginea with involvement of the tunica vaginalis (testis)	
+396730009	pT3: Tumor invades the spermatic cord with or without vascular/lymphatic invasion (testis)	
+396731008	pT4: Tumor invades the scrotum with or without vascular/lymphatic invasion (testis)	
+396732001	pN1: Metastasis with a lymph node mass 2 cm or less in greatest dimension and less than or equal to 5 nodes positive, none more than 2 cm in greatest dimension (testis)	
+396733006	pN2: Metastasis with a lymph node mass more than 2 cm but not more than 5 cm in greatest dimension; or more than 5 nodes positive, none more than 5 cm; or evidence of extranodal extension of tumor (testis)	
+396734000	pN3: Metastasis with a lymph node mass more than 5 cm in greatest dimension (testis)	
+396735004	pM1a: Non-regional nodal or pulmonary metastasis (testis)	
+396736003	pM1b: Distant metastasis other than to non-regional lymph nodes and lungs (testis)	
+396797009	Exocrine pancreas TNM finding	
+396798004	pT1: Tumor limited to the pancreas, 2 cm or less in greatest dimension (exocrine pancreas)	
+396799007	pT2: Tumor limited to the pancreas, more than 2 cm in greatest dimension (exocrine pancreas)	
+396800006	pT3: Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery (exocrine pancreas)	
+396801005	pN1a: Metastasis in single regional lymph node (exocrine pancreas)	
+396802003	pN1b: Metastasis in multiple regional lymph node(s) (exocrine pancreas)	
+396803008	pT4: Tumor involves the celiac axis or the superior mesenteric artery (exocrine pancreas)	
+396907008	Thymic epithelial neoplasm stage finding	
+396908003	Stage I: Grossly and microscopically encapsulated (thymus gland)	
+396909006	Stage IIa: Microscopic transcapsular invasion (thymus gland)	
+396910001	Stage IIb: Macroscopic capsular invasion into thymic or surrounding fat, or grossly adherent to, but not breaking through, mediastinal pleura or pericardium (thymus gland)	
+396911002	Stage III: Macroscopic invasion of neighboring organs (thymus gland)	
+396912009	Stage IVa: Pleural or pericardial dissemination (thymus gland)	
+396913004	Stage IVb: Hematogenous or lymphatic dissemination (thymus gland)	
+396960007	Retinoblastoma TNM finding	
+396961006	pT1: Tumor confined to the retina, vitreous, or subretinal space. No optic nerve or choroidal invasion (retinoblastoma)	
+396962004	pT2: Minimal invasion of the optic nerve and/or optic coats (retinoblastoma)	
+396963009	pT2a: Tumor invades optic nerve up to, but not through, the level of the lamina cribrosa (retinoblastoma)	
+396964003	pT2b: Tumor invades choroid focally (retinoblastoma)	
+396965002	pT2c: Tumor invades optic nerve up to, but not through, the level of the lamina cribrosa and invades the choroid focally (retinoblastoma)	
+396966001	pT3: Significant invasion of the optic nerve and/or optic coats (retinoblastoma)	
+396967005	pT3a: Tumor invades optic nerve through the level of the lamina cribrosa but not to the line of resection (retinoblastoma)	
+396968000	pT3b: Tumor massively invades the choroid (retinoblastoma)	
+396969008	pT3c: Tumor invades the optic nerve through the level of the lamina cribrosa but not to the line of resection and massively invades the choroid (retinoblastoma)	
+396970009	pT4: Extraocular tumor extension which includes sites as per AJCC 6th Edition definition (retinoblastoma)	
+396971008	pM1a: Distant metastasis to bone marrow (retinoblastoma)	
+396972001	pM1b: Distant metastasis to sites other than bone marrow (retinoblastoma)	
+397025005	Stomach TNM finding	
+397026006	pT1: Tumor invades lamina propria or submucosa (esophagus)	
+397027002	Esophagus TNM finding	
+397029004	pT1a: Tumor invades lamina propria (esophagus)	
+397030009	pT1b: Tumor invades submucosa (esophagus)	
+397031008	pT2: Tumor invades muscularis propria (esophagus)	
+397032001	pT3: Tumor invades adventitia (esophagus)	
+397033006	pT4: Tumor invades adjacent structures (esophagus)	
+397036003	pN1a: Metastasis in 1 to 3 regional lymph nodes (esophagus)	
+397037007	pN1b: Metastasis in 4 to 7 regional lymph nodes (esophagus)	
+397038002	pN1c: Metastasis in more than 7 regional lymph nodes (esophagus)	
+397039005	pM1a: Metastasis in celiac lymph nodes (lower thoracic esophagus)	
+397040007	pM1a: Distant metastasis not applicable (midthoracic esophagus)	
+397041006	pM1a: Metastasis in cervical nodes (upper thoracic esophagus)	
+397042004	pM1b: Distant metastasis to site other than celiac lymph nodes (lower thoracic esophagus)	
+397043009	pM1b: Nonregional lymph nodes AND/OR other distant metastasis (midthoracic esophagus)	
+397044003	pM1b: Distant metastasis to site other than cervical nodes (upper thoracic esophagus)	
+397058001	Small intestine TNM finding	
+397059009	pT1: Tumor invades lamina propria or submucosa (small intestine)	
+397088005	pT2: Tumor invades muscularis propria (small intestine)	
+397089002	pT3: Tumor invades through the muscularis propria into the subserosa or into the nonperitonealized perimuscular tissue (mesentery or retroperitoneum) with extension 2 cm or less (small intestine)	
+397090006	pT4: Tumor perforates the visceral peritoneum or directly invades other organs or structures (small intestine)	
+397092003	Gallbladder TNM finding	
+397093008	pT1: Tumor invades lamina propria or muscle layer (gallbladder)	
+397094002	pT1a: Tumor invades lamina propria (gallbladder)	
+397095001	pT1b: Tumor invades muscle layer (gallbladder)	
+397096000	pT2: Tumor invades perimuscular connective tissue; no extension beyond serosa or into liver (gallbladder)	
+397097009	pT3: Tumor perforates the serosa (visceral peritoneum) and/or directly invades the liver and/or one other adjacent organ or structure, such as the stomach, duodenum, colon, pancreas, omentum, or extrahepatic bile ducts (gallbladder)	
+397098004	pT4: Tumor invades main portal vein or hepatic artery or invades two or more extrahepatic organs or structures (gallbladder)	
+397101000	Vagina TNM finding	
+397102007	pT1 (I): Tumor confined to vagina (TNM category and FIGO stage) (vagina)	
+397103002	pT2 (II): Tumor invades paravaginal tissues but not to pelvic wall (TNM category and FIGO stage) (vagina)	
+397104008	pT3 (III): Tumor extends to pelvic wall (TNM category and FIGO stage) (vagina)	
+397105009	pT4 (IVA): Tumor invades mucosa of the bladder or rectum and/or extends beyond the true pelvis (bullous edema is not sufficient evidence to classify a tumor as T4) (TNM category and FIGO stage) (vagina)	
+397106005	pM1 (IVB): Distant metastasis (TNM category and FIGO stage) (vagina)	
+397107001	pN1: Pelvic or inguinal lymph node metastasis (vagina)	
+397119009	Vulva TNM finding	
+397120003	pT1 (I): Tumor confined to the vulva or vulva and perineum, 2 cm or less in greatest dimension (TNM category and FIGO stage) (vulva)	
+397121004	pT1a (IA): Tumor confined to the vulva or vulva and perineum, 2 cm or less in greatest dimension, and with stromal invasion no greater than 1 mm (TNM category and FIGO stage) (vulva)	
+397122006	pT1b (IB): Tumor confined to the vulva or vulva and perineum, 2 cm or less in greatest dimension, and with stromal invasion greater than 1 mm (TNM category and FIGO stage) (vulva)	
+397123001	pT2 (II): Tumor confined to the vulva or vulva and perineum, more than 2 cm in greatest dimension (TNM category and FIGO stage) (vulva)	
+397124007	pT3 (III): Tumor of any size with contiguous spread to the lower urethra and/or vagina or anus (TNM category and FIGO stage) (vulva)	
+397125008	pT4 (IVA): Tumor invades any of the following: upper urethra, bladder mucosa, rectal mucosa, or is fixed to the pubic bone (TNM category and FIGO stage) (vulva)	
+397126009	pN1: Unilateral regional lymph node metastasis (vulva)	
+397127000	pN2: Bilateral regional lymph node metastasis (vulva)	
+397146004	Extrahepatic bile ducts TNM finding	
+397147008	pT1: Tumor confined to the bile duct histologically (extrahepatic bile ducts)	
+397148003	pT2: Tumor invades beyond the wall of bile duct (extrahepatic bile ducts)	
+397149006	pT3: Tumor invades the liver, gallbladder, pancreas, and/or ipsilateral branches of the portal vein (right or left) or hepatic artery (right or left) (extrahepatic bile ducts)	
+397150006	pT4: Tumor invades any of the following: main portal vein or its branches bilaterally, common hepatic artery, or other adjacent structures, such as the colon, stomach, duodenum, or abdominal wall (extrahepatic bile ducts)	
+397213002	pM1a: Distant metastasis to non-regional lymph node(s) (prostate)	
+397214008	pM1b: Distant metastasis to bone(s) (prostate)	
+397215009	pM1c: Distant metastasis site other than bone or non-regional lymph node(s) (prostate)	
+397316007	Ovary TNM finding	
+397317003	pM1 (IV): Distant metastasis (TNM category and FIGO stage) (ovary)	
+397360007	pT3a (IIIA): Tumor involves serosa, AND/OR adnexa (direct extension or metastasis) (TNM category and FIGO stage) (corpus uteri)	
+397367005	pN1 (III): Pelvic or inguinal lymph node metastasis (pT1-pT3) (TNM category and FIGO stage) (vagina)	
+397368000	pN1 (IVA): Pelvic or inguinal lymph node metastasis (pT4) (TNM category and FIGO stage) (vagina)	
+397369008	pN1 (IVB): Pelvic or inguinal lymph node metastasis (pT1-pT4, pM1) (TNM category and FIGO stage) (vagina)	
+397370009	pN1 (III): Unilateral regional lymph node metastasis (pT1-pT3) (TNM category and FIGO stage) (vulva)	
+397371008	pN1 (IVA): Unilateral regional lymph node metastasis (pT4) (TNM category and FIGO stage) (vulva)	
+397372001	pN1 (IVB): Unilateral regional lymph node metastasis (pT1-pT4, pM1) (TNM category and FIGO stage) (vulva)	
+397373006	pN2 (IVA): Bilateral regional lymph node metastasis (pT1-pT4) (TNM category and FIGO stage) (vulva)	
+397374000	pN2 (IVB): Bilateral regional lymph node metastasis (pT1-pT4, pM1) (TNM category and FIGO stage) (vulva)	
+397375004	pM1 (IVB): Distant metastasis (including pelvic lymph node metastasis) (TNM category and FIGO stage) (vulva)	
+397385003	Thoracic mesothelioma TNM finding	
+397386002	pT1: Tumor involves ipsilateral parietal pleura, with or without focal involvement of visceral pleura (thoracic mesothelioma)	
+397387006	pT1a: Tumor involves ipsilateral parietal (mediastinal, diaphragmatic) pleura. No involvement of the visceral pleura (thoracic mesothelioma)	
+397388001	pT1b: Tumor involves ipsilateral parietal (mediastinal, diaphragmatic) pleura, with focal involvement of the visceral pleura (thoracic mesothelioma)	
+397389009	pT2: Tumor involves any of the ipsilateral pleural surfaces with at least one of the following: confluent visceral pleural tumor (including fissure), invasion of diaphragmatic muscle, invasion of lung parenchyma (thoracic mesothelioma)	
+397390000	pN1: Metastasis in the ipsilateral bronchopulmonary and/or hilar lymph node(s) (thoracic mesothelioma)	
+397391001	pN2: Metastasis in the subcarinal lymph node(s) and/or the ipsilateral internal mammary or mediastinal lymph node(s) (thoracic mesothelioma)	
+397392008	pN3: Metastasis in the contralateral mediastinal, internal mammary, or hilar lymph node(s), and/or the ipsilateral or contralateral supraclavicular or scalene lymph node(s) (thoracic mesothelioma)	
+397393003	pT3: Tumor involves any of the ipsilateral pleural surfaces plus additional sites as by AJCC 6th Edition definition (thoracic mesothelioma)	
+397465003	pT4: Tumor involves any of the ipsilateral pleural surfaces plus additional sites as by AJCC 6th Edition definition (thoracic mesothelioma)	
+397470005	Gestational trophoblast TNM finding	
+397471009	pT1 (I): Tumor confined to uterus (TNM category and FIGO stage) (gestational trophoblast)	
+397472002	pT2 (II): Tumor extends outside of uterus but limited to genital structures (ovary, tube, vagina, broad ligaments) (TNM category and FIGO stage) (gestational trophoblast)	
+397473007	pM1a (III): Tumor extends to the lungs with or without genital tract involvement (TNM category and FIGO stage) (gestational trophoblast)	
+397474001	pM1b (IV): Distant metastasis other than lung (TNM category and FIGO stage) (gestational trophoblast)	
+397489005	pT1 (I): Tumor limited to ovaries (one or both) (TNM category and FIGO stage) (ovary)	
+397490001	pT1a (IA): Tumor limited to one ovary; capsule intact, no tumor on ovarian surface. No malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary)	
+397491002	pT1b (IB): Tumor limited to both ovaries; capsule intact, no tumor on ovarian surface. No malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary)	
+397492009	pT1c (IC): Tumor limited to one or both ovaries with any of the following: capsule ruptured, tumor on ovarian surface, malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary)	
+397493004	pT2 (II): Tumor involves one or both ovaries with pelvic extension AND/OR implants (TNM category and FIGO stage) (ovary)	
+397494005	pT2a (IIA): Extension to AND/OR implants on uterus AND/OR tube(s). No malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary)	
+397495006	pT2b (IIB): Extension to AND/OR implants on other pelvic tissues. No malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary)	
+397496007	pT2c (IIC): Pelvic extension AND/OR implants (T2a or T2b/IIA or IIB) with malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary)	
+397497003	pT3 and/or N1 (III): Tumor involves one or both ovaries with microscopically confirmed peritoneal metastasis outside the pelvis (including liver capsule metastasis) and/or regional lymph node metastasis (TNM category and FIGO stage) (ovary)	
+397498008	pT3a (IIIA): Microscopic peritoneal metastasis beyond pelvis (no macroscopic tumor) (TNM category and FIGO stage) (ovary)	
+397499000	pT3b (IIIB): Macroscopic peritoneal metastasis beyond pelvis 2 cm or less in greatest dimension (TNM category and FIGO stage) (ovary)	
+397500009	pT3c AND/OR N1 (IIIC): Peritoneal metastasis beyond pelvis more than 2 cm in greatest dimension AND/OR regional lymph node metastasis (TNM category and FIGO stage) (ovary)	
+397501008	Any T/any N and M1 (IV): Growth involving one or both ovaries with distant metastasis. (TNM category and FIGO stage) (ovary)	
+399378007	pT2a (IIA): Tumor involves one or both fallopian tubes with extension and/or metastasis to the uterus and/or ovaries (TNM category and FIGO stage) (fallopian tube)	
+399393006	pT3: Tumor more than 4 cm in greatest dimension limited to the thyroid or any tumor with minimal extrathyroid extension (e.g., extension to sternothyroid muscle or perithyroid soft tissues) (thyroid)	
+399397007	pT2: Tumor greater than 10 mm but not more than 16 mm in greatest basal diameter and between 2.5 and 10 mm in maximum height (thickness) (ciliary body and choroid) (uveal melanoma)	
+399400003	pT3: Tumor having extraparenchymal extension, and/or more than 4 cm but not more than 6 cm in greatest dimension, without seventh nerve involvement (major salivary glands)	
+399401004	Insufficient tissue to assess highest pT category	
+399404007	pT3b (IIIB): Tumor involves one or both fallopian tubes, with macroscopic peritoneal metastasis outside the pelvis 2 cm or less in greatest dimension (TNM category and FIGO stage) (fallopian tube)	
+399410007	pT3c (IIIC): Tumor involves one or both fallopian tubes, with peritoneal metastasis outside the pelvis more than 2 cm in diameter (TNM category and FIGO stage) (fallopian tube)	
+399413009	Thyroid TNM finding	
+399425007	pT1a (IA): Tumor limited to one fallopian tube, without penetrating the serosal surface; no ascites (TNM category and FIGO stage) (fallopian tube)	
+399439007	pT1: Tumor 2 cm or less in greatest dimension limited to the thyroid (thyroid)	
+399446003	pT4b: Tumor invades prevertebral fascia or encases carotid artery or mediastinal vessels (thyroid)	
+399448002	pT1: Tumor 10 mm or less in greatest diameter and 2.5 mm or less in greatest height (thickness) (ciliary body and choroid) (uveal melanoma)	
+399452002	pM1b: Distant metastasis (esophagus)	
+399453007	No pT1 category, insufficient tissue (prostate)	
+399454001	pT1c (IC): Tumor limited to one or both tubes with extension onto or through the tubal serosa, or with malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (fallopian tube)	
+399461002	pT1b: Tumor 10 mm or less in greatest diameter and 2.5 mm or less in greatest height (thickness) with microscopic extraocular extension (ciliary body and choroid) (uveal melanoma)	
+399474008	pT2a: Tumor confluent with or extending into the ciliary body and/or choroid with melanomalytic glaucoma (iris) (uveal melanoma)	
+399478006	pT1 (I): Tumor limited to the fallopian tube(s) (TNM category and FIGO stage) (fallopian tube)	
+399481001	pN1a: Metastasis to level VI (pretracheal, paratracheal, and prelaryngeal/Delphian lymph nodes) (thyroid)	
+399493005	pT1c: Tumor 10 mm or less in greatest diameter and 2.5 mm or less in greatest height (thickness) with macroscopic extraocular extension (ciliary body and choroid) (uveal melanoma)	
+399501001	pT1: Tumor limited to the iris (iris) (uveal melanoma)	
+399508007	pT4b: Extrathyroidal anaplastic carcinoma - surgically unresectable (anaplastic carcinoma) (thyroid)	
+399511008	pT1b: Tumor limited to the iris (more than 3 clock hours in size) (iris) (uveal melanoma)	
+399516003	pT1a: Tumor 10 mm or less in greatest diameter and 2.5 mm or less in greatest height (thickness) without microscopic extraocular extension (ciliary body and choroid) (uveal melanoma)	
+399517007	Tumor stage cannot be determined	
+399518002	pT2: Tumor more than 2 cm but not more than 4 cm in greatest dimension limited to the thyroid (thyroid)	
+399519005	pT2a: Tumor 10 mm to 16 mm in greatest basal diameter and between 2.5 and 10 mm in maximum height (thickness) without microscopic extraocular extension (ciliary body and choroid) (uveal melanoma)	
+399543008	pT2c: Tumor 10 mm to 16 mm in greatest basal diameter and between 2.5 and 10 mm in maximum height (thickness) with macroscopic extraocular extension (ciliary body and choroid) (uveal melanoma)	
+399553009	pN3: Metastasis in a lymph node, more than 5 cm in greatest dimension (urinary bladder, ureter, renal pelvis)	
+399557005	pT3: Tumor confluent with or extending into the ciliary body and/or choroid with scleral extension (iris) (uveal melanoma)	
+399575006	pT4a: Intrathyroidal anaplastic carcinoma - surgically resectable (anaplastic carcinoma) (thyroid)	
+399594001	pM1a: Distant metastasis (esophagus)	
+399597008	pT1a: Tumor limited to the iris (not more than 3 clock hours in size) (iris) (uveal melanoma)	
+399602001	pT1c: Tumor limited to the iris with melanomalytic glaucoma (iris) (uveal melanoma)	
+399605004	FIGO stage finding for fallopian tube tumor	
+399610000	pT3: Tumor more than 16 mm in greatest diameter and/or greater than 10 mm in maximum height (thickness) without extraocular extension (ciliary body and choroid) (uveal melanoma)	
+399615005	pT2: Tumor confluent with or extending into the ciliary body and/or choroid (iris) (uveal melanoma)	
+399616006	pT2b: Tumor 10 mm to 16 mm in greatest basal diameter and between 2.5 and 10 mm in maximum height (thickness) with microscopic extraocular extension (ciliary body and choroid) (uveal melanoma)	
+399621009	pT3a (IIIA): Tumor involves one or both fallopian tubes, with microscopic peritoneal metastasis outside the pelvis (TNM category and FIGO stage) (fallopian tube)	
+399623007	pT4a: Tumor of any size extending beyond the thyroid capsule to invade subcutaneous soft tissues, larynx, trachea, esophagus, or recurrent laryngeal nerve (thyroid)	
+399630001	pT category not identified	
+399636007	pT3c and/or N1 (IIIC): Tumor involves one or both fallopian tubes, with peritoneal metastasis outside the pelvis more than 2 cm in diameter AND/OR regional lymph node metastasis (TNM category and FIGO stage) (fallopian tube)	
+399641004	pT2 (II): Tumor involves one or both fallopian tubes with pelvic extension (TNM category and FIGO stage) (fallopian tube)	
+399674004	pT3a: Tumor confluent with or extending into the ciliary body and/or choroid with scleral extension and melanomalytic glaucoma (iris) (uveal melanoma)	
+399678001	pT3 (III): Tumor involves one or both fallopian tubes, with peritoneal implants outside the pelvis (TNM category and FIGO stage) (fallopian tube)	
+399679009	pT4: Tumor with extraocular extension (iris) (uveal melanoma)	
+399688000	Fallopian tube TNM finding	
+399690004	pT2b (IIB): Tumor involves one or both fallopian tubes with extension to other pelvic structures (TNM category and FIGO stage) (fallopian tube)	
+399696005	pT3 and/or N1 (III): Tumor involves one or both fallopian tubes, with peritoneal implants outside the pelvis AND/OR regional lymph node metastasis (TNM category and FIGO stage) (fallopian tube)	
+399697001	pT2c (IIC): Tumor involves one or both fallopian tubes with pelvic extension with malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (fallopian tube)	
+399704006	pN1b: Metastasis to unilateral, bilateral, or contralateral cervical or superior mediastinal lymph nodes (thyroid)	
+399705007	Uveal melanoma TNM finding	
+399729000	pT4: Tumor more than 16 mm in greatest diameter and/or greater than 10 mm in maximum height (thickness) with extraocular extension (ciliary body and choroid) (uveal melanoma)	
+399736004	pT1b (IB): Tumor limited to both tubes, without penetrating the serosal surface; no ascites (TNM category and FIGO stage) (fallopian tube)	
+399749009	Any T/Any N and M1 (IV): Distant metastasis including presence of malignant cells in pleural fluid or parenchymal hepatic metastasis (TNM category and FIGO stage) (fallopian tube)	
+404180008	pT3: Tumor invades beyond muscularis into peripelvic fat or renal parenchyma (renal pelvis)	
+404181007	pM1 (IV): Distant metastasis (TNM category and FIGO stage) (fallopian tube)	
+404182000	pM1 (IVB): Distant metastasis (TNM category and FIGO stage) (uterine cervix)	
+405917009	Intergroup rhabdomyosarcoma study post-surgical clinical group finding	
+405918004	Intergroup rhabdomyosarcoma study post-surgical clinical group not applicable	
+405919007	Intergroup rhabdomyosarcoma study post-surgical clinical group cannot be assessed	
+405957007	Intergroup rhabdomyosarcoma study post-surgical clinical group IA: localized tumor, confined to site of origin, completely resected	
+405958002	Intergroup rhabdomyosarcoma study post-surgical clinical group IB: localized tumor, infiltrating beyond site of origin, completely resected	
+405959005	Intergroup rhabdomyosarcoma study post-surgical clinical group IIA: localized tumor, gross total resection, but with microscopic residual disease	
+405960000	Intergroup rhabdomyosarcoma study post-surgical clinical group IIB: Locally extensive tumor (spread to regional lymph nodes), completely resected	
+405961001	Intergroup rhabdomyosarcoma study post-surgical clinical group IIC: Locally extensive tumor (spread to regional lymph nodes), gross total resection, but microscopic residual disease	
+405962008	Intergroup rhabdomyosarcoma study post-surgical clinical group IIIA: Localized or locally extensive tumor, gross residual disease after biopsy only	
+405963003	Intergroup rhabdomyosarcoma study post-surgical clinical group IIIB: Localized or locally extensive tumor, gross residual disease after major resection (greater than 50% debulking)	
+405964009	Intergroup rhabdomyosarcoma study post-surgical clinical group IV: Any size primary tumor, with or without regional lymph node involvement, with distant metastases, without respect to surgical approach to primary tumor	
+405992004	pN1 (IIIC): Regional lymph node metastasis (TNM category and FIGO stage) (ovary)	
+406001009	pT4b: Tumor invades lateral pterygoid muscle, pterygoid plates, lateral nasopharynx, or skull base or encases internal carotid artery (oropharynx)	
+406088001	pN0(i-): No regional lymph node metastasis histologically, negative morphologic findings for isolated tumor cells (breast)	
+406089009	pN0(i+): No regional lymph node metastasis histologically, positive morphologic findings for isolated tumor cells, no cluster greater than 0.2 mm (breast)	
+406090000	pN0(mol-): No regional lymph node metastasis histologically, negative nonmorphologic (molecular) findings for isolated tumor cells (breast)	
+406091001	pN0(mol+): No regional lymph node metastasis histologically, positive nonmorphologic (molecular) findings for isolated tumor cells (breast)	
+406092008	pN1 (IIIC): Regional lymph node metastasis (TNM category and FIGO stage) (fallopian tube)	
+409721000	International neuroblastoma staging system stage finding	
+409722007	International neuroblastoma staging system stage 1	
+409723002	International neuroblastoma staging system stage 2A	
+409724008	International neuroblastoma staging system stage 2B	
+409725009	International neuroblastoma staging system stage 3	
+409726005	International neuroblastoma staging system stage 4	
+409727001	International neuroblastoma staging system stage 4S	
+409747009	pT1a: Tumor 5 cm or less in greatest dimension, superficial tumor (extraosseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409748004	pT1: Tumor 5 cm or less in greatest dimension (extraosseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409749007	pT1b: Tumor 5 cm or less in greatest dimension, deep tumor (extraosseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409750007	pT2: Tumor more than 5 cm in greatest dimension (extraosseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409751006	pT2a: Tumor more than 5 cm in greatest dimension, superficial tumor (extraosseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409752004	pT2b: Tumor more than 5 cm in greatest dimension, deep tumor (extraosseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409753009	pT1: Tumor 8 cm or less in greatest dimension (osseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409754003	pT2: Tumor more than 8 cm in greatest dimension (osseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409755002	pT3: Discontinuous tumors in the primary bone site (osseous primitive neuroectodermal tumor/Ewing's sarcoma)	
+409756001	Primitive neuroectodermal tumor/Ewing's sarcoma TNM finding	
+409758000	pM1a: Distant metastasis to lung (primitive neuroectodermal tumor/Ewing's sarcoma)	
+409759008	pM1b: Distant metastasis to site other than lung (primitive neuroectodermal tumor/Ewing's sarcoma)	
+422375001	Carcinoma of colon, stage III	
+422399001	Infiltrating ductal carcinoma of breast, stage 1	
+422479008	Infiltrating ductal carcinoma of breast, stage 2	
+422581008	Carcinoma of colon, stage II	
+422679002	Seminoma of testis, stage 3	
+422807001	pT4: Tumor directly invades other organs or structures and/or perforates visceral peritoneum (appendix)	
+422901001	pTis: Carcinoma in situ, intraepithelial (appendix)	
+422985007	Carcinoma of colon, stage IV	
+423003009	pT3: Tumor invades through the muscularis propria into the subserosa or into mesoappendix (appendix)	
+423055005	pTis: Carcinoma in situ, invasion of lamina propria (appendix)	
+423114009	Infiltrating ductal carcinoma of breast, stage 3	
+423274005	Carcinoma of ovary, stage 4	
+423480004	Carcinoma of ovary, stage 3	
+423645007	Seminoma of testis, stage 2	
+423697000	Seminoma of testis, stage 4	
+423816008	Seminoma of testis, stage 1	
+424078005	Adenocarcinoma of lung, stage I	
+424229006	Infiltrating ductal carcinoma of breast, stage 4	
+424454009	Adenocarcinoma of lung, stage III	
+424486004	Carcinoma of ovary, stage 2	
+424600001	Carcinoma of ovary, stage 1	
+424632001	Adenocarcinoma of lung, stage II	
+424842001	pT1: Tumor invades submucosa (appendix)	
+424993006	Adenocarcinoma of lung, stage IV	
+425008003	pT2: Tumor invades muscularis propria (appendix)	
+425037004	Low grade lymphoma, stage 1	
+425213009	Carcinoma of colon, stage I	
+425566006	pT1b: Tumor 5 cm or less in greatest dimension, deep tumor (soft tissue)	
+426288003	pM1b: Distant metastasis to site other than lung (bone)	
+426554005	pT2b: Tumor more than 5 cm in greatest dimension, deep tumor (soft tissue)	
+426561009	Bone TNM finding	
+426613005	pT2a: Tumor more than 5 cm in greatest dimension, superficial tumor (soft tissue)	
+426616002	pT2: Tumor more than 8 cm in greatest dimension (bone)	
+426897009	pT1: Tumor 8 cm or less in greatest dimension (bone)	
+426917009	pM1a: Distant metastasis to lung (bone)	
+427209003	pT3: Discontinuous tumors in the primary bone site (bone)	
+427495001	pT1a: Tumor 5 cm or less in greatest dimension, superficial tumor (soft tissue)	
+427535001	Soft tissue TNM finding	
+443335006	pN0(i-) category	
+443357004	pT1a category	
+443452006	pN2b category	
+443479005	pT3d category	
+443486002	pN0(i+) category	
+443505003	pT4d category	
+443506002	pT1b category	
+443599002	pN1b category	
+443600004	pT1mic category	
+443604008	pT4a category	
+443606005	pT3a category	
+443642002	pT1c category	
+443674009	pT3c category	
+443716008	pN1a category	
+443721006	pT4c category	
+443736009	pT4b category	
+443743003	pN1c category	
+443784000	pT3c,d category	
+443812002	pT2a category	
+443815000	pT3a,b category	
+443817008	pT3b category	
+443823003	pN3c category	
+443824009	pN1mi category	
+443839005	pM1c category	
+443840007	pM1b category	
+443841006	pM1a category	
+443866005	pN3a category	
+443867001	pN2a category	
+443875007	pN0(mol+) category	
+443893008	pN2c category	

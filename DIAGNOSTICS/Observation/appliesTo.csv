@@ -1,0 +1,925 @@
+Code	System	Display	Definition
+1002-5	http://terminology.hl7.org/CodeSystem/v3-Race	American Indian or Alaska Native	American Indian or Alaska Native
+1004-1	http://terminology.hl7.org/CodeSystem/v3-Race	American Indian	American Indian
+1006-6	http://terminology.hl7.org/CodeSystem/v3-Race	Abenaki	Abenaki
+1008-2	http://terminology.hl7.org/CodeSystem/v3-Race	Algonquian	Algonquian
+1010-8	http://terminology.hl7.org/CodeSystem/v3-Race	Apache	Apache
+1011-6	http://terminology.hl7.org/CodeSystem/v3-Race	Chiricahua	Chiricahua
+1012-4	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Sill Apache	Fort Sill Apache
+1013-2	http://terminology.hl7.org/CodeSystem/v3-Race	Jicarilla Apache	Jicarilla Apache
+1014-0	http://terminology.hl7.org/CodeSystem/v3-Race	Lipan Apache	Lipan Apache
+1015-7	http://terminology.hl7.org/CodeSystem/v3-Race	Mescalero Apache	Mescalero Apache
+1016-5	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Apache	Oklahoma Apache
+1017-3	http://terminology.hl7.org/CodeSystem/v3-Race	Payson Apache	Payson Apache
+1018-1	http://terminology.hl7.org/CodeSystem/v3-Race	San Carlos Apache	San Carlos Apache
+1019-9	http://terminology.hl7.org/CodeSystem/v3-Race	White Mountain Apache	White Mountain Apache
+1021-5	http://terminology.hl7.org/CodeSystem/v3-Race	Arapaho	Arapaho
+1022-3	http://terminology.hl7.org/CodeSystem/v3-Race	Northern Arapaho	Northern Arapaho
+1023-1	http://terminology.hl7.org/CodeSystem/v3-Race	Southern Arapaho	Southern Arapaho
+1024-9	http://terminology.hl7.org/CodeSystem/v3-Race	Wind River Arapaho	Wind River Arapaho
+1026-4	http://terminology.hl7.org/CodeSystem/v3-Race	Arikara	Arikara
+1028-0	http://terminology.hl7.org/CodeSystem/v3-Race	Assiniboine	Assiniboine
+1030-6	http://terminology.hl7.org/CodeSystem/v3-Race	Assiniboine Sioux	Assiniboine Sioux
+1031-4	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Peck Assiniboine Sioux	Fort Peck Assiniboine Sioux
+1033-0	http://terminology.hl7.org/CodeSystem/v3-Race	Bannock	Bannock
+1035-5	http://terminology.hl7.org/CodeSystem/v3-Race	Blackfeet	Blackfeet
+1037-1	http://terminology.hl7.org/CodeSystem/v3-Race	Brotherton	Brotherton
+1039-7	http://terminology.hl7.org/CodeSystem/v3-Race	Burt Lake Band	Burt Lake Band
+1041-3	http://terminology.hl7.org/CodeSystem/v3-Race	Caddo	Caddo
+1042-1	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Cado	Oklahoma Cado
+1044-7	http://terminology.hl7.org/CodeSystem/v3-Race	Cahuilla	Cahuilla
+1045-4	http://terminology.hl7.org/CodeSystem/v3-Race	Agua Caliente Cahuilla	Agua Caliente Cahuilla
+1046-2	http://terminology.hl7.org/CodeSystem/v3-Race	Augustine	Augustine
+1047-0	http://terminology.hl7.org/CodeSystem/v3-Race	Cabazon	Cabazon
+1048-8	http://terminology.hl7.org/CodeSystem/v3-Race	Los Coyotes	Los Coyotes
+1049-6	http://terminology.hl7.org/CodeSystem/v3-Race	Morongo	Morongo
+1050-4	http://terminology.hl7.org/CodeSystem/v3-Race	Santa Rosa Cahuilla	Santa Rosa Cahuilla
+1051-2	http://terminology.hl7.org/CodeSystem/v3-Race	Torres-Martinez	Torres-Martinez
+1053-8	http://terminology.hl7.org/CodeSystem/v3-Race	California Tribes	California Tribes
+1054-6	http://terminology.hl7.org/CodeSystem/v3-Race	Cahto	Cahto
+1055-3	http://terminology.hl7.org/CodeSystem/v3-Race	Chimariko	Chimariko
+1056-1	http://terminology.hl7.org/CodeSystem/v3-Race	Coast Miwok	Coast Miwok
+1057-9	http://terminology.hl7.org/CodeSystem/v3-Race	Digger	Digger
+1058-7	http://terminology.hl7.org/CodeSystem/v3-Race	Kawaiisu	Kawaiisu
+1059-5	http://terminology.hl7.org/CodeSystem/v3-Race	Kern River	Kern River
+1060-3	http://terminology.hl7.org/CodeSystem/v3-Race	Mattole	Mattole
+1061-1	http://terminology.hl7.org/CodeSystem/v3-Race	Red Wood	Red Wood
+1062-9	http://terminology.hl7.org/CodeSystem/v3-Race	Santa Rosa	Santa Rosa
+1063-7	http://terminology.hl7.org/CodeSystem/v3-Race	Takelma	Takelma
+1064-5	http://terminology.hl7.org/CodeSystem/v3-Race	Wappo	Wappo
+1065-2	http://terminology.hl7.org/CodeSystem/v3-Race	Yana	Yana
+1066-0	http://terminology.hl7.org/CodeSystem/v3-Race	Yuki	Yuki
+1068-6	http://terminology.hl7.org/CodeSystem/v3-Race	Canadian and Latin American Indian	Canadian and Latin American Indian
+1069-4	http://terminology.hl7.org/CodeSystem/v3-Race	Canadian Indian	Canadian Indian
+1070-2	http://terminology.hl7.org/CodeSystem/v3-Race	Central American Indian	Central American Indian
+1071-0	http://terminology.hl7.org/CodeSystem/v3-Race	French American Indian	French American Indian
+1072-8	http://terminology.hl7.org/CodeSystem/v3-Race	Mexican American Indian	Mexican American Indian
+1073-6	http://terminology.hl7.org/CodeSystem/v3-Race	South American Indian	South American Indian
+1074-4	http://terminology.hl7.org/CodeSystem/v3-Race	Spanish American Indian	Spanish American Indian
+1076-9	http://terminology.hl7.org/CodeSystem/v3-Race	Catawba	Catawba
+1741-8	http://terminology.hl7.org/CodeSystem/v3-Race	Alatna	Alatna
+1742-6	http://terminology.hl7.org/CodeSystem/v3-Race	Alexander	Alexander
+1743-4	http://terminology.hl7.org/CodeSystem/v3-Race	Allakaket	Allakaket
+1744-2	http://terminology.hl7.org/CodeSystem/v3-Race	Alanvik	Alanvik
+1745-9	http://terminology.hl7.org/CodeSystem/v3-Race	Anvik	Anvik
+1746-7	http://terminology.hl7.org/CodeSystem/v3-Race	Arctic	Arctic
+1747-5	http://terminology.hl7.org/CodeSystem/v3-Race	Beaver	Beaver
+1748-3	http://terminology.hl7.org/CodeSystem/v3-Race	Birch Creek	Birch Creek
+1749-1	http://terminology.hl7.org/CodeSystem/v3-Race	Cantwell	Cantwell
+1750-9	http://terminology.hl7.org/CodeSystem/v3-Race	Chalkyitsik	Chalkyitsik
+1751-7	http://terminology.hl7.org/CodeSystem/v3-Race	Chickaloon	Chickaloon
+1752-5	http://terminology.hl7.org/CodeSystem/v3-Race	Chistochina	Chistochina
+1753-3	http://terminology.hl7.org/CodeSystem/v3-Race	Chitina	Chitina
+1754-1	http://terminology.hl7.org/CodeSystem/v3-Race	Circle	Circle
+1755-8	http://terminology.hl7.org/CodeSystem/v3-Race	Cook Inlet	Cook Inlet
+1756-6	http://terminology.hl7.org/CodeSystem/v3-Race	Copper Center	Copper Center
+1757-4	http://terminology.hl7.org/CodeSystem/v3-Race	Copper River	Copper River
+1758-2	http://terminology.hl7.org/CodeSystem/v3-Race	Dot Lake	Dot Lake
+1759-0	http://terminology.hl7.org/CodeSystem/v3-Race	Doyon	Doyon
+1760-8	http://terminology.hl7.org/CodeSystem/v3-Race	Eagle	Eagle
+1761-6	http://terminology.hl7.org/CodeSystem/v3-Race	Eklutna	Eklutna
+1762-4	http://terminology.hl7.org/CodeSystem/v3-Race	Evansville	Evansville
+1763-2	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Yukon	Fort Yukon
+1764-0	http://terminology.hl7.org/CodeSystem/v3-Race	Gakona	Gakona
+1765-7	http://terminology.hl7.org/CodeSystem/v3-Race	Galena	Galena
+1766-5	http://terminology.hl7.org/CodeSystem/v3-Race	Grayling	Grayling
+1767-3	http://terminology.hl7.org/CodeSystem/v3-Race	Gulkana	Gulkana
+1768-1	http://terminology.hl7.org/CodeSystem/v3-Race	Healy Lake	Healy Lake
+1769-9	http://terminology.hl7.org/CodeSystem/v3-Race	Holy Cross	Holy Cross
+1770-7	http://terminology.hl7.org/CodeSystem/v3-Race	Hughes	Hughes
+1771-5	http://terminology.hl7.org/CodeSystem/v3-Race	Huslia	Huslia
+1772-3	http://terminology.hl7.org/CodeSystem/v3-Race	Iliamna	Iliamna
+1773-1	http://terminology.hl7.org/CodeSystem/v3-Race	Kaltag	Kaltag
+1774-9	http://terminology.hl7.org/CodeSystem/v3-Race	Kluti Kaah	Kluti Kaah
+1775-6	http://terminology.hl7.org/CodeSystem/v3-Race	Knik	Knik
+1776-4	http://terminology.hl7.org/CodeSystem/v3-Race	Koyukuk	Koyukuk
+1777-2	http://terminology.hl7.org/CodeSystem/v3-Race	Lake Minchumina	Lake Minchumina
+1778-0	http://terminology.hl7.org/CodeSystem/v3-Race	Lime	Lime
+1779-8	http://terminology.hl7.org/CodeSystem/v3-Race	Mcgrath	Mcgrath
+1780-6	http://terminology.hl7.org/CodeSystem/v3-Race	Manley Hot Springs	Manley Hot Springs
+1781-4	http://terminology.hl7.org/CodeSystem/v3-Race	Mentasta Lake	Mentasta Lake
+1782-2	http://terminology.hl7.org/CodeSystem/v3-Race	Minto	Minto
+1783-0	http://terminology.hl7.org/CodeSystem/v3-Race	Nenana	Nenana
+1784-8	http://terminology.hl7.org/CodeSystem/v3-Race	Nikolai	Nikolai
+1785-5	http://terminology.hl7.org/CodeSystem/v3-Race	Ninilchik	Ninilchik
+1786-3	http://terminology.hl7.org/CodeSystem/v3-Race	Nondalton	Nondalton
+1787-1	http://terminology.hl7.org/CodeSystem/v3-Race	Northway	Northway
+1788-9	http://terminology.hl7.org/CodeSystem/v3-Race	Nulato	Nulato
+1789-7	http://terminology.hl7.org/CodeSystem/v3-Race	Pedro Bay	Pedro Bay
+1790-5	http://terminology.hl7.org/CodeSystem/v3-Race	Rampart	Rampart
+1791-3	http://terminology.hl7.org/CodeSystem/v3-Race	Ruby	Ruby
+1792-1	http://terminology.hl7.org/CodeSystem/v3-Race	Salamatof	Salamatof
+1793-9	http://terminology.hl7.org/CodeSystem/v3-Race	Seldovia	Seldovia
+1794-7	http://terminology.hl7.org/CodeSystem/v3-Race	Slana	Slana
+1795-4	http://terminology.hl7.org/CodeSystem/v3-Race	Shageluk	Shageluk
+1796-2	http://terminology.hl7.org/CodeSystem/v3-Race	Stevens	Stevens
+1797-0	http://terminology.hl7.org/CodeSystem/v3-Race	Stony River	Stony River
+1798-8	http://terminology.hl7.org/CodeSystem/v3-Race	Takotna	Takotna
+1799-6	http://terminology.hl7.org/CodeSystem/v3-Race	Tanacross	Tanacross
+1800-2	http://terminology.hl7.org/CodeSystem/v3-Race	Tanaina	Tanaina
+1801-0	http://terminology.hl7.org/CodeSystem/v3-Race	Tanana	Tanana
+1802-8	http://terminology.hl7.org/CodeSystem/v3-Race	Tanana Chiefs	Tanana Chiefs
+1803-6	http://terminology.hl7.org/CodeSystem/v3-Race	Tazlina	Tazlina
+1804-4	http://terminology.hl7.org/CodeSystem/v3-Race	Telida	Telida
+1805-1	http://terminology.hl7.org/CodeSystem/v3-Race	Tetlin	Tetlin
+1806-9	http://terminology.hl7.org/CodeSystem/v3-Race	Tok	Tok
+1807-7	http://terminology.hl7.org/CodeSystem/v3-Race	Tyonek	Tyonek
+1808-5	http://terminology.hl7.org/CodeSystem/v3-Race	Venetie	Venetie
+1809-3	http://terminology.hl7.org/CodeSystem/v3-Race	Wiseman	Wiseman
+1078-5	http://terminology.hl7.org/CodeSystem/v3-Race	Cayuse	Cayuse
+1080-1	http://terminology.hl7.org/CodeSystem/v3-Race	Chehalis	Chehalis
+1082-7	http://terminology.hl7.org/CodeSystem/v3-Race	Chemakuan	Chemakuan
+1083-5	http://terminology.hl7.org/CodeSystem/v3-Race	Hoh	Hoh
+1084-3	http://terminology.hl7.org/CodeSystem/v3-Race	Quileute	Quileute
+1086-8	http://terminology.hl7.org/CodeSystem/v3-Race	Chemehuevi	Chemehuevi
+1088-4	http://terminology.hl7.org/CodeSystem/v3-Race	Cherokee	Cherokee
+1089-2	http://terminology.hl7.org/CodeSystem/v3-Race	Cherokee Alabama	Cherokee Alabama
+1090-0	http://terminology.hl7.org/CodeSystem/v3-Race	Cherokees of Northeast Alabama	Cherokees of Northeast Alabama
+1091-8	http://terminology.hl7.org/CodeSystem/v3-Race	Cherokees of Southeast Alabama	Cherokees of Southeast Alabama
+1092-6	http://terminology.hl7.org/CodeSystem/v3-Race	Eastern Cherokee	Eastern Cherokee
+1093-4	http://terminology.hl7.org/CodeSystem/v3-Race	Echota Cherokee	Echota Cherokee
+1094-2	http://terminology.hl7.org/CodeSystem/v3-Race	Etowah Cherokee	Etowah Cherokee
+1095-9	http://terminology.hl7.org/CodeSystem/v3-Race	Northern Cherokee	Northern Cherokee
+1096-7	http://terminology.hl7.org/CodeSystem/v3-Race	Tuscola	Tuscola
+1097-5	http://terminology.hl7.org/CodeSystem/v3-Race	United Keetowah Band of Cherokee	United Keetowah Band of Cherokee
+1098-3	http://terminology.hl7.org/CodeSystem/v3-Race	Western Cherokee	Western Cherokee
+1100-7	http://terminology.hl7.org/CodeSystem/v3-Race	Cherokee Shawnee	Cherokee Shawnee
+1102-3	http://terminology.hl7.org/CodeSystem/v3-Race	Cheyenne	Cheyenne
+1103-1	http://terminology.hl7.org/CodeSystem/v3-Race	Northern Cheyenne	Northern Cheyenne
+1104-9	http://terminology.hl7.org/CodeSystem/v3-Race	Southern Cheyenne	Southern Cheyenne
+1106-4	http://terminology.hl7.org/CodeSystem/v3-Race	Cheyenne-Arapaho	Cheyenne-Arapaho
+1108-0	http://terminology.hl7.org/CodeSystem/v3-Race	Chickahominy	Chickahominy
+1109-8	http://terminology.hl7.org/CodeSystem/v3-Race	Eastern Chickahominy	Eastern Chickahominy
+1110-6	http://terminology.hl7.org/CodeSystem/v3-Race	Western Chickahominy	Western Chickahominy
+1112-2	http://terminology.hl7.org/CodeSystem/v3-Race	Chickasaw	Chickasaw
+1114-8	http://terminology.hl7.org/CodeSystem/v3-Race	Chinook	Chinook
+1115-5	http://terminology.hl7.org/CodeSystem/v3-Race	Clatsop	Clatsop
+1116-3	http://terminology.hl7.org/CodeSystem/v3-Race	Columbia River Chinook	Columbia River Chinook
+1117-1	http://terminology.hl7.org/CodeSystem/v3-Race	Kathlamet	Kathlamet
+1118-9	http://terminology.hl7.org/CodeSystem/v3-Race	Upper Chinook	Upper Chinook
+1119-7	http://terminology.hl7.org/CodeSystem/v3-Race	Wakiakum Chinook	Wakiakum Chinook
+1120-5	http://terminology.hl7.org/CodeSystem/v3-Race	Willapa Chinook	Willapa Chinook
+1121-3	http://terminology.hl7.org/CodeSystem/v3-Race	Wishram	Wishram
+1123-9	http://terminology.hl7.org/CodeSystem/v3-Race	Chippewa	Chippewa
+1124-7	http://terminology.hl7.org/CodeSystem/v3-Race	Bad River	Bad River
+1125-4	http://terminology.hl7.org/CodeSystem/v3-Race	Bay Mills Chippewa	Bay Mills Chippewa
+1126-2	http://terminology.hl7.org/CodeSystem/v3-Race	Bois Forte	Bois Forte
+1127-0	http://terminology.hl7.org/CodeSystem/v3-Race	Burt Lake Chippewa	Burt Lake Chippewa
+1128-8	http://terminology.hl7.org/CodeSystem/v3-Race	Fond du Lac	Fond du Lac
+1129-6	http://terminology.hl7.org/CodeSystem/v3-Race	Grand Portage	Grand Portage
+1130-4	http://terminology.hl7.org/CodeSystem/v3-Race	Grand Traverse Band of Ottawa-Chippewa	Grand Traverse Band of Ottawa-Chippewa
+1131-2	http://terminology.hl7.org/CodeSystem/v3-Race	Keweenaw	Keweenaw
+1132-0	http://terminology.hl7.org/CodeSystem/v3-Race	Lac Courte Oreilles	Lac Courte Oreilles
+1133-8	http://terminology.hl7.org/CodeSystem/v3-Race	Lac du Flambeau	Lac du Flambeau
+1134-6	http://terminology.hl7.org/CodeSystem/v3-Race	Lac Vieux Desert Chippewa	Lac Vieux Desert Chippewa
+1135-3	http://terminology.hl7.org/CodeSystem/v3-Race	Lake Superior	Lake Superior
+1136-1	http://terminology.hl7.org/CodeSystem/v3-Race	Leech Lake	Leech Lake
+1137-9	http://terminology.hl7.org/CodeSystem/v3-Race	Little Shell Chippewa	Little Shell Chippewa
+1138-7	http://terminology.hl7.org/CodeSystem/v3-Race	Mille Lacs	Mille Lacs
+1139-5	http://terminology.hl7.org/CodeSystem/v3-Race	Minnesota Chippewa	Minnesota Chippewa
+1140-3	http://terminology.hl7.org/CodeSystem/v3-Race	Ontonagon	Ontonagon
+1141-1	http://terminology.hl7.org/CodeSystem/v3-Race	Red Cliff Chippewa	Red Cliff Chippewa
+1142-9	http://terminology.hl7.org/CodeSystem/v3-Race	Red Lake Chippewa	Red Lake Chippewa
+1143-7	http://terminology.hl7.org/CodeSystem/v3-Race	Saginaw Chippewa	Saginaw Chippewa
+1144-5	http://terminology.hl7.org/CodeSystem/v3-Race	St. Croix Chippewa	St. Croix Chippewa
+1145-2	http://terminology.hl7.org/CodeSystem/v3-Race	Sault Ste. Marie Chippewa	Sault Ste. Marie Chippewa
+1146-0	http://terminology.hl7.org/CodeSystem/v3-Race	Sokoagon Chippewa	Sokoagon Chippewa
+1147-8	http://terminology.hl7.org/CodeSystem/v3-Race	Turtle Mountain	Turtle Mountain
+1148-6	http://terminology.hl7.org/CodeSystem/v3-Race	White Earth	White Earth
+1150-2	http://terminology.hl7.org/CodeSystem/v3-Race	Chippewa Cree	Chippewa Cree
+1151-0	http://terminology.hl7.org/CodeSystem/v3-Race	Rocky Boy's Chippewa Cree	Rocky Boy's Chippewa Cree
+1153-6	http://terminology.hl7.org/CodeSystem/v3-Race	Chitimacha	Chitimacha
+1155-1	http://terminology.hl7.org/CodeSystem/v3-Race	Choctaw	Choctaw
+1156-9	http://terminology.hl7.org/CodeSystem/v3-Race	Clifton Choctaw	Clifton Choctaw
+1157-7	http://terminology.hl7.org/CodeSystem/v3-Race	Jena Choctaw	Jena Choctaw
+1158-5	http://terminology.hl7.org/CodeSystem/v3-Race	Mississippi Choctaw	Mississippi Choctaw
+1159-3	http://terminology.hl7.org/CodeSystem/v3-Race	Mowa Band of Choctaw	Mowa Band of Choctaw
+1160-1	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Choctaw	Oklahoma Choctaw
+1162-7	http://terminology.hl7.org/CodeSystem/v3-Race	Chumash	Chumash
+1163-5	http://terminology.hl7.org/CodeSystem/v3-Race	Santa Ynez	Santa Ynez
+1165-0	http://terminology.hl7.org/CodeSystem/v3-Race	Clear Lake	Clear Lake
+1167-6	http://terminology.hl7.org/CodeSystem/v3-Race	Coeur D'Alene	Coeur D'Alene
+1169-2	http://terminology.hl7.org/CodeSystem/v3-Race	Coharie	Coharie
+1171-8	http://terminology.hl7.org/CodeSystem/v3-Race	Colorado River	Colorado River
+1173-4	http://terminology.hl7.org/CodeSystem/v3-Race	Colville	Colville
+1175-9	http://terminology.hl7.org/CodeSystem/v3-Race	Comanche	Comanche
+1176-7	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Comanche	Oklahoma Comanche
+1178-3	http://terminology.hl7.org/CodeSystem/v3-Race	Coos, Lower Umpqua, Siuslaw	Coos, Lower Umpqua, Siuslaw
+1180-9	http://terminology.hl7.org/CodeSystem/v3-Race	Coos	Coos
+1182-5	http://terminology.hl7.org/CodeSystem/v3-Race	Coquilles	Coquilles
+1184-1	http://terminology.hl7.org/CodeSystem/v3-Race	Costanoan	Costanoan
+1186-6	http://terminology.hl7.org/CodeSystem/v3-Race	Coushatta	Coushatta
+1187-4	http://terminology.hl7.org/CodeSystem/v3-Race	Alabama Coushatta	Alabama Coushatta
+1189-0	http://terminology.hl7.org/CodeSystem/v3-Race	Cowlitz	Cowlitz
+1191-6	http://terminology.hl7.org/CodeSystem/v3-Race	Cree	Cree
+1193-2	http://terminology.hl7.org/CodeSystem/v3-Race	Creek	Creek
+1194-0	http://terminology.hl7.org/CodeSystem/v3-Race	Alabama Creek	Alabama Creek
+1195-7	http://terminology.hl7.org/CodeSystem/v3-Race	Alabama Quassarte	Alabama Quassarte
+1196-5	http://terminology.hl7.org/CodeSystem/v3-Race	Eastern Creek	Eastern Creek
+1197-3	http://terminology.hl7.org/CodeSystem/v3-Race	Eastern Muscogee	Eastern Muscogee
+1198-1	http://terminology.hl7.org/CodeSystem/v3-Race	Kialegee	Kialegee
+1199-9	http://terminology.hl7.org/CodeSystem/v3-Race	Lower Muscogee	Lower Muscogee
+1200-5	http://terminology.hl7.org/CodeSystem/v3-Race	Machis Lower Creek Indian	Machis Lower Creek Indian
+1201-3	http://terminology.hl7.org/CodeSystem/v3-Race	Poarch Band	Poarch Band
+1202-1	http://terminology.hl7.org/CodeSystem/v3-Race	Principal Creek Indian Nation	Principal Creek Indian Nation
+1203-9	http://terminology.hl7.org/CodeSystem/v3-Race	Star Clan of Muscogee Creeks	Star Clan of Muscogee Creeks
+1204-7	http://terminology.hl7.org/CodeSystem/v3-Race	Thlopthlocco	Thlopthlocco
+1205-4	http://terminology.hl7.org/CodeSystem/v3-Race	Tuckabachee	Tuckabachee
+1207-0	http://terminology.hl7.org/CodeSystem/v3-Race	Croatan	Croatan
+1209-6	http://terminology.hl7.org/CodeSystem/v3-Race	Crow	Crow
+1211-2	http://terminology.hl7.org/CodeSystem/v3-Race	Cupeno	Cupeno
+1212-0	http://terminology.hl7.org/CodeSystem/v3-Race	Agua Caliente	Agua Caliente
+1214-6	http://terminology.hl7.org/CodeSystem/v3-Race	Delaware	Delaware
+1215-3	http://terminology.hl7.org/CodeSystem/v3-Race	Eastern Delaware	Eastern Delaware
+1216-1	http://terminology.hl7.org/CodeSystem/v3-Race	Lenni-Lenape	Lenni-Lenape
+1217-9	http://terminology.hl7.org/CodeSystem/v3-Race	Munsee	Munsee
+1218-7	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Delaware	Oklahoma Delaware
+1219-5	http://terminology.hl7.org/CodeSystem/v3-Race	Rampough Mountain	Rampough Mountain
+1220-3	http://terminology.hl7.org/CodeSystem/v3-Race	Sand Hill	Sand Hill
+1222-9	http://terminology.hl7.org/CodeSystem/v3-Race	Diegueno	Diegueno
+1223-7	http://terminology.hl7.org/CodeSystem/v3-Race	Campo	Campo
+1224-5	http://terminology.hl7.org/CodeSystem/v3-Race	Capitan Grande	Capitan Grande
+1225-2	http://terminology.hl7.org/CodeSystem/v3-Race	Cuyapaipe	Cuyapaipe
+1226-0	http://terminology.hl7.org/CodeSystem/v3-Race	La Posta	La Posta
+1227-8	http://terminology.hl7.org/CodeSystem/v3-Race	Manzanita	Manzanita
+1228-6	http://terminology.hl7.org/CodeSystem/v3-Race	Mesa Grande	Mesa Grande
+1229-4	http://terminology.hl7.org/CodeSystem/v3-Race	San Pasqual	San Pasqual
+1230-2	http://terminology.hl7.org/CodeSystem/v3-Race	Santa Ysabel	Santa Ysabel
+1231-0	http://terminology.hl7.org/CodeSystem/v3-Race	Sycuan	Sycuan
+1233-6	http://terminology.hl7.org/CodeSystem/v3-Race	Eastern Tribes	Eastern Tribes
+1234-4	http://terminology.hl7.org/CodeSystem/v3-Race	Attacapa	Attacapa
+1235-1	http://terminology.hl7.org/CodeSystem/v3-Race	Biloxi	Biloxi
+1236-9	http://terminology.hl7.org/CodeSystem/v3-Race	Georgetown	Georgetown
+1237-7	http://terminology.hl7.org/CodeSystem/v3-Race	Moor	Moor
+1238-5	http://terminology.hl7.org/CodeSystem/v3-Race	Nansemond	Nansemond
+1239-3	http://terminology.hl7.org/CodeSystem/v3-Race	Natchez	Natchez
+1240-1	http://terminology.hl7.org/CodeSystem/v3-Race	Nausu Waiwash	Nausu Waiwash
+1241-9	http://terminology.hl7.org/CodeSystem/v3-Race	Nipmuc	Nipmuc
+1242-7	http://terminology.hl7.org/CodeSystem/v3-Race	Paugussett	Paugussett
+1243-5	http://terminology.hl7.org/CodeSystem/v3-Race	Pocomoke Acohonock	Pocomoke Acohonock
+1244-3	http://terminology.hl7.org/CodeSystem/v3-Race	Southeastern Indians	Southeastern Indians
+1245-0	http://terminology.hl7.org/CodeSystem/v3-Race	Susquehanock	Susquehanock
+1246-8	http://terminology.hl7.org/CodeSystem/v3-Race	Tunica Biloxi	Tunica Biloxi
+1247-6	http://terminology.hl7.org/CodeSystem/v3-Race	Waccamaw-Siousan	Waccamaw-Siousan
+1248-4	http://terminology.hl7.org/CodeSystem/v3-Race	Wicomico	Wicomico
+1250-0	http://terminology.hl7.org/CodeSystem/v3-Race	Esselen	Esselen
+1252-6	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Belknap	Fort Belknap
+1254-2	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Berthold	Fort Berthold
+1256-7	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Mcdowell	Fort Mcdowell
+1258-3	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Hall	Fort Hall
+1260-9	http://terminology.hl7.org/CodeSystem/v3-Race	Gabrieleno	Gabrieleno
+1262-5	http://terminology.hl7.org/CodeSystem/v3-Race	Grand Ronde	Grand Ronde
+1264-1	http://terminology.hl7.org/CodeSystem/v3-Race	Gros Ventres	Gros Ventres
+1265-8	http://terminology.hl7.org/CodeSystem/v3-Race	Atsina	Atsina
+1267-4	http://terminology.hl7.org/CodeSystem/v3-Race	Haliwa	Haliwa
+1269-0	http://terminology.hl7.org/CodeSystem/v3-Race	Hidatsa	Hidatsa
+1271-6	http://terminology.hl7.org/CodeSystem/v3-Race	Hoopa	Hoopa
+1272-4	http://terminology.hl7.org/CodeSystem/v3-Race	Trinity	Trinity
+1273-2	http://terminology.hl7.org/CodeSystem/v3-Race	Whilkut	Whilkut
+1275-7	http://terminology.hl7.org/CodeSystem/v3-Race	Hoopa Extension	Hoopa Extension
+1277-3	http://terminology.hl7.org/CodeSystem/v3-Race	Houma	Houma
+1279-9	http://terminology.hl7.org/CodeSystem/v3-Race	Inaja-Cosmit	Inaja-Cosmit
+1281-5	http://terminology.hl7.org/CodeSystem/v3-Race	Iowa	Iowa
+1282-3	http://terminology.hl7.org/CodeSystem/v3-Race	Iowa of Kansas-Nebraska	Iowa of Kansas-Nebraska
+1283-1	http://terminology.hl7.org/CodeSystem/v3-Race	Iowa of Oklahoma	Iowa of Oklahoma
+1285-6	http://terminology.hl7.org/CodeSystem/v3-Race	Iroquois	Iroquois
+1286-4	http://terminology.hl7.org/CodeSystem/v3-Race	Cayuga	Cayuga
+1287-2	http://terminology.hl7.org/CodeSystem/v3-Race	Mohawk	Mohawk
+1288-0	http://terminology.hl7.org/CodeSystem/v3-Race	Oneida	Oneida
+1289-8	http://terminology.hl7.org/CodeSystem/v3-Race	Onondaga	Onondaga
+1290-6	http://terminology.hl7.org/CodeSystem/v3-Race	Seneca	Seneca
+1291-4	http://terminology.hl7.org/CodeSystem/v3-Race	Seneca Nation	Seneca Nation
+1292-2	http://terminology.hl7.org/CodeSystem/v3-Race	Seneca-Cayuga	Seneca-Cayuga
+1293-0	http://terminology.hl7.org/CodeSystem/v3-Race	Tonawanda Seneca	Tonawanda Seneca
+1294-8	http://terminology.hl7.org/CodeSystem/v3-Race	Tuscarora	Tuscarora
+1295-5	http://terminology.hl7.org/CodeSystem/v3-Race	Wyandotte	Wyandotte
+1297-1	http://terminology.hl7.org/CodeSystem/v3-Race	Juaneno	Juaneno
+1299-7	http://terminology.hl7.org/CodeSystem/v3-Race	Kalispel	Kalispel
+1301-1	http://terminology.hl7.org/CodeSystem/v3-Race	Karuk	Karuk
+1303-7	http://terminology.hl7.org/CodeSystem/v3-Race	Kaw	Kaw
+1305-2	http://terminology.hl7.org/CodeSystem/v3-Race	Kickapoo	Kickapoo
+1306-0	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Kickapoo	Oklahoma Kickapoo
+1307-8	http://terminology.hl7.org/CodeSystem/v3-Race	Texas Kickapoo	Texas Kickapoo
+1309-4	http://terminology.hl7.org/CodeSystem/v3-Race	Kiowa	Kiowa
+1310-2	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Kiowa	Oklahoma Kiowa
+1312-8	http://terminology.hl7.org/CodeSystem/v3-Race	Klallam	Klallam
+1313-6	http://terminology.hl7.org/CodeSystem/v3-Race	Jamestown	Jamestown
+1314-4	http://terminology.hl7.org/CodeSystem/v3-Race	Lower Elwha	Lower Elwha
+1315-1	http://terminology.hl7.org/CodeSystem/v3-Race	Port Gamble Klallam	Port Gamble Klallam
+1317-7	http://terminology.hl7.org/CodeSystem/v3-Race	Klamath	Klamath
+1319-3	http://terminology.hl7.org/CodeSystem/v3-Race	Konkow	Konkow
+1321-9	http://terminology.hl7.org/CodeSystem/v3-Race	Kootenai	Kootenai
+1323-5	http://terminology.hl7.org/CodeSystem/v3-Race	Lassik	Lassik
+1325-0	http://terminology.hl7.org/CodeSystem/v3-Race	Long Island	Long Island
+1326-8	http://terminology.hl7.org/CodeSystem/v3-Race	Matinecock	Matinecock
+1327-6	http://terminology.hl7.org/CodeSystem/v3-Race	Montauk	Montauk
+1328-4	http://terminology.hl7.org/CodeSystem/v3-Race	Poospatuck	Poospatuck
+1329-2	http://terminology.hl7.org/CodeSystem/v3-Race	Setauket	Setauket
+1331-8	http://terminology.hl7.org/CodeSystem/v3-Race	Luiseno	Luiseno
+1332-6	http://terminology.hl7.org/CodeSystem/v3-Race	La Jolla	La Jolla
+1333-4	http://terminology.hl7.org/CodeSystem/v3-Race	Pala	Pala
+1334-2	http://terminology.hl7.org/CodeSystem/v3-Race	Pauma	Pauma
+1335-9	http://terminology.hl7.org/CodeSystem/v3-Race	Pechanga	Pechanga
+1336-7	http://terminology.hl7.org/CodeSystem/v3-Race	Soboba	Soboba
+1337-5	http://terminology.hl7.org/CodeSystem/v3-Race	Twenty-Nine Palms	Twenty-Nine Palms
+1338-3	http://terminology.hl7.org/CodeSystem/v3-Race	Temecula	Temecula
+1340-9	http://terminology.hl7.org/CodeSystem/v3-Race	Lumbee	Lumbee
+1342-5	http://terminology.hl7.org/CodeSystem/v3-Race	Lummi	Lummi
+1344-1	http://terminology.hl7.org/CodeSystem/v3-Race	Maidu	Maidu
+1345-8	http://terminology.hl7.org/CodeSystem/v3-Race	Mountain Maidu	Mountain Maidu
+1346-6	http://terminology.hl7.org/CodeSystem/v3-Race	Nishinam	Nishinam
+1348-2	http://terminology.hl7.org/CodeSystem/v3-Race	Makah	Makah
+1350-8	http://terminology.hl7.org/CodeSystem/v3-Race	Maliseet	Maliseet
+1352-4	http://terminology.hl7.org/CodeSystem/v3-Race	Mandan	Mandan
+1354-0	http://terminology.hl7.org/CodeSystem/v3-Race	Mattaponi	Mattaponi
+1356-5	http://terminology.hl7.org/CodeSystem/v3-Race	Menominee	Menominee
+1358-1	http://terminology.hl7.org/CodeSystem/v3-Race	Miami	Miami
+1359-9	http://terminology.hl7.org/CodeSystem/v3-Race	Illinois Miami	Illinois Miami
+1360-7	http://terminology.hl7.org/CodeSystem/v3-Race	Indiana Miami	Indiana Miami
+1361-5	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Miami	Oklahoma Miami
+1363-1	http://terminology.hl7.org/CodeSystem/v3-Race	Miccosukee	Miccosukee
+1365-6	http://terminology.hl7.org/CodeSystem/v3-Race	Micmac	Micmac
+1366-4	http://terminology.hl7.org/CodeSystem/v3-Race	Aroostook	Aroostook
+1368-0	http://terminology.hl7.org/CodeSystem/v3-Race	Mission Indians	Mission Indians
+1370-6	http://terminology.hl7.org/CodeSystem/v3-Race	Miwok	Miwok
+1372-2	http://terminology.hl7.org/CodeSystem/v3-Race	Modoc	Modoc
+1374-8	http://terminology.hl7.org/CodeSystem/v3-Race	Mohegan	Mohegan
+1376-3	http://terminology.hl7.org/CodeSystem/v3-Race	Mono	Mono
+1378-9	http://terminology.hl7.org/CodeSystem/v3-Race	Nanticoke	Nanticoke
+1380-5	http://terminology.hl7.org/CodeSystem/v3-Race	Narragansett	Narragansett
+1382-1	http://terminology.hl7.org/CodeSystem/v3-Race	Navajo	Navajo
+1383-9	http://terminology.hl7.org/CodeSystem/v3-Race	Alamo Navajo	Alamo Navajo
+1384-7	http://terminology.hl7.org/CodeSystem/v3-Race	Canoncito Navajo	Canoncito Navajo
+1385-4	http://terminology.hl7.org/CodeSystem/v3-Race	Ramah Navajo	Ramah Navajo
+1387-0	http://terminology.hl7.org/CodeSystem/v3-Race	Nez Perce	Nez Perce
+1389-6	http://terminology.hl7.org/CodeSystem/v3-Race	Nomalaki	Nomalaki
+1391-2	http://terminology.hl7.org/CodeSystem/v3-Race	Northwest Tribes	Northwest Tribes
+1392-0	http://terminology.hl7.org/CodeSystem/v3-Race	Alsea	Alsea
+1393-8	http://terminology.hl7.org/CodeSystem/v3-Race	Celilo	Celilo
+1394-6	http://terminology.hl7.org/CodeSystem/v3-Race	Columbia	Columbia
+1395-3	http://terminology.hl7.org/CodeSystem/v3-Race	Kalapuya	Kalapuya
+1396-1	http://terminology.hl7.org/CodeSystem/v3-Race	Molala	Molala
+1397-9	http://terminology.hl7.org/CodeSystem/v3-Race	Talakamish	Talakamish
+1398-7	http://terminology.hl7.org/CodeSystem/v3-Race	Tenino	Tenino
+1399-5	http://terminology.hl7.org/CodeSystem/v3-Race	Tillamook	Tillamook
+1400-1	http://terminology.hl7.org/CodeSystem/v3-Race	Wenatchee	Wenatchee
+1401-9	http://terminology.hl7.org/CodeSystem/v3-Race	Yahooskin	Yahooskin
+1403-5	http://terminology.hl7.org/CodeSystem/v3-Race	Omaha	Omaha
+1405-0	http://terminology.hl7.org/CodeSystem/v3-Race	Oregon Athabaskan	Oregon Athabaskan
+1407-6	http://terminology.hl7.org/CodeSystem/v3-Race	Osage	Osage
+1409-2	http://terminology.hl7.org/CodeSystem/v3-Race	Otoe-Missouria	Otoe-Missouria
+1411-8	http://terminology.hl7.org/CodeSystem/v3-Race	Ottawa	Ottawa
+1412-6	http://terminology.hl7.org/CodeSystem/v3-Race	Burt Lake Ottawa	Burt Lake Ottawa
+1413-4	http://terminology.hl7.org/CodeSystem/v3-Race	Michigan Ottawa	Michigan Ottawa
+1414-2	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Ottawa	Oklahoma Ottawa
+1416-7	http://terminology.hl7.org/CodeSystem/v3-Race	Paiute	Paiute
+1417-5	http://terminology.hl7.org/CodeSystem/v3-Race	Bishop	Bishop
+1418-3	http://terminology.hl7.org/CodeSystem/v3-Race	Bridgeport	Bridgeport
+1419-1	http://terminology.hl7.org/CodeSystem/v3-Race	Burns Paiute	Burns Paiute
+1420-9	http://terminology.hl7.org/CodeSystem/v3-Race	Cedarville	Cedarville
+1421-7	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Bidwell	Fort Bidwell
+1422-5	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Independence	Fort Independence
+1423-3	http://terminology.hl7.org/CodeSystem/v3-Race	Kaibab	Kaibab
+1424-1	http://terminology.hl7.org/CodeSystem/v3-Race	Las Vegas	Las Vegas
+1425-8	http://terminology.hl7.org/CodeSystem/v3-Race	Lone Pine	Lone Pine
+1426-6	http://terminology.hl7.org/CodeSystem/v3-Race	Lovelock	Lovelock
+1427-4	http://terminology.hl7.org/CodeSystem/v3-Race	Malheur Paiute	Malheur Paiute
+1428-2	http://terminology.hl7.org/CodeSystem/v3-Race	Moapa	Moapa
+1429-0	http://terminology.hl7.org/CodeSystem/v3-Race	Northern Paiute	Northern Paiute
+1430-8	http://terminology.hl7.org/CodeSystem/v3-Race	Owens Valley	Owens Valley
+1431-6	http://terminology.hl7.org/CodeSystem/v3-Race	Pyramid Lake	Pyramid Lake
+1432-4	http://terminology.hl7.org/CodeSystem/v3-Race	San Juan Southern Paiute	San Juan Southern Paiute
+1433-2	http://terminology.hl7.org/CodeSystem/v3-Race	Southern Paiute	Southern Paiute
+1434-0	http://terminology.hl7.org/CodeSystem/v3-Race	Summit Lake	Summit Lake
+1435-7	http://terminology.hl7.org/CodeSystem/v3-Race	Utu Utu Gwaitu Paiute	Utu Utu Gwaitu Paiute
+1436-5	http://terminology.hl7.org/CodeSystem/v3-Race	Walker River	Walker River
+1437-3	http://terminology.hl7.org/CodeSystem/v3-Race	Yerington Paiute	Yerington Paiute
+1439-9	http://terminology.hl7.org/CodeSystem/v3-Race	Pamunkey	Pamunkey
+1441-5	http://terminology.hl7.org/CodeSystem/v3-Race	Passamaquoddy	Passamaquoddy
+1442-3	http://terminology.hl7.org/CodeSystem/v3-Race	Indian Township	Indian Township
+1443-1	http://terminology.hl7.org/CodeSystem/v3-Race	Pleasant Point Passamaquoddy	Pleasant Point Passamaquoddy
+1445-6	http://terminology.hl7.org/CodeSystem/v3-Race	Pawnee	Pawnee
+1446-4	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Pawnee	Oklahoma Pawnee
+1448-0	http://terminology.hl7.org/CodeSystem/v3-Race	Penobscot	Penobscot
+1450-6	http://terminology.hl7.org/CodeSystem/v3-Race	Peoria	Peoria
+1451-4	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Peoria	Oklahoma Peoria
+1453-0	http://terminology.hl7.org/CodeSystem/v3-Race	Pequot	Pequot
+1454-8	http://terminology.hl7.org/CodeSystem/v3-Race	Marshantucket Pequot	Marshantucket Pequot
+1456-3	http://terminology.hl7.org/CodeSystem/v3-Race	Pima	Pima
+1457-1	http://terminology.hl7.org/CodeSystem/v3-Race	Gila River Pima-Maricopa	Gila River Pima-Maricopa
+1458-9	http://terminology.hl7.org/CodeSystem/v3-Race	Salt River Pima-Maricopa	Salt River Pima-Maricopa
+1460-5	http://terminology.hl7.org/CodeSystem/v3-Race	Piscataway	Piscataway
+1462-1	http://terminology.hl7.org/CodeSystem/v3-Race	Pit River	Pit River
+1464-7	http://terminology.hl7.org/CodeSystem/v3-Race	Pomo	Pomo
+1465-4	http://terminology.hl7.org/CodeSystem/v3-Race	Central Pomo	Central Pomo
+1466-2	http://terminology.hl7.org/CodeSystem/v3-Race	Dry Creek	Dry Creek
+1467-0	http://terminology.hl7.org/CodeSystem/v3-Race	Eastern Pomo	Eastern Pomo
+1468-8	http://terminology.hl7.org/CodeSystem/v3-Race	Kashia	Kashia
+1469-6	http://terminology.hl7.org/CodeSystem/v3-Race	Northern Pomo	Northern Pomo
+1470-4	http://terminology.hl7.org/CodeSystem/v3-Race	Scotts Valley	Scotts Valley
+1471-2	http://terminology.hl7.org/CodeSystem/v3-Race	Stonyford	Stonyford
+1472-0	http://terminology.hl7.org/CodeSystem/v3-Race	Sulphur Bank	Sulphur Bank
+1474-6	http://terminology.hl7.org/CodeSystem/v3-Race	Ponca	Ponca
+1475-3	http://terminology.hl7.org/CodeSystem/v3-Race	Nebraska Ponca	Nebraska Ponca
+1476-1	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Ponca	Oklahoma Ponca
+1478-7	http://terminology.hl7.org/CodeSystem/v3-Race	Potawatomi	Potawatomi
+1479-5	http://terminology.hl7.org/CodeSystem/v3-Race	Citizen Band Potawatomi	Citizen Band Potawatomi
+1480-3	http://terminology.hl7.org/CodeSystem/v3-Race	Forest County	Forest County
+1481-1	http://terminology.hl7.org/CodeSystem/v3-Race	Hannahville	Hannahville
+1482-9	http://terminology.hl7.org/CodeSystem/v3-Race	Huron Potawatomi	Huron Potawatomi
+1483-7	http://terminology.hl7.org/CodeSystem/v3-Race	Pokagon Potawatomi	Pokagon Potawatomi
+1484-5	http://terminology.hl7.org/CodeSystem/v3-Race	Prairie Band	Prairie Band
+1485-2	http://terminology.hl7.org/CodeSystem/v3-Race	Wisconsin Potawatomi	Wisconsin Potawatomi
+1487-8	http://terminology.hl7.org/CodeSystem/v3-Race	Powhatan	Powhatan
+1489-4	http://terminology.hl7.org/CodeSystem/v3-Race	Pueblo	Pueblo
+1490-2	http://terminology.hl7.org/CodeSystem/v3-Race	Acoma	Acoma
+1491-0	http://terminology.hl7.org/CodeSystem/v3-Race	Arizona Tewa	Arizona Tewa
+1492-8	http://terminology.hl7.org/CodeSystem/v3-Race	Cochiti	Cochiti
+1493-6	http://terminology.hl7.org/CodeSystem/v3-Race	Hopi	Hopi
+1494-4	http://terminology.hl7.org/CodeSystem/v3-Race	Isleta	Isleta
+1495-1	http://terminology.hl7.org/CodeSystem/v3-Race	Jemez	Jemez
+1496-9	http://terminology.hl7.org/CodeSystem/v3-Race	Keres	Keres
+1497-7	http://terminology.hl7.org/CodeSystem/v3-Race	Laguna	Laguna
+1498-5	http://terminology.hl7.org/CodeSystem/v3-Race	Nambe	Nambe
+1499-3	http://terminology.hl7.org/CodeSystem/v3-Race	Picuris	Picuris
+1500-8	http://terminology.hl7.org/CodeSystem/v3-Race	Piro	Piro
+1501-6	http://terminology.hl7.org/CodeSystem/v3-Race	Pojoaque	Pojoaque
+1502-4	http://terminology.hl7.org/CodeSystem/v3-Race	San Felipe	San Felipe
+1503-2	http://terminology.hl7.org/CodeSystem/v3-Race	San Ildefonso	San Ildefonso
+1504-0	http://terminology.hl7.org/CodeSystem/v3-Race	San Juan Pueblo	San Juan Pueblo
+1505-7	http://terminology.hl7.org/CodeSystem/v3-Race	San Juan De	San Juan De
+1506-5	http://terminology.hl7.org/CodeSystem/v3-Race	San Juan	San Juan
+1507-3	http://terminology.hl7.org/CodeSystem/v3-Race	Sandia	Sandia
+1508-1	http://terminology.hl7.org/CodeSystem/v3-Race	Santa Ana	Santa Ana
+1509-9	http://terminology.hl7.org/CodeSystem/v3-Race	Santa Clara	Santa Clara
+1510-7	http://terminology.hl7.org/CodeSystem/v3-Race	Santo Domingo	Santo Domingo
+1511-5	http://terminology.hl7.org/CodeSystem/v3-Race	Taos	Taos
+1512-3	http://terminology.hl7.org/CodeSystem/v3-Race	Tesuque	Tesuque
+1513-1	http://terminology.hl7.org/CodeSystem/v3-Race	Tewa	Tewa
+1514-9	http://terminology.hl7.org/CodeSystem/v3-Race	Tigua	Tigua
+1515-6	http://terminology.hl7.org/CodeSystem/v3-Race	Zia	Zia
+1516-4	http://terminology.hl7.org/CodeSystem/v3-Race	Zuni	Zuni
+1518-0	http://terminology.hl7.org/CodeSystem/v3-Race	Puget Sound Salish	Puget Sound Salish
+1519-8	http://terminology.hl7.org/CodeSystem/v3-Race	Duwamish	Duwamish
+1520-6	http://terminology.hl7.org/CodeSystem/v3-Race	Kikiallus	Kikiallus
+1521-4	http://terminology.hl7.org/CodeSystem/v3-Race	Lower Skagit	Lower Skagit
+1522-2	http://terminology.hl7.org/CodeSystem/v3-Race	Muckleshoot	Muckleshoot
+1523-0	http://terminology.hl7.org/CodeSystem/v3-Race	Nisqually	Nisqually
+1524-8	http://terminology.hl7.org/CodeSystem/v3-Race	Nooksack	Nooksack
+1525-5	http://terminology.hl7.org/CodeSystem/v3-Race	Port Madison	Port Madison
+1526-3	http://terminology.hl7.org/CodeSystem/v3-Race	Puyallup	Puyallup
+1527-1	http://terminology.hl7.org/CodeSystem/v3-Race	Samish	Samish
+1528-9	http://terminology.hl7.org/CodeSystem/v3-Race	Sauk-Suiattle	Sauk-Suiattle
+1529-7	http://terminology.hl7.org/CodeSystem/v3-Race	Skokomish	Skokomish
+1530-5	http://terminology.hl7.org/CodeSystem/v3-Race	Skykomish	Skykomish
+1531-3	http://terminology.hl7.org/CodeSystem/v3-Race	Snohomish	Snohomish
+1532-1	http://terminology.hl7.org/CodeSystem/v3-Race	Snoqualmie	Snoqualmie
+1533-9	http://terminology.hl7.org/CodeSystem/v3-Race	Squaxin Island	Squaxin Island
+1534-7	http://terminology.hl7.org/CodeSystem/v3-Race	Steilacoom	Steilacoom
+1535-4	http://terminology.hl7.org/CodeSystem/v3-Race	Stillaguamish	Stillaguamish
+1536-2	http://terminology.hl7.org/CodeSystem/v3-Race	Suquamish	Suquamish
+1537-0	http://terminology.hl7.org/CodeSystem/v3-Race	Swinomish	Swinomish
+1538-8	http://terminology.hl7.org/CodeSystem/v3-Race	Tulalip	Tulalip
+1539-6	http://terminology.hl7.org/CodeSystem/v3-Race	Upper Skagit	Upper Skagit
+1541-2	http://terminology.hl7.org/CodeSystem/v3-Race	Quapaw	Quapaw
+1543-8	http://terminology.hl7.org/CodeSystem/v3-Race	Quinault	Quinault
+1545-3	http://terminology.hl7.org/CodeSystem/v3-Race	Rappahannock	Rappahannock
+1547-9	http://terminology.hl7.org/CodeSystem/v3-Race	Reno-Sparks	Reno-Sparks
+1549-5	http://terminology.hl7.org/CodeSystem/v3-Race	Round Valley	Round Valley
+1551-1	http://terminology.hl7.org/CodeSystem/v3-Race	Sac and Fox	Sac and Fox
+1552-9	http://terminology.hl7.org/CodeSystem/v3-Race	Iowa Sac and Fox	Iowa Sac and Fox
+1553-7	http://terminology.hl7.org/CodeSystem/v3-Race	Missouri Sac and Fox	Missouri Sac and Fox
+1554-5	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Sac and Fox	Oklahoma Sac and Fox
+1556-0	http://terminology.hl7.org/CodeSystem/v3-Race	Salinan	Salinan
+1558-6	http://terminology.hl7.org/CodeSystem/v3-Race	Salish	Salish
+1560-2	http://terminology.hl7.org/CodeSystem/v3-Race	Salish and Kootenai	Salish and Kootenai
+1562-8	http://terminology.hl7.org/CodeSystem/v3-Race	Schaghticoke	Schaghticoke
+1564-4	http://terminology.hl7.org/CodeSystem/v3-Race	Scott Valley	Scott Valley
+1566-9	http://terminology.hl7.org/CodeSystem/v3-Race	Seminole	Seminole
+1567-7	http://terminology.hl7.org/CodeSystem/v3-Race	Big Cypress	Big Cypress
+1568-5	http://terminology.hl7.org/CodeSystem/v3-Race	Brighton	Brighton
+1569-3	http://terminology.hl7.org/CodeSystem/v3-Race	Florida Seminole	Florida Seminole
+1570-1	http://terminology.hl7.org/CodeSystem/v3-Race	Hollywood Seminole	Hollywood Seminole
+1571-9	http://terminology.hl7.org/CodeSystem/v3-Race	Oklahoma Seminole	Oklahoma Seminole
+1573-5	http://terminology.hl7.org/CodeSystem/v3-Race	Serrano	Serrano
+1574-3	http://terminology.hl7.org/CodeSystem/v3-Race	San Manual	San Manual
+1576-8	http://terminology.hl7.org/CodeSystem/v3-Race	Shasta	Shasta
+1578-4	http://terminology.hl7.org/CodeSystem/v3-Race	Shawnee	Shawnee
+1579-2	http://terminology.hl7.org/CodeSystem/v3-Race	Absentee Shawnee	Absentee Shawnee
+1580-0	http://terminology.hl7.org/CodeSystem/v3-Race	Eastern Shawnee	Eastern Shawnee
+1582-6	http://terminology.hl7.org/CodeSystem/v3-Race	Shinnecock	Shinnecock
+1584-2	http://terminology.hl7.org/CodeSystem/v3-Race	Shoalwater Bay	Shoalwater Bay
+1586-7	http://terminology.hl7.org/CodeSystem/v3-Race	Shoshone	Shoshone
+1587-5	http://terminology.hl7.org/CodeSystem/v3-Race	Battle Mountain	Battle Mountain
+1588-3	http://terminology.hl7.org/CodeSystem/v3-Race	Duckwater	Duckwater
+1589-1	http://terminology.hl7.org/CodeSystem/v3-Race	Elko	Elko
+1590-9	http://terminology.hl7.org/CodeSystem/v3-Race	Ely	Ely
+1591-7	http://terminology.hl7.org/CodeSystem/v3-Race	Goshute	Goshute
+1592-5	http://terminology.hl7.org/CodeSystem/v3-Race	Panamint	Panamint
+1593-3	http://terminology.hl7.org/CodeSystem/v3-Race	Ruby Valley	Ruby Valley
+1594-1	http://terminology.hl7.org/CodeSystem/v3-Race	Skull Valley	Skull Valley
+1595-8	http://terminology.hl7.org/CodeSystem/v3-Race	South Fork Shoshone	South Fork Shoshone
+1596-6	http://terminology.hl7.org/CodeSystem/v3-Race	Te-Moak Western Shoshone	Te-Moak Western Shoshone
+1597-4	http://terminology.hl7.org/CodeSystem/v3-Race	Timbi-Sha Shoshone	Timbi-Sha Shoshone
+1598-2	http://terminology.hl7.org/CodeSystem/v3-Race	Washakie	Washakie
+1599-0	http://terminology.hl7.org/CodeSystem/v3-Race	Wind River Shoshone	Wind River Shoshone
+1600-6	http://terminology.hl7.org/CodeSystem/v3-Race	Yomba	Yomba
+1602-2	http://terminology.hl7.org/CodeSystem/v3-Race	Shoshone Paiute	Shoshone Paiute
+1603-0	http://terminology.hl7.org/CodeSystem/v3-Race	Duck Valley	Duck Valley
+1604-8	http://terminology.hl7.org/CodeSystem/v3-Race	Fallon	Fallon
+1605-5	http://terminology.hl7.org/CodeSystem/v3-Race	Fort McDermitt	Fort McDermitt
+1607-1	http://terminology.hl7.org/CodeSystem/v3-Race	Siletz	Siletz
+1609-7	http://terminology.hl7.org/CodeSystem/v3-Race	Sioux	Sioux
+1610-5	http://terminology.hl7.org/CodeSystem/v3-Race	Blackfoot Sioux	Blackfoot Sioux
+1611-3	http://terminology.hl7.org/CodeSystem/v3-Race	Brule Sioux	Brule Sioux
+1612-1	http://terminology.hl7.org/CodeSystem/v3-Race	Cheyenne River Sioux	Cheyenne River Sioux
+1613-9	http://terminology.hl7.org/CodeSystem/v3-Race	Crow Creek Sioux	Crow Creek Sioux
+1614-7	http://terminology.hl7.org/CodeSystem/v3-Race	Dakota Sioux	Dakota Sioux
+1615-4	http://terminology.hl7.org/CodeSystem/v3-Race	Flandreau Santee	Flandreau Santee
+1616-2	http://terminology.hl7.org/CodeSystem/v3-Race	Fort Peck	Fort Peck
+1617-0	http://terminology.hl7.org/CodeSystem/v3-Race	Lake Traverse Sioux	Lake Traverse Sioux
+1618-8	http://terminology.hl7.org/CodeSystem/v3-Race	Lower Brule Sioux	Lower Brule Sioux
+1619-6	http://terminology.hl7.org/CodeSystem/v3-Race	Lower Sioux	Lower Sioux
+1620-4	http://terminology.hl7.org/CodeSystem/v3-Race	Mdewakanton Sioux	Mdewakanton Sioux
+1621-2	http://terminology.hl7.org/CodeSystem/v3-Race	Miniconjou	Miniconjou
+1622-0	http://terminology.hl7.org/CodeSystem/v3-Race	Oglala Sioux	Oglala Sioux
+1623-8	http://terminology.hl7.org/CodeSystem/v3-Race	Pine Ridge Sioux	Pine Ridge Sioux
+1624-6	http://terminology.hl7.org/CodeSystem/v3-Race	Pipestone Sioux	Pipestone Sioux
+1625-3	http://terminology.hl7.org/CodeSystem/v3-Race	Prairie Island Sioux	Prairie Island Sioux
+1626-1	http://terminology.hl7.org/CodeSystem/v3-Race	Prior Lake Sioux	Prior Lake Sioux
+1627-9	http://terminology.hl7.org/CodeSystem/v3-Race	Rosebud Sioux	Rosebud Sioux
+1628-7	http://terminology.hl7.org/CodeSystem/v3-Race	Sans Arc Sioux	Sans Arc Sioux
+1629-5	http://terminology.hl7.org/CodeSystem/v3-Race	Santee Sioux	Santee Sioux
+1630-3	http://terminology.hl7.org/CodeSystem/v3-Race	Sisseton-Wahpeton	Sisseton-Wahpeton
+1631-1	http://terminology.hl7.org/CodeSystem/v3-Race	Sisseton Sioux	Sisseton Sioux
+1632-9	http://terminology.hl7.org/CodeSystem/v3-Race	Spirit Lake Sioux	Spirit Lake Sioux
+1633-7	http://terminology.hl7.org/CodeSystem/v3-Race	Standing Rock Sioux	Standing Rock Sioux
+1634-5	http://terminology.hl7.org/CodeSystem/v3-Race	Teton Sioux	Teton Sioux
+1635-2	http://terminology.hl7.org/CodeSystem/v3-Race	Two Kettle Sioux	Two Kettle Sioux
+1636-0	http://terminology.hl7.org/CodeSystem/v3-Race	Upper Sioux	Upper Sioux
+1637-8	http://terminology.hl7.org/CodeSystem/v3-Race	Wahpekute Sioux	Wahpekute Sioux
+1638-6	http://terminology.hl7.org/CodeSystem/v3-Race	Wahpeton Sioux	Wahpeton Sioux
+1639-4	http://terminology.hl7.org/CodeSystem/v3-Race	Wazhaza Sioux	Wazhaza Sioux
+1640-2	http://terminology.hl7.org/CodeSystem/v3-Race	Yankton Sioux	Yankton Sioux
+1641-0	http://terminology.hl7.org/CodeSystem/v3-Race	Yanktonai Sioux	Yanktonai Sioux
+1643-6	http://terminology.hl7.org/CodeSystem/v3-Race	Siuslaw	Siuslaw
+1645-1	http://terminology.hl7.org/CodeSystem/v3-Race	Spokane	Spokane
+1647-7	http://terminology.hl7.org/CodeSystem/v3-Race	Stewart	Stewart
+1649-3	http://terminology.hl7.org/CodeSystem/v3-Race	Stockbridge	Stockbridge
+1651-9	http://terminology.hl7.org/CodeSystem/v3-Race	Susanville	Susanville
+1653-5	http://terminology.hl7.org/CodeSystem/v3-Race	Tohono O'Odham	Tohono O'Odham
+1654-3	http://terminology.hl7.org/CodeSystem/v3-Race	Ak-Chin	Ak-Chin
+1655-0	http://terminology.hl7.org/CodeSystem/v3-Race	Gila Bend	Gila Bend
+1656-8	http://terminology.hl7.org/CodeSystem/v3-Race	San Xavier	San Xavier
+1657-6	http://terminology.hl7.org/CodeSystem/v3-Race	Sells	Sells
+1659-2	http://terminology.hl7.org/CodeSystem/v3-Race	Tolowa	Tolowa
+1661-8	http://terminology.hl7.org/CodeSystem/v3-Race	Tonkawa	Tonkawa
+1663-4	http://terminology.hl7.org/CodeSystem/v3-Race	Tygh	Tygh
+1665-9	http://terminology.hl7.org/CodeSystem/v3-Race	Umatilla	Umatilla
+1667-5	http://terminology.hl7.org/CodeSystem/v3-Race	Umpqua	Umpqua
+1668-3	http://terminology.hl7.org/CodeSystem/v3-Race	Cow Creek Umpqua	Cow Creek Umpqua
+1670-9	http://terminology.hl7.org/CodeSystem/v3-Race	Ute	Ute
+1671-7	http://terminology.hl7.org/CodeSystem/v3-Race	Allen Canyon	Allen Canyon
+1672-5	http://terminology.hl7.org/CodeSystem/v3-Race	Uintah Ute	Uintah Ute
+1673-3	http://terminology.hl7.org/CodeSystem/v3-Race	Ute Mountain Ute	Ute Mountain Ute
+1675-8	http://terminology.hl7.org/CodeSystem/v3-Race	Wailaki	Wailaki
+1677-4	http://terminology.hl7.org/CodeSystem/v3-Race	Walla-Walla	Walla-Walla
+1679-0	http://terminology.hl7.org/CodeSystem/v3-Race	Wampanoag	Wampanoag
+1680-8	http://terminology.hl7.org/CodeSystem/v3-Race	Gay Head Wampanoag	Gay Head Wampanoag
+1681-6	http://terminology.hl7.org/CodeSystem/v3-Race	Mashpee Wampanoag	Mashpee Wampanoag
+1683-2	http://terminology.hl7.org/CodeSystem/v3-Race	Warm Springs	Warm Springs
+1685-7	http://terminology.hl7.org/CodeSystem/v3-Race	Wascopum	Wascopum
+1687-3	http://terminology.hl7.org/CodeSystem/v3-Race	Washoe	Washoe
+1688-1	http://terminology.hl7.org/CodeSystem/v3-Race	Alpine	Alpine
+1689-9	http://terminology.hl7.org/CodeSystem/v3-Race	Carson	Carson
+1690-7	http://terminology.hl7.org/CodeSystem/v3-Race	Dresslerville	Dresslerville
+1692-3	http://terminology.hl7.org/CodeSystem/v3-Race	Wichita	Wichita
+1694-9	http://terminology.hl7.org/CodeSystem/v3-Race	Wind River	Wind River
+1696-4	http://terminology.hl7.org/CodeSystem/v3-Race	Winnebago	Winnebago
+1697-2	http://terminology.hl7.org/CodeSystem/v3-Race	Ho-chunk	Ho-chunk
+1698-0	http://terminology.hl7.org/CodeSystem/v3-Race	Nebraska Winnebago	Nebraska Winnebago
+1700-4	http://terminology.hl7.org/CodeSystem/v3-Race	Winnemucca	Winnemucca
+1702-0	http://terminology.hl7.org/CodeSystem/v3-Race	Wintun	Wintun
+1704-6	http://terminology.hl7.org/CodeSystem/v3-Race	Wiyot	Wiyot
+1705-3	http://terminology.hl7.org/CodeSystem/v3-Race	Table Bluff	Table Bluff
+1707-9	http://terminology.hl7.org/CodeSystem/v3-Race	Yakama	Yakama
+1709-5	http://terminology.hl7.org/CodeSystem/v3-Race	Yakama Cowlitz	Yakama Cowlitz
+1711-1	http://terminology.hl7.org/CodeSystem/v3-Race	Yaqui	Yaqui
+1712-9	http://terminology.hl7.org/CodeSystem/v3-Race	Barrio Libre	Barrio Libre
+1713-7	http://terminology.hl7.org/CodeSystem/v3-Race	Pascua Yaqui	Pascua Yaqui
+1715-2	http://terminology.hl7.org/CodeSystem/v3-Race	Yavapai Apache	Yavapai Apache
+1717-8	http://terminology.hl7.org/CodeSystem/v3-Race	Yokuts	Yokuts
+1718-6	http://terminology.hl7.org/CodeSystem/v3-Race	Chukchansi	Chukchansi
+1719-4	http://terminology.hl7.org/CodeSystem/v3-Race	Tachi	Tachi
+1720-2	http://terminology.hl7.org/CodeSystem/v3-Race	Tule River	Tule River
+1722-8	http://terminology.hl7.org/CodeSystem/v3-Race	Yuchi	Yuchi
+1724-4	http://terminology.hl7.org/CodeSystem/v3-Race	Yuman	Yuman
+1725-1	http://terminology.hl7.org/CodeSystem/v3-Race	Cocopah	Cocopah
+1726-9	http://terminology.hl7.org/CodeSystem/v3-Race	Havasupai	Havasupai
+1727-7	http://terminology.hl7.org/CodeSystem/v3-Race	Hualapai	Hualapai
+1728-5	http://terminology.hl7.org/CodeSystem/v3-Race	Maricopa	Maricopa
+1729-3	http://terminology.hl7.org/CodeSystem/v3-Race	Mohave	Mohave
+1730-1	http://terminology.hl7.org/CodeSystem/v3-Race	Quechan	Quechan
+1731-9	http://terminology.hl7.org/CodeSystem/v3-Race	Yavapai	Yavapai
+1732-7	http://terminology.hl7.org/CodeSystem/v3-Race	Yurok	Yurok
+1733-5	http://terminology.hl7.org/CodeSystem/v3-Race	Coast Yurok	Coast Yurok
+1735-0	http://terminology.hl7.org/CodeSystem/v3-Race	Alaska Native	Alaska Native
+1737-6	http://terminology.hl7.org/CodeSystem/v3-Race	Alaska Indian	Alaska Indian
+1739-2	http://terminology.hl7.org/CodeSystem/v3-Race	Alaskan Athabascan	Alaskan Athabascan
+1740-0	http://terminology.hl7.org/CodeSystem/v3-Race	Ahtna	Ahtna
+1811-9	http://terminology.hl7.org/CodeSystem/v3-Race	Southeast Alaska	Southeast Alaska
+1813-5	http://terminology.hl7.org/CodeSystem/v3-Race	Tlingit-Haida	Tlingit-Haida
+1814-3	http://terminology.hl7.org/CodeSystem/v3-Race	Angoon	Angoon
+1815-0	http://terminology.hl7.org/CodeSystem/v3-Race	Central Council of Tlingit and Haida Tribes	Central Council of Tlingit and Haida Tribes
+1816-8	http://terminology.hl7.org/CodeSystem/v3-Race	Chilkat	Chilkat
+1817-6	http://terminology.hl7.org/CodeSystem/v3-Race	Chilkoot	Chilkoot
+1818-4	http://terminology.hl7.org/CodeSystem/v3-Race	Craig	Craig
+1819-2	http://terminology.hl7.org/CodeSystem/v3-Race	Douglas	Douglas
+1820-0	http://terminology.hl7.org/CodeSystem/v3-Race	Haida	Haida
+1821-8	http://terminology.hl7.org/CodeSystem/v3-Race	Hoonah	Hoonah
+1822-6	http://terminology.hl7.org/CodeSystem/v3-Race	Hydaburg	Hydaburg
+1823-4	http://terminology.hl7.org/CodeSystem/v3-Race	Kake	Kake
+1824-2	http://terminology.hl7.org/CodeSystem/v3-Race	Kasaan	Kasaan
+1825-9	http://terminology.hl7.org/CodeSystem/v3-Race	Kenaitze	Kenaitze
+1826-7	http://terminology.hl7.org/CodeSystem/v3-Race	Ketchikan	Ketchikan
+1827-5	http://terminology.hl7.org/CodeSystem/v3-Race	Klawock	Klawock
+1828-3	http://terminology.hl7.org/CodeSystem/v3-Race	Pelican	Pelican
+1829-1	http://terminology.hl7.org/CodeSystem/v3-Race	Petersburg	Petersburg
+1830-9	http://terminology.hl7.org/CodeSystem/v3-Race	Saxman	Saxman
+1831-7	http://terminology.hl7.org/CodeSystem/v3-Race	Sitka	Sitka
+1832-5	http://terminology.hl7.org/CodeSystem/v3-Race	Tenakee Springs	Tenakee Springs
+1833-3	http://terminology.hl7.org/CodeSystem/v3-Race	Tlingit	Tlingit
+1834-1	http://terminology.hl7.org/CodeSystem/v3-Race	Wrangell	Wrangell
+1835-8	http://terminology.hl7.org/CodeSystem/v3-Race	Yakutat	Yakutat
+1837-4	http://terminology.hl7.org/CodeSystem/v3-Race	Tsimshian	Tsimshian
+1838-2	http://terminology.hl7.org/CodeSystem/v3-Race	Metlakatla	Metlakatla
+1840-8	http://terminology.hl7.org/CodeSystem/v3-Race	Eskimo	Eskimo
+1842-4	http://terminology.hl7.org/CodeSystem/v3-Race	Greenland Eskimo	Greenland Eskimo
+1844-0	http://terminology.hl7.org/CodeSystem/v3-Race	Inupiat Eskimo	Inupiat Eskimo
+1845-7	http://terminology.hl7.org/CodeSystem/v3-Race	Ambler	Ambler
+1846-5	http://terminology.hl7.org/CodeSystem/v3-Race	Anaktuvuk	Anaktuvuk
+1847-3	http://terminology.hl7.org/CodeSystem/v3-Race	Anaktuvuk Pass	Anaktuvuk Pass
+1848-1	http://terminology.hl7.org/CodeSystem/v3-Race	Arctic Slope Inupiat	Arctic Slope Inupiat
+1849-9	http://terminology.hl7.org/CodeSystem/v3-Race	Arctic Slope Corporation	Arctic Slope Corporation
+1850-7	http://terminology.hl7.org/CodeSystem/v3-Race	Atqasuk	Atqasuk
+1851-5	http://terminology.hl7.org/CodeSystem/v3-Race	Barrow	Barrow
+1852-3	http://terminology.hl7.org/CodeSystem/v3-Race	Bering Straits Inupiat	Bering Straits Inupiat
+1853-1	http://terminology.hl7.org/CodeSystem/v3-Race	Brevig Mission	Brevig Mission
+1854-9	http://terminology.hl7.org/CodeSystem/v3-Race	Buckland	Buckland
+1855-6	http://terminology.hl7.org/CodeSystem/v3-Race	Chinik	Chinik
+1856-4	http://terminology.hl7.org/CodeSystem/v3-Race	Council	Council
+1857-2	http://terminology.hl7.org/CodeSystem/v3-Race	Deering	Deering
+1858-0	http://terminology.hl7.org/CodeSystem/v3-Race	Elim	Elim
+1859-8	http://terminology.hl7.org/CodeSystem/v3-Race	Golovin	Golovin
+1860-6	http://terminology.hl7.org/CodeSystem/v3-Race	Inalik Diomede	Inalik Diomede
+1861-4	http://terminology.hl7.org/CodeSystem/v3-Race	Inupiaq	Inupiaq
+1862-2	http://terminology.hl7.org/CodeSystem/v3-Race	Kaktovik	Kaktovik
+1863-0	http://terminology.hl7.org/CodeSystem/v3-Race	Kawerak	Kawerak
+1864-8	http://terminology.hl7.org/CodeSystem/v3-Race	Kiana	Kiana
+1865-5	http://terminology.hl7.org/CodeSystem/v3-Race	Kivalina	Kivalina
+1866-3	http://terminology.hl7.org/CodeSystem/v3-Race	Kobuk	Kobuk
+1867-1	http://terminology.hl7.org/CodeSystem/v3-Race	Kotzebue	Kotzebue
+1868-9	http://terminology.hl7.org/CodeSystem/v3-Race	Koyuk	Koyuk
+1869-7	http://terminology.hl7.org/CodeSystem/v3-Race	Kwiguk	Kwiguk
+1870-5	http://terminology.hl7.org/CodeSystem/v3-Race	Mauneluk Inupiat	Mauneluk Inupiat
+1871-3	http://terminology.hl7.org/CodeSystem/v3-Race	Nana Inupiat	Nana Inupiat
+1872-1	http://terminology.hl7.org/CodeSystem/v3-Race	Noatak	Noatak
+1873-9	http://terminology.hl7.org/CodeSystem/v3-Race	Nome	Nome
+1874-7	http://terminology.hl7.org/CodeSystem/v3-Race	Noorvik	Noorvik
+1875-4	http://terminology.hl7.org/CodeSystem/v3-Race	Nuiqsut	Nuiqsut
+1876-2	http://terminology.hl7.org/CodeSystem/v3-Race	Point Hope	Point Hope
+1877-0	http://terminology.hl7.org/CodeSystem/v3-Race	Point Lay	Point Lay
+1878-8	http://terminology.hl7.org/CodeSystem/v3-Race	Selawik	Selawik
+1879-6	http://terminology.hl7.org/CodeSystem/v3-Race	Shaktoolik	Shaktoolik
+1880-4	http://terminology.hl7.org/CodeSystem/v3-Race	Shishmaref	Shishmaref
+1881-2	http://terminology.hl7.org/CodeSystem/v3-Race	Shungnak	Shungnak
+1882-0	http://terminology.hl7.org/CodeSystem/v3-Race	Solomon	Solomon
+1883-8	http://terminology.hl7.org/CodeSystem/v3-Race	Teller	Teller
+1884-6	http://terminology.hl7.org/CodeSystem/v3-Race	Unalakleet	Unalakleet
+1885-3	http://terminology.hl7.org/CodeSystem/v3-Race	Wainwright	Wainwright
+1886-1	http://terminology.hl7.org/CodeSystem/v3-Race	Wales	Wales
+1887-9	http://terminology.hl7.org/CodeSystem/v3-Race	White Mountain	White Mountain
+1888-7	http://terminology.hl7.org/CodeSystem/v3-Race	White Mountain Inupiat	White Mountain Inupiat
+1889-5	http://terminology.hl7.org/CodeSystem/v3-Race	Mary's Igloo	Mary's Igloo
+1891-1	http://terminology.hl7.org/CodeSystem/v3-Race	Siberian Eskimo	Siberian Eskimo
+1892-9	http://terminology.hl7.org/CodeSystem/v3-Race	Gambell	Gambell
+1893-7	http://terminology.hl7.org/CodeSystem/v3-Race	Savoonga	Savoonga
+1894-5	http://terminology.hl7.org/CodeSystem/v3-Race	Siberian Yupik	Siberian Yupik
+1896-0	http://terminology.hl7.org/CodeSystem/v3-Race	Yupik Eskimo	Yupik Eskimo
+1897-8	http://terminology.hl7.org/CodeSystem/v3-Race	Akiachak	Akiachak
+1898-6	http://terminology.hl7.org/CodeSystem/v3-Race	Akiak	Akiak
+1899-4	http://terminology.hl7.org/CodeSystem/v3-Race	Alakanuk	Alakanuk
+1900-0	http://terminology.hl7.org/CodeSystem/v3-Race	Aleknagik	Aleknagik
+1901-8	http://terminology.hl7.org/CodeSystem/v3-Race	Andreafsky	Andreafsky
+1902-6	http://terminology.hl7.org/CodeSystem/v3-Race	Aniak	Aniak
+1903-4	http://terminology.hl7.org/CodeSystem/v3-Race	Atmautluak	Atmautluak
+1904-2	http://terminology.hl7.org/CodeSystem/v3-Race	Bethel	Bethel
+1905-9	http://terminology.hl7.org/CodeSystem/v3-Race	Bill Moore's Slough	Bill Moore's Slough
+1906-7	http://terminology.hl7.org/CodeSystem/v3-Race	Bristol Bay Yupik	Bristol Bay Yupik
+1907-5	http://terminology.hl7.org/CodeSystem/v3-Race	Calista Yupik	Calista Yupik
+1908-3	http://terminology.hl7.org/CodeSystem/v3-Race	Chefornak	Chefornak
+1909-1	http://terminology.hl7.org/CodeSystem/v3-Race	Chevak	Chevak
+1910-9	http://terminology.hl7.org/CodeSystem/v3-Race	Chuathbaluk	Chuathbaluk
+1911-7	http://terminology.hl7.org/CodeSystem/v3-Race	Clark's Point	Clark's Point
+1912-5	http://terminology.hl7.org/CodeSystem/v3-Race	Crooked Creek	Crooked Creek
+1913-3	http://terminology.hl7.org/CodeSystem/v3-Race	Dillingham	Dillingham
+1914-1	http://terminology.hl7.org/CodeSystem/v3-Race	Eek	Eek
+1915-8	http://terminology.hl7.org/CodeSystem/v3-Race	Ekuk	Ekuk
+1916-6	http://terminology.hl7.org/CodeSystem/v3-Race	Ekwok	Ekwok
+1917-4	http://terminology.hl7.org/CodeSystem/v3-Race	Emmonak	Emmonak
+1918-2	http://terminology.hl7.org/CodeSystem/v3-Race	Goodnews Bay	Goodnews Bay
+1919-0	http://terminology.hl7.org/CodeSystem/v3-Race	Hooper Bay	Hooper Bay
+1920-8	http://terminology.hl7.org/CodeSystem/v3-Race	Iqurmuit (Russian Mission)	Iqurmuit (Russian Mission)
+1921-6	http://terminology.hl7.org/CodeSystem/v3-Race	Kalskag	Kalskag
+1922-4	http://terminology.hl7.org/CodeSystem/v3-Race	Kasigluk	Kasigluk
+1923-2	http://terminology.hl7.org/CodeSystem/v3-Race	Kipnuk	Kipnuk
+1924-0	http://terminology.hl7.org/CodeSystem/v3-Race	Koliganek	Koliganek
+1925-7	http://terminology.hl7.org/CodeSystem/v3-Race	Kongiganak	Kongiganak
+1926-5	http://terminology.hl7.org/CodeSystem/v3-Race	Kotlik	Kotlik
+1927-3	http://terminology.hl7.org/CodeSystem/v3-Race	Kwethluk	Kwethluk
+1928-1	http://terminology.hl7.org/CodeSystem/v3-Race	Kwigillingok	Kwigillingok
+1929-9	http://terminology.hl7.org/CodeSystem/v3-Race	Levelock	Levelock
+1930-7	http://terminology.hl7.org/CodeSystem/v3-Race	Lower Kalskag	Lower Kalskag
+1931-5	http://terminology.hl7.org/CodeSystem/v3-Race	Manokotak	Manokotak
+1932-3	http://terminology.hl7.org/CodeSystem/v3-Race	Marshall	Marshall
+1933-1	http://terminology.hl7.org/CodeSystem/v3-Race	Mekoryuk	Mekoryuk
+1934-9	http://terminology.hl7.org/CodeSystem/v3-Race	Mountain Village	Mountain Village
+1935-6	http://terminology.hl7.org/CodeSystem/v3-Race	Naknek	Naknek
+1936-4	http://terminology.hl7.org/CodeSystem/v3-Race	Napaumute	Napaumute
+1937-2	http://terminology.hl7.org/CodeSystem/v3-Race	Napakiak	Napakiak
+1938-0	http://terminology.hl7.org/CodeSystem/v3-Race	Napaskiak	Napaskiak
+1939-8	http://terminology.hl7.org/CodeSystem/v3-Race	Newhalen	Newhalen
+1940-6	http://terminology.hl7.org/CodeSystem/v3-Race	New Stuyahok	New Stuyahok
+1941-4	http://terminology.hl7.org/CodeSystem/v3-Race	Newtok	Newtok
+1942-2	http://terminology.hl7.org/CodeSystem/v3-Race	Nightmute	Nightmute
+1943-0	http://terminology.hl7.org/CodeSystem/v3-Race	Nunapitchukv	Nunapitchukv
+1944-8	http://terminology.hl7.org/CodeSystem/v3-Race	Oscarville	Oscarville
+1945-5	http://terminology.hl7.org/CodeSystem/v3-Race	Pilot Station	Pilot Station
+1946-3	http://terminology.hl7.org/CodeSystem/v3-Race	Pitkas Point	Pitkas Point
+1947-1	http://terminology.hl7.org/CodeSystem/v3-Race	Platinum	Platinum
+1948-9	http://terminology.hl7.org/CodeSystem/v3-Race	Portage Creek	Portage Creek
+1949-7	http://terminology.hl7.org/CodeSystem/v3-Race	Quinhagak	Quinhagak
+1950-5	http://terminology.hl7.org/CodeSystem/v3-Race	Red Devil	Red Devil
+1951-3	http://terminology.hl7.org/CodeSystem/v3-Race	St. Michael	St. Michael
+1952-1	http://terminology.hl7.org/CodeSystem/v3-Race	Scammon Bay	Scammon Bay
+1953-9	http://terminology.hl7.org/CodeSystem/v3-Race	Sheldon's Point	Sheldon's Point
+1954-7	http://terminology.hl7.org/CodeSystem/v3-Race	Sleetmute	Sleetmute
+1955-4	http://terminology.hl7.org/CodeSystem/v3-Race	Stebbins	Stebbins
+1956-2	http://terminology.hl7.org/CodeSystem/v3-Race	Togiak	Togiak
+1957-0	http://terminology.hl7.org/CodeSystem/v3-Race	Toksook	Toksook
+1958-8	http://terminology.hl7.org/CodeSystem/v3-Race	Tulukskak	Tulukskak
+1959-6	http://terminology.hl7.org/CodeSystem/v3-Race	Tuntutuliak	Tuntutuliak
+1960-4	http://terminology.hl7.org/CodeSystem/v3-Race	Tununak	Tununak
+1961-2	http://terminology.hl7.org/CodeSystem/v3-Race	Twin Hills	Twin Hills
+1962-0	http://terminology.hl7.org/CodeSystem/v3-Race	Georgetown	Georgetown
+1963-8	http://terminology.hl7.org/CodeSystem/v3-Race	St. Mary's	St. Mary's
+1964-6	http://terminology.hl7.org/CodeSystem/v3-Race	Umkumiate	Umkumiate
+1966-1	http://terminology.hl7.org/CodeSystem/v3-Race	Aleut	Aleut
+1968-7	http://terminology.hl7.org/CodeSystem/v3-Race	Alutiiq Aleut	Alutiiq Aleut
+1969-5	http://terminology.hl7.org/CodeSystem/v3-Race	Tatitlek	Tatitlek
+1970-3	http://terminology.hl7.org/CodeSystem/v3-Race	Ugashik	Ugashik
+1972-9	http://terminology.hl7.org/CodeSystem/v3-Race	Bristol Bay Aleut	Bristol Bay Aleut
+1973-7	http://terminology.hl7.org/CodeSystem/v3-Race	Chignik	Chignik
+1974-5	http://terminology.hl7.org/CodeSystem/v3-Race	Chignik Lake	Chignik Lake
+1975-2	http://terminology.hl7.org/CodeSystem/v3-Race	Egegik	Egegik
+1976-0	http://terminology.hl7.org/CodeSystem/v3-Race	Igiugig	Igiugig
+1977-8	http://terminology.hl7.org/CodeSystem/v3-Race	Ivanof Bay	Ivanof Bay
+1978-6	http://terminology.hl7.org/CodeSystem/v3-Race	King Salmon	King Salmon
+1979-4	http://terminology.hl7.org/CodeSystem/v3-Race	Kokhanok	Kokhanok
+1980-2	http://terminology.hl7.org/CodeSystem/v3-Race	Perryville	Perryville
+1981-0	http://terminology.hl7.org/CodeSystem/v3-Race	Pilot Point	Pilot Point
+1982-8	http://terminology.hl7.org/CodeSystem/v3-Race	Port Heiden	Port Heiden
+1984-4	http://terminology.hl7.org/CodeSystem/v3-Race	Chugach Aleut	Chugach Aleut
+1985-1	http://terminology.hl7.org/CodeSystem/v3-Race	Chenega	Chenega
+1986-9	http://terminology.hl7.org/CodeSystem/v3-Race	Chugach Corporation	Chugach Corporation
+1987-7	http://terminology.hl7.org/CodeSystem/v3-Race	English Bay	English Bay
+1988-5	http://terminology.hl7.org/CodeSystem/v3-Race	Port Graham	Port Graham
+1990-1	http://terminology.hl7.org/CodeSystem/v3-Race	Eyak	Eyak
+1992-7	http://terminology.hl7.org/CodeSystem/v3-Race	Koniag Aleut	Koniag Aleut
+1993-5	http://terminology.hl7.org/CodeSystem/v3-Race	Akhiok	Akhiok
+1994-3	http://terminology.hl7.org/CodeSystem/v3-Race	Agdaagux	Agdaagux
+1995-0	http://terminology.hl7.org/CodeSystem/v3-Race	Karluk	Karluk
+1996-8	http://terminology.hl7.org/CodeSystem/v3-Race	Kodiak	Kodiak
+1997-6	http://terminology.hl7.org/CodeSystem/v3-Race	Larsen Bay	Larsen Bay
+1998-4	http://terminology.hl7.org/CodeSystem/v3-Race	Old Harbor	Old Harbor
+1999-2	http://terminology.hl7.org/CodeSystem/v3-Race	Ouzinkie	Ouzinkie
+2000-8	http://terminology.hl7.org/CodeSystem/v3-Race	Port Lions	Port Lions
+2002-4	http://terminology.hl7.org/CodeSystem/v3-Race	Sugpiaq	Sugpiaq
+2004-0	http://terminology.hl7.org/CodeSystem/v3-Race	Suqpigaq	Suqpigaq
+2006-5	http://terminology.hl7.org/CodeSystem/v3-Race	Unangan Aleut	Unangan Aleut
+2007-3	http://terminology.hl7.org/CodeSystem/v3-Race	Akutan	Akutan
+2008-1	http://terminology.hl7.org/CodeSystem/v3-Race	Aleut Corporation	Aleut Corporation
+2009-9	http://terminology.hl7.org/CodeSystem/v3-Race	Aleutian	Aleutian
+2010-7	http://terminology.hl7.org/CodeSystem/v3-Race	Aleutian Islander	Aleutian Islander
+2011-5	http://terminology.hl7.org/CodeSystem/v3-Race	Atka	Atka
+2012-3	http://terminology.hl7.org/CodeSystem/v3-Race	Belkofski	Belkofski
+2013-1	http://terminology.hl7.org/CodeSystem/v3-Race	Chignik Lagoon	Chignik Lagoon
+2014-9	http://terminology.hl7.org/CodeSystem/v3-Race	King Cove	King Cove
+2015-6	http://terminology.hl7.org/CodeSystem/v3-Race	False Pass	False Pass
+2016-4	http://terminology.hl7.org/CodeSystem/v3-Race	Nelson Lagoon	Nelson Lagoon
+2017-2	http://terminology.hl7.org/CodeSystem/v3-Race	Nikolski	Nikolski
+2018-0	http://terminology.hl7.org/CodeSystem/v3-Race	Pauloff Harbor	Pauloff Harbor
+2019-8	http://terminology.hl7.org/CodeSystem/v3-Race	Qagan Toyagungin	Qagan Toyagungin
+2020-6	http://terminology.hl7.org/CodeSystem/v3-Race	Qawalangin	Qawalangin
+2021-4	http://terminology.hl7.org/CodeSystem/v3-Race	St. George	St. George
+2022-2	http://terminology.hl7.org/CodeSystem/v3-Race	St. Paul	St. Paul
+2023-0	http://terminology.hl7.org/CodeSystem/v3-Race	Sand Point	Sand Point
+2024-8	http://terminology.hl7.org/CodeSystem/v3-Race	South Naknek	South Naknek
+2025-5	http://terminology.hl7.org/CodeSystem/v3-Race	Unalaska	Unalaska
+2026-3	http://terminology.hl7.org/CodeSystem/v3-Race	Unga	Unga
+2028-9	http://terminology.hl7.org/CodeSystem/v3-Race	Asian	Asian
+2029-7	http://terminology.hl7.org/CodeSystem/v3-Race	Asian Indian	Asian Indian
+2030-5	http://terminology.hl7.org/CodeSystem/v3-Race	Bangladeshi	Bangladeshi
+2031-3	http://terminology.hl7.org/CodeSystem/v3-Race	Bhutanese	Bhutanese
+2032-1	http://terminology.hl7.org/CodeSystem/v3-Race	Burmese	Burmese
+2033-9	http://terminology.hl7.org/CodeSystem/v3-Race	Cambodian	Cambodian
+2034-7	http://terminology.hl7.org/CodeSystem/v3-Race	Chinese	Chinese
+2035-4	http://terminology.hl7.org/CodeSystem/v3-Race	Taiwanese	Taiwanese
+2036-2	http://terminology.hl7.org/CodeSystem/v3-Race	Filipino	Filipino
+2037-0	http://terminology.hl7.org/CodeSystem/v3-Race	Hmong	Hmong
+2038-8	http://terminology.hl7.org/CodeSystem/v3-Race	Indonesian	Indonesian
+2039-6	http://terminology.hl7.org/CodeSystem/v3-Race	Japanese	Japanese
+2040-4	http://terminology.hl7.org/CodeSystem/v3-Race	Korean	Korean
+2041-2	http://terminology.hl7.org/CodeSystem/v3-Race	Laotian	Laotian
+2042-0	http://terminology.hl7.org/CodeSystem/v3-Race	Malaysian	Malaysian
+2043-8	http://terminology.hl7.org/CodeSystem/v3-Race	Okinawan	Okinawan
+2044-6	http://terminology.hl7.org/CodeSystem/v3-Race	Pakistani	Pakistani
+2045-3	http://terminology.hl7.org/CodeSystem/v3-Race	Sri Lankan	Sri Lankan
+2046-1	http://terminology.hl7.org/CodeSystem/v3-Race	Thai	Thai
+2047-9	http://terminology.hl7.org/CodeSystem/v3-Race	Vietnamese	Vietnamese
+2048-7	http://terminology.hl7.org/CodeSystem/v3-Race	Iwo Jiman	Iwo Jiman
+2049-5	http://terminology.hl7.org/CodeSystem/v3-Race	Maldivian	Maldivian
+2050-3	http://terminology.hl7.org/CodeSystem/v3-Race	Nepalese	Nepalese
+2051-1	http://terminology.hl7.org/CodeSystem/v3-Race	Singaporean	Singaporean
+2052-9	http://terminology.hl7.org/CodeSystem/v3-Race	Madagascar	Madagascar
+2054-5	http://terminology.hl7.org/CodeSystem/v3-Race	Black or African American	Black or African American
+2056-0	http://terminology.hl7.org/CodeSystem/v3-Race	Black	Black
+2058-6	http://terminology.hl7.org/CodeSystem/v3-Race	African American	African American
+2060-2	http://terminology.hl7.org/CodeSystem/v3-Race	African	African
+2061-0	http://terminology.hl7.org/CodeSystem/v3-Race	Botswanan	Botswanan
+2062-8	http://terminology.hl7.org/CodeSystem/v3-Race	Ethiopian	Ethiopian
+2063-6	http://terminology.hl7.org/CodeSystem/v3-Race	Liberian	Liberian
+2064-4	http://terminology.hl7.org/CodeSystem/v3-Race	Namibian	Namibian
+2065-1	http://terminology.hl7.org/CodeSystem/v3-Race	Nigerian	Nigerian
+2066-9	http://terminology.hl7.org/CodeSystem/v3-Race	Zairean	Zairean
+2067-7	http://terminology.hl7.org/CodeSystem/v3-Race	Bahamian	Bahamian
+2068-5	http://terminology.hl7.org/CodeSystem/v3-Race	Barbadian	Barbadian
+2069-3	http://terminology.hl7.org/CodeSystem/v3-Race	Dominican	Dominican
+2070-1	http://terminology.hl7.org/CodeSystem/v3-Race	Dominica Islander	Dominica Islander
+2071-9	http://terminology.hl7.org/CodeSystem/v3-Race	Haitian	Haitian
+2072-7	http://terminology.hl7.org/CodeSystem/v3-Race	Jamaican	Jamaican
+2073-5	http://terminology.hl7.org/CodeSystem/v3-Race	Tobagoan	Tobagoan
+2074-3	http://terminology.hl7.org/CodeSystem/v3-Race	Trinidadian	Trinidadian
+2075-0	http://terminology.hl7.org/CodeSystem/v3-Race	West Indian	West Indian
+2076-8	http://terminology.hl7.org/CodeSystem/v3-Race	Native Hawaiian or Other Pacific Islander	Native Hawaiian or Other Pacific Islander
+2078-4	http://terminology.hl7.org/CodeSystem/v3-Race	Polynesian	Polynesian
+2079-2	http://terminology.hl7.org/CodeSystem/v3-Race	Native Hawaiian	Native Hawaiian
+2080-0	http://terminology.hl7.org/CodeSystem/v3-Race	Samoan	Samoan
+2081-8	http://terminology.hl7.org/CodeSystem/v3-Race	Tahitian	Tahitian
+2082-6	http://terminology.hl7.org/CodeSystem/v3-Race	Tongan	Tongan
+2083-4	http://terminology.hl7.org/CodeSystem/v3-Race	Tokelauan	Tokelauan
+2085-9	http://terminology.hl7.org/CodeSystem/v3-Race	Micronesian	Micronesian
+2086-7	http://terminology.hl7.org/CodeSystem/v3-Race	Guamanian or Chamorro	Guamanian or Chamorro
+2087-5	http://terminology.hl7.org/CodeSystem/v3-Race	Guamanian	Guamanian
+2088-3	http://terminology.hl7.org/CodeSystem/v3-Race	Chamorro	Chamorro
+2089-1	http://terminology.hl7.org/CodeSystem/v3-Race	Mariana Islander	Mariana Islander
+2090-9	http://terminology.hl7.org/CodeSystem/v3-Race	Marshallese	Marshallese
+2091-7	http://terminology.hl7.org/CodeSystem/v3-Race	Palauan	Palauan
+2092-5	http://terminology.hl7.org/CodeSystem/v3-Race	Carolinian	Carolinian
+2093-3	http://terminology.hl7.org/CodeSystem/v3-Race	Kosraean	Kosraean
+2094-1	http://terminology.hl7.org/CodeSystem/v3-Race	Pohnpeian	Pohnpeian
+2095-8	http://terminology.hl7.org/CodeSystem/v3-Race	Saipanese	Saipanese
+2096-6	http://terminology.hl7.org/CodeSystem/v3-Race	Kiribati	Kiribati
+2097-4	http://terminology.hl7.org/CodeSystem/v3-Race	Chuukese	Chuukese
+2098-2	http://terminology.hl7.org/CodeSystem/v3-Race	Yapese	Yapese
+2100-6	http://terminology.hl7.org/CodeSystem/v3-Race	Melanesian	Melanesian
+2101-4	http://terminology.hl7.org/CodeSystem/v3-Race	Fijian	Fijian
+2102-2	http://terminology.hl7.org/CodeSystem/v3-Race	Papua New Guinean	Papua New Guinean
+2103-0	http://terminology.hl7.org/CodeSystem/v3-Race	Solomon Islander	Solomon Islander
+2104-8	http://terminology.hl7.org/CodeSystem/v3-Race	New Hebrides	New Hebrides
+2500-7	http://terminology.hl7.org/CodeSystem/v3-Race	Other Pacific Islander	Note that this term remains in the table for completeness, even though within HL7, the notion of Other code is deprecated.
+2106-3	http://terminology.hl7.org/CodeSystem/v3-Race	White	White
+2108-9	http://terminology.hl7.org/CodeSystem/v3-Race	European	European
+2109-7	http://terminology.hl7.org/CodeSystem/v3-Race	Armenian	Armenian
+2110-5	http://terminology.hl7.org/CodeSystem/v3-Race	English	English
+2111-3	http://terminology.hl7.org/CodeSystem/v3-Race	French	French
+2112-1	http://terminology.hl7.org/CodeSystem/v3-Race	German	German
+2113-9	http://terminology.hl7.org/CodeSystem/v3-Race	Irish	Irish
+2114-7	http://terminology.hl7.org/CodeSystem/v3-Race	Italian	Italian
+2115-4	http://terminology.hl7.org/CodeSystem/v3-Race	Polish	Polish
+2116-2	http://terminology.hl7.org/CodeSystem/v3-Race	Scottish	Scottish
+2118-8	http://terminology.hl7.org/CodeSystem/v3-Race	Middle Eastern or North African	Middle Eastern or North African
+2119-6	http://terminology.hl7.org/CodeSystem/v3-Race	Assyrian	Assyrian
+2120-4	http://terminology.hl7.org/CodeSystem/v3-Race	Egyptian	Egyptian
+2121-2	http://terminology.hl7.org/CodeSystem/v3-Race	Iranian	Iranian
+2122-0	http://terminology.hl7.org/CodeSystem/v3-Race	Iraqi	Iraqi
+2123-8	http://terminology.hl7.org/CodeSystem/v3-Race	Lebanese	Lebanese
+2124-6	http://terminology.hl7.org/CodeSystem/v3-Race	Palestinian	Palestinian
+2125-3	http://terminology.hl7.org/CodeSystem/v3-Race	Syrian	Syrian
+2126-1	http://terminology.hl7.org/CodeSystem/v3-Race	Afghanistani	Afghanistani
+2127-9	http://terminology.hl7.org/CodeSystem/v3-Race	Israeili	Israeili
+2129-5	http://terminology.hl7.org/CodeSystem/v3-Race	Arab	Arab
+2131-1	http://terminology.hl7.org/CodeSystem/v3-Race	Other Race	Note that this term remains in the table for completeness, even though within HL7, the notion of Other code is deprecated.
+248153007	http://snomed.info/sct	Male	
+248152002	http://snomed.info/sct	Female	
+77386006	http://snomed.info/sct	Pregnancy confirmed	

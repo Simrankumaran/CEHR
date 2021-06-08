@@ -1,0 +1,4 @@
+Code	Display	Definition	Canonical Status
+active	Active	The medication is available for use.	~active
+inactive	Inactive	The medication is not available for use.	~inactive
+entered-in-error	Entered in Error	The medication was entered in error.	~error
